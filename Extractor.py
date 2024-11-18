@@ -8,6 +8,7 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
+
 for file in os.listdir(os.getcwd()):
     if file[len(file)-3:len(file)] == 'pdf':
     # if file == 'ErgoHestia_2023.pdf':
@@ -67,6 +68,7 @@ for file in os.listdir(os.getcwd()):
         for i in range(len(tables)):
             df = tables[i]
             if groups[i] == 'S.02.01.02':
+                # to z jakiej firmy pochodzą sprawdzam na podstawie kodów zmiennych z R na początku
                 if (df.where(df == 'R0010').notnull().sum().sum() == 0
                         and df.where(df == 'R0500').notnull().sum().sum() > 0
                         and df.where(df == 'R0900').notnull().sum().sum() > 0):
@@ -87,10 +89,13 @@ for file in os.listdir(os.getcwd()):
                     df.columns = ['Nazwa', 'Kod', 'C0010']
                     to_drop = []
                     for k in range(len(df)):
+                        # wywalam jeśli są puste
                         if type(df.iloc[k, 1]) != str:
                             to_drop.append(k)
+                        # wywalam jeśli są puste (to samo ale jeśli to string)
                         elif df.iloc[k, 1] == '':
                             to_drop.append(k)
+                        # wywalam jeśli są niepuste ale nie są kodem zmiennej zaczynającym się na R
                         elif df.iloc[k, 1][0] != 'R':
                             to_drop.append(k)
                     df = df.drop(to_drop)
@@ -116,6 +121,8 @@ for file in os.listdir(os.getcwd()):
                             to_drop.append(k)
                         elif df.iloc[k, 1] == '':
                             to_drop.append(k)
+                        # tu jeszcze wywalam część zmiennych, jeśli domyślnie tabela ma mieć podzielona na więcej części
+                        # dzielimy zgodnie z tym co jest w Solvency II od strony nr. 6
                         elif int(df.iloc[k, 1][1:5]) > 1300 or df.iloc[k, 1][0] != 'R':
                             to_drop.append(k)
                     df_temp = df.drop(to_drop).reset_index(drop=True)
@@ -136,7 +143,6 @@ for file in os.listdir(os.getcwd()):
                             df_temp = df_temp.drop(df.columns[k], axis=1)
                         df_temp.columns = ['Nazwa', 'Kod', 'C0210', 'C0220', 'C0230', 'C0240', 'C0250', 'C0260',
                                            'C0270', 'C0280', 'C0300']
-                        print(df_temp)
                 elif (df.where(df == 'R0300').notnull().sum().sum() > 0
                       and df.where(df == 'R0110').notnull().sum().sum() > 0
                       and df.where(df == 'C0010').notnull().sum().sum() > 0):
@@ -152,6 +158,10 @@ for file in os.listdir(os.getcwd()):
                     df_temp = tables[i + 2]
                     df_temp2 = tables[i + 1]
                     df_temp3 = tables[i + 3]
+                    groups[i] = ''
+                    groups[i+1] = ''
+                    groups[i+2] = ''
+                    groups[i+3] = ''
                     to_drop = []
                     for k in range(len(df_temp)):
                         if type(df_temp.iloc[k, 1]) != str:
@@ -196,6 +206,12 @@ for file in os.listdir(os.getcwd()):
                     df_temp3 = tables[i + 4]
                     df_temp4 = tables[i + 5]
                     df_temp5 = tables[i + 6]
+                    groups[i] = ''
+                    groups[i + 1] = ''
+                    groups[i + 2] = ''
+                    groups[i + 4] = ''
+                    groups[i + 5] = ''
+                    groups[i + 6] = ''
                     to_drop = []
                     for k in range(len(df)):
                         if type(df.iloc[k, 1]) != str:
