@@ -10,7 +10,11 @@ pd.set_option('display.width', 1000)
 
 
 for file in os.listdir(os.getcwd()):
+    if file != 'PZU_2023.pdf':
+        continue
+    print(file)
     if file[len(file)-3:len(file)] == 'pdf':
+
     # if file == 'ErgoHestia_2023.pdf':
         doc = pymupdf.open(file)
         first = 0
@@ -65,8 +69,13 @@ for file in os.listdir(os.getcwd()):
         # dyskretne sprawdzenia z jakiej firmy są tabele (z tym że jest szansa, że jak wleci totalnie nowa firma to
         # i tak ekstraktor sobie poradzi. Potem żmudny preprocessing (nazwy kolumn, wywalenie niepotrzebnych wierszy,
         # połaczenie/podzielenie tabel).
+
+        # print(tables[3])
+
+
         for i in range(len(tables)):
             df = tables[i]
+
             if groups[i] == 'S.02.01.02':
                 # to z jakiej firmy pochodzą sprawdzam na podstawie kodów zmiennych z R na początku
                 if (df.where(df == 'R0010').notnull().sum().sum() == 0
@@ -84,6 +93,7 @@ for file in os.listdir(os.getcwd()):
                             to_drop.append(k)
                     df = df.drop(to_drop).reset_index(drop=True)
                     groups[i] = ''
+                    print(df)
                 else:
                     # S.02.01.02 - podzielone
                     df.columns = ['Nazwa', 'Kod', 'C0010']
@@ -100,7 +110,11 @@ for file in os.listdir(os.getcwd()):
                             to_drop.append(k)
                     df = df.drop(to_drop)
                     groups[i] = ''
+
                     df_temp = tables[i+1]
+
+
+
                     df_temp.columns = ['Nazwa', 'Kod', 'C0010']
                     to_drop = []
                     for k in range(len(df_temp)):
@@ -113,7 +127,9 @@ for file in os.listdir(os.getcwd()):
                     df_temp = df_temp.drop(to_drop)
                     groups[i+1] = ''
                     df = pd.concat([df, df_temp]).reset_index(drop=True)
+
             elif groups[i] == 'S.05.01.02':
+                print(groups[i])
                 if df.where(df == 'R1300').notnull().sum().sum() > 0 and df.where(df == 'R0110').notnull().sum().sum() > 0:
                     to_drop = []
                     for k in range(len(df)):
@@ -255,4 +271,5 @@ for file in os.listdir(os.getcwd()):
                     df_temp = pd.concat([df_temp, df_temp4], axis=1)
                     df_temp2 = pd.concat([df_temp2, df_temp5], axis=1)
                     df = pd.concat([df, df_temp, df_temp2]).reset_index(drop=True)
+
         doc.close()
