@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="931cc992-7ed8-4256-9327-13b941f8929f" name="Changes" comment="Requirements">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="931cc992-7ed8-4256-9327-13b941f8929f" name="Changes" comment="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extractor20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +26,13 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Ssa096&quot;
+    &quot;assignee&quot;: &quot;MajshiJD&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Ssa096/PZ.git&quot;,
-    &quot;accountId&quot;: &quot;06b0a3c4-da7c-4847-808b-d001205d01e3&quot;
+    &quot;accountId&quot;: &quot;04c6d8d0-195d-4bd6-b0c7-ea2f82e4ee8b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -49,15 +47,29 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Extractor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Extractor20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Extractor30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Transformer.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mchec\PycharmProjects\PZ\Allianz_2022" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -69,31 +81,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730493612439</updated>
+      <workItem from="1731604223817" duration="704000" />
+      <workItem from="1731605593688" duration="7118000" />
+      <workItem from="1731940609584" duration="9141000" />
+      <workItem from="1731954613138" duration="608000" />
+      <workItem from="1731969492105" duration="1785000" />
+      <workItem from="1731971304396" duration="4270000" />
+      <workItem from="1731975619272" duration="675000" />
+      <workItem from="1732028287230" duration="1009000" />
     </task>
-    <task id="LOCAL-00001" summary="Requirements">
+    <task id="LOCAL-00001" summary="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull">
       <option name="closed" value="true" />
-      <created>1730494249509</created>
+      <created>1731975534874</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1730494249509</updated>
+      <updated>1731975534874</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Requirements" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;Extractor.py" />
+    <MESSAGE value="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PZ$Extractor.coverage" NAME="Extractor Coverage Results" MODIFIED="1731939554818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZ$Extractor30.coverage" NAME="Extractor30 Coverage Results" MODIFIED="1731945877763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZ$Transformer.coverage" NAME="Transformer Coverage Results" MODIFIED="1731973031534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZ$Extractor20.coverage" NAME="Extractor20 Coverage Results" MODIFIED="1732028314603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

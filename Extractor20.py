@@ -12,7 +12,7 @@ pd.set_option('display.width', 1000)
 
 
 for file in os.listdir(os.getcwd()):
-    if file != 'ErgoHestia_2022.pdf':
+    if file != 'Generali_2023.pdf':
         continue
     if file[len(file)-3:len(file)] != 'pdf':
         continue
