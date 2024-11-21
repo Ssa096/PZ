@@ -1,0 +1,33 @@
+,,,C0010,C0020,C0030,C0040,C0050
+0,Kapitał zakładowy (wraz z akcjami własnymi),R0010,191 000,191 000,0,0,0
+1,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,R0030,0,0,0,0,0
+2,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",R0040,0,0,0,0,0
+3,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",R0050,0,0,0,0,0
+4,Fundusze nadwyżkowe,R0070,0,0,0,0,0
+5,Akcje uprzywilejowane,R0090,0,0,0,0,0
+6,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,R0110,0,0,0,0,0
+7,Rezerwa uzgodnieniowa,R0130,650 773,650 773,0,0,0
+8,Zobowiązania podporządkowane,R0140,99 688,0,0,99 688,0
+9,Kwota odpowiadająca wartości aktywów netto z tytułu odroczonego podatku dochodowego,R0160,0,0,0,0,0
+10,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej Środki własne ze sprawozdań finansowych, które nie",R0180,0,0,0,0,0
+11,"Środki własne ze sprawozdań finansowych, które nie powinny być uwzględnione w rezerwie uzgodnieniowej i nie spełniają kryteriów klasyfikacji jako środki własne wg Wypłacalność II",R0220,0,0,0,0,0
+12,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,R0230,0,0,0,0,0
+13,Podstawowe środki własne ogółem po odliczeniach,R0290,941 460,841 773,0,99 688,0
+14,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",R0300,0,0,0,0,0
+15,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",R0310,0,0,0,0,0
+16,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",R0320,0,0,0,0,0
+17,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,R0330,0,0,0,0,0
+18,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,R0340,0,0,0,0,0
+19,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,R0350,0,0,0,0,0
+20,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,R0360,0,0,0,0,0
+21,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,R0370,0,0,0,0,0
+22,Pozostałe uzupełniające środki własne,R0390,0,0,0,0,0
+23,Uzupełniające środki własne ogółem,R0400,0,0,0,0,0
+24,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),R0500,941 460,841 773,0,99 688,0
+25,Kwota dostępnych środków własnych na pokrycie MCR,R0510,941 460,841 773,0,99 688,0
+26,Kwota dopuszczonych środków własnych na pokrycie SCR,R0540,941 460,841 773,0,99 688,0
+27,Kwota dopuszczonych środków własnych na pokrycie MCR,R0550,881 713,841 773,0,39 940,0
+28,SCR,R0580,443 783,0,0,0,0
+29,MCR,R0600,199 702,0,0,0,0
+30,Stosunek dopuszczonych środków własnych do SCR,R0620,212%,0,0,0,0
+31,Stosunek dopuszczonych środków własnych do MCR,R0640,442%,0,0,0,0
