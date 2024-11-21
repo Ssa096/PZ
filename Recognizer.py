@@ -1,5 +1,5 @@
 import pandas as pd
-from Transformer import remove_empty_rows, delete_needless_rows
+from Transformer import remove_empty_rows, delete_needless_rows, remove_rows_without_code
 
 
 def find_S020102(tables):
@@ -32,12 +32,8 @@ def find_S020102(tables):
             first_column_filtered = first_column.dropna()
             second_column_filtered = second_column.dropna()
             if name.lower() in first_column_filtered.values and R_code in second_column_filtered.values:
-
-                return extract_data(df, 'R0030', 'R1000', 'C0010')
-
-
-
-
+                df = extract_data(df, 'R0030', 'R1000', 'C0010')
+            return remove_rows_without_code(df)
     return None
 
 def find_S050102(tables):
@@ -53,10 +49,10 @@ def find_S050102(tables):
     :param C_code: Nazwa kolumny w tabeli.
     :return: Znaleziona tabela (DataFrame) lub None, jeśli nie znaleziono.
     """
-    name = 'Brutto – Reasekuracja czynna proporcjonalna'
+    # name = 'Brutto – Reasekuracja czynna proporcjonalna'
     R_code = 'R0120'
     C_code = 'C0010'
-
+    keywords = ["Brutto", "Reasekuracja", "proporcjonalna"]
 
     for index, df in enumerate(tables):
         # Sprawdzanie nazw kolumn z uwzględnieniem wielkości liter
@@ -69,9 +65,18 @@ def find_S050102(tables):
 
             first_column_filtered = first_column.dropna()
             second_column_filtered = second_column.dropna()
-            if name.lower() in first_column_filtered.values and R_code in second_column_filtered.values:
-                return extract_data(df, 'R0110', 'R1300', 'C0200')
 
+            # Funkcja sprawdzająca obecność wszystkich słów kluczowych
+            def contains_keywords(value):
+                if isinstance(value, str):
+                    value_lower = value.lower()
+                    return all(keyword.lower() in value_lower for keyword in keywords)
+                return False
+
+            # Sprawdzanie, czy w pierwszej kolumnie znajdują się słowa kluczowe
+            if any(first_column_filtered.apply(contains_keywords)) and R_code in second_column_filtered.values:
+                df = extract_data(df, 'R0110', 'R1300', 'C0200')
+                return remove_rows_without_code(df)
     return None
 
 def find_S190121(tables):
@@ -87,22 +92,24 @@ def find_S190121(tables):
     :param C_code: Nazwa kolumny w tabeli.
     :return: Znaleziona tabela (DataFrame) lub None, jeśli nie znaleziono.
     """
-    name = 'N-9'
+    name_1 = 'N-9'
+    name_2 = 'n–9'
     R_code = 'R0160'
     C_code = 'C0010'
-
 
     for index, df in enumerate(tables):
 
         if C_code in df.columns:
-
             first_column = df.iloc[:, 0].apply(lambda x: str(x).lower() if isinstance(x, str) else x)
             second_column = df.iloc[:, 1] if len(df.columns) > 1 else []
 
             first_column_filtered = first_column.dropna()
             second_column_filtered = second_column.dropna()
-            if name.lower() in first_column_filtered.values and R_code in second_column_filtered.values:
-                return extract_data(df, 'R0100', 'R0250', 'C0100')
+
+            if (
+                    name_1.lower() in first_column_filtered.values or name_2.lower() in first_column_filtered.values) and R_code in second_column_filtered.values:
+                df = extract_data(df, 'R0100', 'R0250', 'C0100')
+                return remove_rows_without_code(df)
 
 
     return None
@@ -137,7 +144,8 @@ def find_S230101(tables):
             first_column_filtered = first_column.dropna()
             second_column_filtered = second_column.dropna()
             if name.lower() in first_column_filtered.values and R_code in second_column_filtered.values:
-                return extract_data(df, 'R0010', 'R0640', 'C0050')
+                df = extract_data(df, 'R0010', 'R0640', 'C0050')
+                return remove_rows_without_code(df)
 
     return None
 
@@ -176,7 +184,7 @@ def find_S190121_by_rows(df, column_index=0, context_rows=3):
 
     Args:
         df (pd.DataFrame): DataFrame do przeszukania.
-        column_index (int): Indeks kolumny, w której szukana jest sekwencja (domyślnie 1).
+        column_index (int): Indeks kolumny, w której szukana jest sekwencja (domyślnie 0).
         context_rows (int): Liczba wierszy do pobrania przed początkiem sekwencji.
     Returns:
         list: Lista DataFrame'ów zawierających wiersze z sekwencją.
@@ -189,7 +197,6 @@ def find_S190121_by_rows(df, column_index=0, context_rows=3):
     for i in range(len(df) - len(sequence) + 1):
         # Wyodrębnienie potencjalnej sekwencji
         potential_sequence = df.iloc[i:i + len(sequence), column_index]
-
         # Sprawdzenie, czy sekwencja pasuje
         if list(potential_sequence) == sequence:
             # Ustal indeks początkowy z uwzględnieniem wierszy kontekstowych

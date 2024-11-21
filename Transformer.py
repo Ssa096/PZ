@@ -323,3 +323,20 @@ def remove_empty_rows(df):
     """
     clean_df = df.replace('', pd.NA)
     return clean_df.dropna(how='all')
+
+
+import pandas as pd
+import re
+import numpy as np
+
+
+def remove_rows_without_code(df):
+    """
+    Usuwa wiersze z DataFrame, w których w drugiej kolumnie nie ma kodu w formacie 'R' i cztery cyfry (R\d{4}).
+
+    :param df: DataFrame do przefiltrowania
+    :return: Przefiltrowany DataFrame
+    """
+    pattern = r'^R\d{4}$'
+    filtered_df = df[df.iloc[:, 1].astype(str).str.match(pattern, na=False)]
+    return filtered_df

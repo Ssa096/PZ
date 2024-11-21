@@ -18,7 +18,7 @@ pd.set_option('display.width', 1000)
 
 
 for file in os.listdir(os.getcwd()):
-    if file != 'Generali_2023.pdf':
+    if file != 'ErgoHestia_2018.pdf':
         continue
     if file[len(file)-3:len(file)] != 'pdf':
         continue
@@ -68,7 +68,7 @@ for file in os.listdir(os.getcwd()):
 
         dane = []
         # #Przejdź przez każdą stronę PDF
-
+        first = first - 4
         for page in pdf.pages[first:]:
 
             # Wyciągnij tabele z bieżącej strony
@@ -89,8 +89,9 @@ for file in os.listdir(os.getcwd()):
 # print(df)
 
 
-
+print(df)
 tables = process_and_merge_tables(df)
+
 tables = split_by_regex(tables)
 tables = merge_tables_col(tables)
 for i in range(len(tables)):
@@ -99,24 +100,24 @@ for i in range(len(tables)):
     print('#####')
     print(tables[i])
     print('#####')
+
     # print('#####')
     # print(znajdz_i_usun_nad(tables[i]))
 
-S190121_table = Recognizer.find_S190121_by_rows(df)
+# S190121_table = Recognizer.find_S190121_by_rows(df)
+
+# print(S190121_table)
 
 
-S190121_table.to_csv('Done2/Generali_2023_S190121.csv')
+# S190121_table.to_csv('Done2/Generali_2023_S190121.csv')
 
 
 print(Recognizer.find_S020102(tables))
-print(Recognizer.find_S050102(tables))
-# print(Recognizer.find_S190121_by_rows(tables))
-print(Recognizer.find_S230101(tables))
+# print(Recognizer.find_S050102(tables))
+# print(Recognizer.find_S190121(tables))
+# print(Recognizer.find_S230101(tables))
 
-# Recognizer.find_S020102(tables).to_csv('Done2/Generali_2023_S020102.csv')
-# Recognizer.find_S050102(tables).to_csv('Done2/Generali_2023_S050102.csv')
-# # Recognizer.find_S190121(tables).to_csv('Done2/Generali_2023_S190121.csv')
-# Recognizer.find_S230101(tables).to_csv('Done2/Generali_2023_S230101.csv')
-
-
-
+# Recognizer.find_S020102(tables).to_csv('Done2/ErgoHestia_2018_S020102.csv')
+# Recognizer.find_S050102(tables).to_csv('Done2/ErgoHestia_2019_S050102.csv')
+# Recognizer.find_S190121(tables).to_csv('Done2/ErgoHestia_2019_S190121.csv')
+# Recognizer.find_S230101(tables).to_csv('Done2/ErgoHestia_2019_S230101.csv')
