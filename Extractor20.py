@@ -1,18 +1,24 @@
 import os
+from heapq import merge
+from os import remove
 
 import pdfplumber
 import pandas as pd
 import pymupdf
 import re
 import Transformer
-from Transformer import process_and_merge_tables
+from Recognizer import find_S190121
+from Transformer import process_and_merge_tables, delete_needless_rows, split_by_regex, clean_tables_headers, \
+    merge_tables_col, remove_empty_rows
+import Recognizer
+
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
 
 for file in os.listdir(os.getcwd()):
-    if file != 'Generali_2023.pdf':
+    if file != 'ErgoHestia_2018.pdf':
         continue
     if file[len(file)-3:len(file)] != 'pdf':
         continue
@@ -62,7 +68,7 @@ for file in os.listdir(os.getcwd()):
 
         dane = []
         # #Przejdź przez każdą stronę PDF
-
+        first = first - 4
         for page in pdf.pages[first:]:
 
             # Wyciągnij tabele z bieżącej strony
@@ -80,13 +86,38 @@ for file in os.listdir(os.getcwd()):
 
     new_file_name = file.replace(".pdf", ".xlsx")
 
+# print(df)
 
+
+print(df)
 tables = process_and_merge_tables(df)
+
+tables = split_by_regex(tables)
+tables = merge_tables_col(tables)
 for i in range(len(tables)):
     print('#####')
     print(i)
     print('#####')
     print(tables[i])
+    print('#####')
+
+    # print('#####')
+    # print(znajdz_i_usun_nad(tables[i]))
+
+# S190121_table = Recognizer.find_S190121_by_rows(df)
+
+# print(S190121_table)
 
 
+# S190121_table.to_csv('Done2/Generali_2023_S190121.csv')
 
+
+print(Recognizer.find_S020102(tables))
+# print(Recognizer.find_S050102(tables))
+# print(Recognizer.find_S190121(tables))
+# print(Recognizer.find_S230101(tables))
+
+# Recognizer.find_S020102(tables).to_csv('Done2/ErgoHestia_2018_S020102.csv')
+# Recognizer.find_S050102(tables).to_csv('Done2/ErgoHestia_2019_S050102.csv')
+# Recognizer.find_S190121(tables).to_csv('Done2/ErgoHestia_2019_S190121.csv')
+# Recognizer.find_S230101(tables).to_csv('Done2/ErgoHestia_2019_S230101.csv')

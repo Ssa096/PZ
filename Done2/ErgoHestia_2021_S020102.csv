@@ -1,0 +1,81 @@
+,,,C0010
+0,Wartości niematerialne i prawne,R0030,0
+1,Aktywa z tytułu odroczonego podatku dochodowego,R0040,0
+2,Nadwyżka na funduszu świadczeń emerytalnych,R0050,0
+3,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",R0060,474 043
+4,"Lokaty (inne niż aktywa ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",R0070,9 457 436
+5,Nieruchomości (inne niż do użytku własnego),R0080,14 521
+6,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",R0090,153 373
+7,Akcje i udziały,R0100,0
+8,Akcje i udziały – notowane,R0110,0
+9,Akcje i udziały – nienotowane,R0120,0
+10,Obligacje,R0130,8 975 434
+11,Obligacje państwowe,R0140,8 834 385
+12,Obligacje korporacyjne,R0150,141 049
+13,Strukturyzowane papiery wartościowe,R0160,0
+14,Zabezpieczone papiery wartościowe,R0170,0
+15,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,R0180,172 629
+16,Instrumenty pochodne,R0190,0
+17,Depozyty inne niż ekwiwalenty środków pieniężnych,R0200,141 480
+18,Pozostałe lokaty,R0210,0
+19,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",R0220,0
+20,Pożyczki i pożyczki zabezpieczone hipotecznie,R0230,52 293
+21,Pożyczki pod zastaw polisy,R0240,0
+22,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,R0250,0
+23,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,R0260,52 293
+24,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z ubezpieczeń:,R0270,804 544
+25,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,R0280,643 794
+26,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,R0290,643 163
+27,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,R0300,632
+28,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",R0310,160 750
+29,Zdrowotnych o charakterze ubezpieczeń na życie,R0320,0
+30,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",R0330,160 750
+31,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",R0340,0
+32,Depozyty u cedentów,R0350,0
+33,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,R0360,218 413
+34,Należności z tytułu reasekuracji biernej,R0370,0
+35,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",R0380,54 468
+36,Akcje własne (posiadane bezpośrednio),R0390,0
+37,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",R0400,0
+38,Środki pieniężne i ekwiwalenty środków pieniężnych,R0410,3 504
+39,Pozostałe aktywa (niewykazane w innych pozycjach),R0420,125 192
+40,Aktywa ogółem,R0500,11 189 895
+41,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,R0510,6 428 908
+42,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),R0520,6 370 466
+43,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,R0530,0
+44,Najlepsze oszacowanie,R0540,6 259 912
+45,Margines ryzyka,R0550,110 554
+46,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),R0560,58 443
+47,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,R0570,0
+48,Najlepsze oszacowanie,R0580,57 378
+49,Margines ryzyka,R0590,1 064
+50,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",R0600,802 092
+51,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),R0610,0
+52,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,R0620,0
+53,Najlepsze oszacowanie,R0630,0
+54,Margines ryzyka,R0640,0
+55,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",R0650,802 092
+56,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,R0660,0
+57,Najlepsze oszacowanie,R0670,766 662
+58,Margines ryzyka,R0680,35 430
+59,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia związane z ubezpieczeniowym funduszem kapitałowym",R0690,0
+60,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,R0700,0
+61,Najlepsze oszacowanie,R0710,0
+62,Margines ryzyka,R0720,0
+63,Zobowiązania warunkowe,R0740,0
+64,Pozostałe rezerwy (inne niż techniczno–ubezpieczeniowe),R0750,61 955
+65,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,R0760,3 432
+66,Zobowiązania z tytułu depozytów zakładów reasekuracji,R0770,0
+67,Rezerwy z tytułu odroczonego podatku dochodowego,R0780,370 347
+68,Instrumenty pochodne,R0790,0
+69,Zobowiązania wobec instytucji kredytowych,R0800,0
+70,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,R0810,233 844
+71,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,R0820,461
+72,Zobowiązania z tytułu reasekuracji biernej,R0830,0
+73,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",R0840,233 438
+74,Zobowiązania podporządkowane,R0850,388 699
+75,Zobowiązania podporządkowane niewłączone do BOF,R0860,0
+76,Zobowiązania podporządkowane włączone do BOF,R0870,388 699
+77,Pozostałe zobowiązania (niewykazane w innych pozycjach),R0880,113 867
+78,Zobowiązania ogółem,R0900,8 637 043
+79,Nadwyżka aktywów nad zobowiązaniami,R1000,2 552 852

@@ -1,0 +1,30 @@
+,,,C0010,C0020,C0030,C0040,C0050
+0,Kapitał zakładowy (wraz z akcjami własnymi),R0010,191 000,191 000,0,0,0
+1,Nadwyżka ze sprzedaży akcji powyżej ich warto(cid:286)ci nominalnej związana z kapitałem zakładowym,R0030,0,0,0,0,0
+2,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych (cid:286)rodków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemno(cid:286)ci",R0040,0,0,0,0,0
+3,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemno(cid:286)ci",R0050,0,0,0,0,0
+4,Fundusze nadwyżkowe,R0070,0,0,0,0,0
+5,Akcje uprzywilejowane,R0090,0,0,0,0,0
+6,Nadwyżka ze sprzedaży akcji powyżej ich warto(cid:286)ci nominalnej związana z akcjami uprzywilejowanymi,R0110,0,0,0,0,0
+7,Rezerwa uzgodnieniowa,R0130,751 966,751 966,0,0,0
+8,Zobowiązania podporządkowane,R0140,100 042,0,0,100 042,0
+9,Kwota odpowiadająca warto(cid:286)ci aktywów netto z tytułu odroczonego podatku dochodowego,R0160,0,0,0,0,0
+10,"Pozostałe pozycje (cid:286)rodków własnych zatwierdzone przez organ nadzoru jako podstawowe (cid:286)rodki własne, niewymienione powyżej (cid:285)rodki własne ze sprawozdań finansowych, które nie",R0180,0,0,0,0,0
+11,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",R0300,0,0,0,0,0
+12,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych (cid:286)rodków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemno(cid:286)ci, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",R0310,0,0,0,0,0
+13,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",R0320,0,0,0,0,0
+14,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,R0330,0,0,0,0,0
+15,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,R0340,0,0,0,0,0
+16,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,R0350,0,0,0,0,0
+17,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,R0360,0,0,0,0,0
+18,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,R0370,0,0,0,0,0
+19,Pozostałe uzupełniające (cid:286)rodki własne,R0390,0,0,0,0,0
+20,Uzupełniające (cid:286)rodki własne ogółem,R0400,0,0,0,0,0
+21,Kwota dostępnych (cid:286)rodków własnych na pokrycie kapitałowego wymogu wypłacalno(cid:286)ci (SCR),R0500,1 043 007,942 966,0,100 042,0
+22,Kwota dostępnych (cid:286)rodków własnych na pokrycie MCR,R0510,1 043 007,942 966,0,100 042,0
+23,Kwota dopuszczonych (cid:286)rodków własnych na pokrycie SCR,R0540,1 043 007,942 966,0,100 042,0
+24,Kwota dopuszczonych (cid:286)rodków własnych na pokrycie MCR,R0550,987 520,942 966,0,44 555,0
+25,SCR,R0580,495 054,0,0,0,0
+26,MCR,R0600,222 774,0,0,0,0
+27,Stosunek dopuszczonych (cid:286)rodków własnych do SCR,R0620,211%,"0,00","0,00","0,00","0,00"
+28,Stosunek dopuszczonych (cid:286)rodków własnych do MCR,R0640,443%,"0,00","0,00","0,00","0,00"

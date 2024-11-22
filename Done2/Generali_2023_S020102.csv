@@ -1,0 +1,81 @@
+,,,C0010
+0,Warto(cid:286)ci niematerialne i prawne,R0030,0
+1,Aktywa z tytułu odroczonego podatku dochodowego,R0040,0
+2,Nadwyżka na funduszu (cid:286)wiadczeń emerytalnych,R0050,0
+3,"Nieruchomo(cid:286)ci, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",R0060,96 114
+4,"Lokaty (inne niż aktywa posiadane z tytułu ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",R0070,3 970 816
+5,Nieruchomo(cid:286)ci (inne niż do użytku własnego),R0080,0
+6,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",R0090,249 096
+7,Akcje i udziały,R0100,18 789
+8,Akcje i udziały – notowane,R0110,122
+9,Akcje i udziały – nienotowane,R0120,18 667
+10,Obligacje,R0130,3 443 609
+11,Obligacje państwowe,R0140,3 065 102
+12,Obligacje korporacyjne,R0150,378 508
+13,Strukturyzowane papiery warto(cid:286)ciowe,R0160,0
+14,Zabezpieczone papiery warto(cid:286)ciowe,R0170,0
+15,Przedsiębiorstwa zbiorowego inwestowania,R0180,182 575
+16,Instrumenty pochodne,R0190,4 808
+17,Depozyty inne niż ekwiwalenty (cid:286)rodków pieniężnych,R0200,71 939
+18,Pozostałe lokaty,R0210,0
+19,"Aktywa posiadane z tytułu ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",R0220,0
+20,Pożyczki i pożyczki zabezpieczone hipotecznie,R0230,0
+21,Pożyczki pod zastaw polisy,R0240,0
+22,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,R0250,0
+23,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,R0260,0
+24,Kwoty należne z umów reasekuracji z tytułuŚ,R0270,1 245 124
+25,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,R0280,1 036 185
+26,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,R0290,1 013 292
+27,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,R0300,22 893
+28,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",R0310,208 939
+29,Zdrowotnych o charakterze ubezpieczeń na życie,R0320,0
+30,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",R0330,208 939
+31,"Ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",R0340,0
+32,Depozyty u cedentów,R0350,0
+33,Należno(cid:286)ci z tytułu ubezpieczeń i od po(cid:286)redników ubezpieczeniowych,R0360,132 184
+34,Należno(cid:286)ci z tytułu reasekuracji biernej,R0370,392 030
+35,"Pozostałe należno(cid:286)ci (handlowe, inne niż z działalno(cid:286)ci ubezpieczeniowej)",R0380,30 596
+36,Akcje własne (posiadane bezpo(cid:286)rednio),R0390,0
+37,"Kwoty należne w odniesieniu do pozycji (cid:286)rodków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone.",R0400,0
+38,(cid:285)rodki pieniężne i ich ekwiwalenty,R0410,44 836
+39,Pozostałe aktywa (niewykazane w innych pozycjach),R0420,8 458
+40,Aktywa ogółem,R0500,5 920 157
+41,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,R0510,2 919 864
+42,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),R0520,2 823 924
+43,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,R0530,0
+44,Najlepsze oszacowanie,R0540,2 691 772
+45,Margines ryzyka,R0550,132 152
+46,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),R0560,95 940
+47,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,R0570,0
+48,Najlepsze oszacowanie,R0580,94 019
+49,Margines ryzyka,R0590,1 921
+50,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",R0600,544 069
+51,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),R0610,0
+52,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,R0620,0
+53,Najlepsze oszacowanie,R0630,0
+54,Margines ryzyka,R0640,0
+55,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",R0650,544 069
+56,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,R0660,0
+57,Najlepsze oszacowanie,R0670,525 320
+58,Margines ryzyka,R0680,18 749
+59,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",R0690,0
+60,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,R0700,0
+61,Najlepsze oszacowanie,R0710,0
+62,Margines ryzyka,R0720,0
+63,Zobowiązania warunkowe,R0740,0
+64,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),R0750,38 556
+65,Zobowiązania z tytułu (cid:286)wiadczeń emerytalnych dla pracowników,R0760,2 081
+66,Zobowiązania z tytułu depozytów zakładów reasekuracji,R0770,0
+67,Rezerwy z tytułu odroczonego podatku dochodowego,R0780,5 158
+68,Instrumenty pochodne,R0790,219
+69,Zobowiązania wobec instytucji kredytowych,R0800,0
+70,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,R0810,56 045
+71,Zobowiązania z tytułu ubezpieczeń i wobec po(cid:286)redników ubezpieczeniowych,R0820,287 993
+72,Zobowiązania z tytułu reasekuracji biernej,R0830,847 466
+73,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalno(cid:286)ci ubezpieczeniowej)",R0840,27 751
+74,Zobowiązania podporządkowane,R0850,102 454
+75,Zobowiązania podporządkowane nieuwzględnione w podstawowych (cid:286)rodkach własnych,R0860,2 561
+76,Zobowiązania podporządkowane uwzględnione w podstawowych (cid:286)rodkach własnych,R0870,99 892
+77,Pozostałe zobowiązania (niewykazane w innych pozycjach),R0880,53 591
+78,Zobowiązania ogółem,R0900,4 885 248
+79,Nadwyżka aktywów nad zobowiązaniami,R1000,1 034 910

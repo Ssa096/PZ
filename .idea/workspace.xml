@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="931cc992-7ed8-4256-9327-13b941f8929f" name="Changes" comment="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull">
+    <list default="true" id="931cc992-7ed8-4256-9327-13b941f8929f" name="Changes" comment="Commit 3:&#10;- Generalli - zrobione raporty&#10;- dodanie metod do transformera&#10;- dodanie Recognizer.py - pliku z metodami do identyfikowania tabel po charakterystycznych wierszach i kolumnach, pliku do identyfikacji S190121 po wierszach w tabeli wynikowej(tbh obiecujący sposób - można rozważyć bardziej) i do przycinania tabel do potrzebnych nam danych&#10;&#10;Do zrobienia - jakiś opis pipelinów żeby wszystko móc ładnie spiąć w działające narzędzie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extractor20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Transformer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
     &quot;Python.Extractor.executor&quot;: &quot;Run&quot;,
     &quot;Python.Extractor20.executor&quot;: &quot;Run&quot;,
     &quot;Python.Extractor30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Recognizer.executor&quot;: &quot;Run&quot;,
     &quot;Python.Transformer.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -62,6 +65,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mchec\PycharmProjects\PZ\Done_csv" />
       <recent name="C:\Users\mchec\PycharmProjects\PZ\Allianz_2022" />
     </key>
   </component>
@@ -88,7 +92,11 @@
       <workItem from="1731969492105" duration="1785000" />
       <workItem from="1731971304396" duration="4270000" />
       <workItem from="1731975619272" duration="675000" />
-      <workItem from="1732028287230" duration="1009000" />
+      <workItem from="1732028287230" duration="6956000" />
+      <workItem from="1732056222476" duration="11898000" />
+      <workItem from="1732112160832" duration="526000" />
+      <workItem from="1732118068519" duration="11340000" />
+      <workItem from="1732209668604" duration="3911000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull">
       <option name="closed" value="true" />
@@ -98,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731975534874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull">
+      <option name="closed" value="true" />
+      <created>1732029525545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029525545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit 3:&#10;- Generalli - zrobione raporty&#10;- dodanie metod do transformera&#10;- dodanie Recognizer.py - pliku z metodami do identyfikowania tabel po charakterystycznych wierszach i kolumnach, pliku do identyfikacji S190121 po wierszach w tabeli wynikowej(tbh obiecujący sposób - można rozważyć bardziej) i do przycinania tabel do potrzebnych nam danych&#10;&#10;Do zrobienia - jakiś opis pipelinów żeby wszystko móc ładnie spiąć w działające narzędzie">
+      <option name="closed" value="true" />
+      <created>1732147303599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732147303599</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,12 +131,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;Extractor.py" />
     <MESSAGE value="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 1/2 Transformer working for ergohestia2023 and 2022, Allianz2023(kinda). Still need cleaning but generally is pretty succesfull" />
+    <MESSAGE value="Commit 3:&#10;- Generalli - zrobione raporty&#10;- dodanie metod do transformera&#10;- dodanie Recognizer.py - pliku z metodami do identyfikowania tabel po charakterystycznych wierszach i kolumnach, pliku do identyfikacji S190121 po wierszach w tabeli wynikowej(tbh obiecujący sposób - można rozważyć bardziej) i do przycinania tabel do potrzebnych nam danych&#10;&#10;Do zrobienia - jakiś opis pipelinów żeby wszystko móc ładnie spiąć w działające narzędzie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 3:&#10;- Generalli - zrobione raporty&#10;- dodanie metod do transformera&#10;- dodanie Recognizer.py - pliku z metodami do identyfikowania tabel po charakterystycznych wierszach i kolumnach, pliku do identyfikacji S190121 po wierszach w tabeli wynikowej(tbh obiecujący sposób - można rozważyć bardziej) i do przycinania tabel do potrzebnych nam danych&#10;&#10;Do zrobienia - jakiś opis pipelinów żeby wszystko móc ładnie spiąć w działające narzędzie" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PZ$Extractor.coverage" NAME="Extractor Coverage Results" MODIFIED="1731939554818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PZ$Extractor30.coverage" NAME="Extractor30 Coverage Results" MODIFIED="1731945877763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PZ$Transformer.coverage" NAME="Transformer Coverage Results" MODIFIED="1731973031534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PZ$Extractor20.coverage" NAME="Extractor20 Coverage Results" MODIFIED="1732028314603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZ$Transformer.coverage" NAME="Transformer Coverage Results" MODIFIED="1732096789139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZ$Recognizer.coverage" NAME="Recognizer Coverage Results" MODIFIED="1732205397507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PZ$Extractor20.coverage" NAME="Extractor20 Coverage Results" MODIFIED="1732230511852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
