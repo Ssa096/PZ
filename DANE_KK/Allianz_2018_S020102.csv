@@ -1,0 +1,81 @@
+Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+S.02.01.02,C0010,R0030,Warto(cid:1)ci niematerialne i prawne,0
+S.02.01.02,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0
+S.02.01.02,C0010,R0050,Nadwy(cid:2)ka na funduszu (cid:1)wiadcze(cid:3) emerytalnych,0
+S.02.01.02,C0010,R0060,"Nieruchomo(cid:1)ci, maszyny i wyposa(cid:2)enie (Rzeczowe aktywa trwałe) wykorzystywane na u(cid:2)ytek własny",995
+S.02.01.02,C0010,R0070,"Lokaty (inne ni(cid:2) aktywa dla ubezpiecze(cid:3) na (cid:2)ycie, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i dla ubezpiecze(cid:3) na (cid:2)ycie zwi(cid:4)zanych z ubezpieczeniowym funduszem kapitałowym)",829 912
+S.02.01.02,C0010,R0080,Nieruchomo(cid:1)ci (inne ni(cid:2) do u(cid:2)ytku własnego),0
+S.02.01.02,C0010,R0090,"Udziały w jednostkach powi(cid:4)zanych, w tym udziały kapitałowe",0
+S.02.01.02,C0010,R0100,Akcje i udziały,0
+S.02.01.02,C0010,R0110,Akcje i udziały – notowane,0
+S.02.01.02,C0010,R0120,Akcje i udziały – nienotowane,0
+S.02.01.02,C0010,R0130,Dłu(cid:2)ne papiery warto(cid:1)ciowe,725 738
+S.02.01.02,C0010,R0140,Obligacje pa(cid:3)stwowe,725 738
+S.02.01.02,C0010,R0150,Obligacje korporacyjne,0
+S.02.01.02,C0010,R0160,Strukturyzowane papiery warto(cid:1)ciowe,0
+S.02.01.02,C0010,R0170,Zabezpieczone papiery warto(cid:1)ciowe,0
+S.02.01.02,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsi(cid:5)biorstwach zbiorowego inwestowania,72 858
+S.02.01.02,C0010,R0190,Instrumenty pochodne,0
+S.02.01.02,C0010,R0200,Depozyty inne ni(cid:2) ekwiwalenty (cid:1)rodków pieni(cid:5)(cid:2)nych,31 316
+S.02.01.02,C0010,R0210,Pozostałe lokaty,0
+S.02.01.02,C0010,R0220,"Aktywa dla ubezpiecze(cid:3) na (cid:2)ycie, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) na (cid:2)ycie zwi(cid:4)zanych z ubezpieczeniowym funduszem kapitałowym",1 728 883
+S.02.01.02,C0010,R0230,Po(cid:2)yczki i po(cid:2)yczki zabezpieczone hipotecznie,0
+S.02.01.02,C0010,R0240,Po(cid:2)yczki pod zastaw polisy,0
+S.02.01.02,C0010,R0250,Po(cid:2)yczki i po(cid:2)yczki zabezpieczone hipotecznie dla osób fizycznych,0
+S.02.01.02,C0010,R0260,Pozostałe po(cid:2)yczki i po(cid:2)yczki zabezpieczone hipotecznie,0
+S.02.01.02,C0010,R0270,Kwoty nale(cid:2)ne z umów reasekuracji dla zobowi(cid:4)za(cid:3) wynikaj(cid:4)cych z:,-16 797
+S.02.01.02,C0010,R0280,Ubezpieczenia inne ni(cid:2) ubezpieczenia na (cid:2)ycie i ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie,0
+S.02.01.02,C0010,R0290,Ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem zdrowotnych),0
+S.02.01.02,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie,0
+S.02.01.02,C0010,R0310,"Ubezpieczenia na (cid:2)ycie i ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) na (cid:2)ycie, z wył(cid:4)czeniem ubezpiecze(cid:3) zdrowotnych oraz ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone",-15 413
+S.02.01.02,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) na (cid:2)ycie,0
+S.02.01.02,C0010,R0330,"Ubezpieczenia na (cid:2)ycie z wył(cid:4)czeniem ubezpiecze(cid:3) zdrowotnych oraz ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) z ubezpieczeniowym funduszem kapitałowym",-15 413
+S.02.01.02,C0010,R0340,"Ubezpieczenia na (cid:2)ycie, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe, i ubezpieczenia na (cid:2)ycie z ubezpieczeniowym funduszem kapitałowym",-1 384
+S.02.01.02,C0010,R0350,Depozyty u cedentów,0
+S.02.01.02,C0010,R0360,Nale(cid:2)no(cid:1)ci z tytułu ubezpiecze(cid:3) i od po(cid:1)redników ubezpieczeniowych,2 758
+S.02.01.02,C0010,R0370,Nale(cid:2)no(cid:1)ci z tytułu reasekuracji biernej,0
+S.02.01.02,C0010,R0380,"Pozostałe nale(cid:2)no(cid:1)ci (handlowe, inne ni(cid:2) z działalno(cid:1)ci ubezpieczeniowej)",19 086
+S.02.01.02,C0010,R0390,Akcje własne (posiadane bezpo(cid:1)rednio),0
+S.02.01.02,C0010,R0400,"Kwoty nale(cid:2)ne, dotycz(cid:4)ce pozycji (cid:1)rodków własnych lub kapitału zało(cid:2)ycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0
+S.02.01.02,C0010,R0410,(cid:6)rodki pieni(cid:5)(cid:2)ne i ekwiwalenty (cid:1)rodków pieni(cid:5)(cid:2)nych,1 405
+S.02.01.02,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),2 675
+S.02.01.02,C0010,R0500,Aktywa ogółem,2 568 918
+S.02.01.02,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne ni(cid:2) ubezpieczenia na (cid:2)ycie,0
+S.02.01.02,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne ni(cid:2) ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem zdrowotnych),0
+S.02.01.02,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0
+S.02.01.02,C0010,R0540,Najlepsze oszacowanie,0
+S.02.01.02,C0010,R0550,Margines ryzyka,0
+S.02.01.02,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie),0
+S.02.01.02,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0
+S.02.01.02,C0010,R0580,Najlepsze oszacowanie,0
+S.02.01.02,C0010,R0590,Margines ryzyka,0
+S.02.01.02,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) z ubezpieczeniowym funduszem kapitałowym)",127 316
+S.02.01.02,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpiecze(cid:3) na (cid:2)ycie),0
+S.02.01.02,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0
+S.02.01.02,C0010,R0630,Najlepsze oszacowanie,0
+S.02.01.02,C0010,R0640,Margines ryzyka,0
+S.02.01.02,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem zdrowotnych oraz ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) z ubezpieczeniowym funduszem kapitałowym)",127 316
+S.02.01.02,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0
+S.02.01.02,C0010,R0670,Najlepsze oszacowanie,80 634
+S.02.01.02,C0010,R0680,Margines ryzyka,46 682
+S.02.01.02,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",1 594 912
+S.02.01.02,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0
+S.02.01.02,C0010,R0710,Najlepsze oszacowanie,1 558 274
+S.02.01.02,C0010,R0720,Margines ryzyka,36 638
+S.02.01.02,C0010,R0740,Zobowi(cid:4)zania warunkowe,0
+S.02.01.02,C0010,R0750,Pozostałe rezerwy (inne ni(cid:2) rezerwy techniczno-ubezpieczeniowe),29 179
+S.02.01.02,C0010,R0760,Zobowi(cid:4)zania z tytułu (cid:1)wiadcze(cid:3) emerytalnych dla pracowników,120
+S.02.01.02,C0010,R0770,Zobowi(cid:4)zania z tytułu depozytów zakładów reasekuracji,0
+S.02.01.02,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,70 537
+S.02.01.02,C0010,R0790,Instrumenty pochodne,0
+S.02.01.02,C0010,R0800,Zobowi(cid:4)zania wobec instytucji kredytowych,0
+S.02.01.02,C0010,R0810,Zobowi(cid:4)zania finansowe inne ni(cid:2) zobowi(cid:4)zania wobec instytucji kredytowych,0
+S.02.01.02,C0010,R0820,Zobowi(cid:4)zania z tytułu ubezpiecze(cid:3) i wobec po(cid:1)redników ubezpieczeniowych,4 345
+S.02.01.02,C0010,R0830,Zobowi(cid:4)zania z tytułu reasekuracji biernej,0
+S.02.01.02,C0010,R0840,"Pozostałe zobowi(cid:4)zania (handlowe, inne ni(cid:2) z tytułu działalno(cid:1)ci ubezpieczeniowej)",7 045
+S.02.01.02,C0010,R0850,Zobowi(cid:4)zania podporz(cid:4)dkowane,0
+S.02.01.02,C0010,R0860,Zobowi(cid:4)zania podporz(cid:4)dkowane nieuwzgl(cid:5)dnione w podstawowych (cid:1)rodkach własnych,0
+S.02.01.02,C0010,R0870,Zobowi(cid:4)zania podporz(cid:4)dkowane uwzgl(cid:5)dnione w podstawowych (cid:1)rodkach własnych,0
+S.02.01.02,C0010,R0880,Pozostałe zobowi(cid:4)zania (niewykazane w innych pozycjach),511
+S.02.01.02,C0010,R0900,Zobowi(cid:4)zania ogółem,1 833 964
+S.02.01.02,C0010,R1000,Nadwy(cid:5)ka aktywów nad zobowi(cid:4)zaniami,734 954

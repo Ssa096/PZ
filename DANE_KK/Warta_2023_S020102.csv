@@ -1,0 +1,81 @@
+Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+S.02.01.02,C0010,R0030,Wartości niematerialne i prawne,0
+S.02.01.02,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0
+S.02.01.02,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0
+S.02.01.02,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",403 076
+S.02.01.02,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",16 025 646
+S.02.01.02,C0010,R0080,Nieruchomości (inne niż do użytku własnego),7 125
+S.02.01.02,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",715 275
+S.02.01.02,C0010,R0100,Akcje i udziały,57 343
+S.02.01.02,C0010,R0110,Akcje i udziały – notowane,57 143
+S.02.01.02,C0010,R0120,Akcje i udziały – nienotowane,200
+S.02.01.02,C0010,R0130,Dłużne papiery wartościowe,14 673 431
+S.02.01.02,C0010,R0140,Obligacje państwowe,10 943 193
+S.02.01.02,C0010,R0150,Obligacje korporacyjne,3 730 238
+S.02.01.02,C0010,R0160,Strukturyzowane papiery wartościowe,0
+S.02.01.02,C0010,R0170,Zabezpieczone papiery wartościowe,0
+S.02.01.02,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,396 716
+S.02.01.02,C0010,R0190,Instrumenty pochodne,97 441
+S.02.01.02,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,78 315
+S.02.01.02,C0010,R0210,Pozostałe lokaty,0
+S.02.01.02,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0
+S.02.01.02,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,458 458
+S.02.01.02,C0010,R0240,Pożyczki pod zastaw polisy,0
+S.02.01.02,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0
+S.02.01.02,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,458 458
+S.02.01.02,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,837 969
+S.02.01.02,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,665 445
+S.02.01.02,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),664 052
+S.02.01.02,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 393
+S.02.01.02,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",172 524
+S.02.01.02,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0
+S.02.01.02,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",172 524
+S.02.01.02,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",0
+S.02.01.02,C0010,R0350,Depozyty u cedentów,100
+S.02.01.02,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,203 696
+S.02.01.02,C0010,R0370,Należności z tytułu reasekuracji biernej,63 192
+S.02.01.02,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",59 439
+S.02.01.02,C0010,R0390,Akcje własne (posiadane bezpośrednio),0
+S.02.01.02,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0
+S.02.01.02,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,109 963
+S.02.01.02,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),16 971
+S.02.01.02,C0010,R0500,AKTYWA OGÓŁEM,18 178 510
+S.02.01.02,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,10 212 303
+S.02.01.02,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),10 159 357
+S.02.01.02,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+S.02.01.02,C0010,R0540,Najlepsze oszacowanie,9 423 349
+S.02.01.02,C0010,R0550,Margines ryzyka,736 008
+S.02.01.02,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),52 946
+S.02.01.02,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+S.02.01.02,C0010,R0580,Najlepsze oszacowanie,51 602
+S.02.01.02,C0010,R0590,Margines ryzyka,1 344
+S.02.01.02,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 493 917
+S.02.01.02,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0
+S.02.01.02,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+S.02.01.02,C0010,R0630,Najlepsze oszacowanie,0
+S.02.01.02,C0010,R0640,Margines ryzyka,0
+S.02.01.02,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 493 917
+S.02.01.02,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+S.02.01.02,C0010,R0670,Najlepsze oszacowanie,1 488 312
+S.02.01.02,C0010,R0680,Margines ryzyka,5 605
+S.02.01.02,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",0
+S.02.01.02,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+S.02.01.02,C0010,R0710,Najlepsze oszacowanie,0
+S.02.01.02,C0010,R0720,Margines ryzyka,0
+S.02.01.02,C0010,R0740,Zobowiązania warunkowe,0
+S.02.01.02,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),93 306
+S.02.01.02,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,6 944
+S.02.01.02,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0
+S.02.01.02,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,446 711
+S.02.01.02,C0010,R0790,Instrumenty pochodne,38 826
+S.02.01.02,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0
+S.02.01.02,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,217 677
+S.02.01.02,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,159 023
+S.02.01.02,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,7 819
+S.02.01.02,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",162 367
+S.02.01.02,C0010,R0850,Zobowiązania podporządkowane,0
+S.02.01.02,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0
+S.02.01.02,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0
+S.02.01.02,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),565
+S.02.01.02,C0010,R0900,ZOBOWIĄZANIA OGÓŁEM,12 839 458
+S.02.01.02,C0010,R1000,NADWYŻKA AKTYWÓW NAD ZOBOWIĄZANIAMI,5 339 052

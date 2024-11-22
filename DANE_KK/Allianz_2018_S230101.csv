@@ -1,0 +1,95 @@
+Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+S.23.01.01,C0010,R0010,Kapitał zakładowy (wraz z akcjami własnymi),118 631
+S.23.01.01,C0020,R0010,Kapitał zakładowy (wraz z akcjami własnymi),118 631
+S.23.01.01,C0040,R0010,Kapitał zakładowy (wraz z akcjami własnymi),0
+S.23.01.01,C0010,R0030,Nadwy(cid:2)ka ze sprzeda(cid:2)y akcji powy(cid:2)ej ich warto(cid:1)ci nominalnej zwi(cid:4)zana z kapitałem zakładowym,69 735
+S.23.01.01,C0020,R0030,Nadwy(cid:2)ka ze sprzeda(cid:2)y akcji powy(cid:2)ej ich warto(cid:1)ci nominalnej zwi(cid:4)zana z kapitałem zakładowym,69 735
+S.23.01.01,C0040,R0030,Nadwy(cid:2)ka ze sprzeda(cid:2)y akcji powy(cid:2)ej ich warto(cid:1)ci nominalnej zwi(cid:4)zana z kapitałem zakładowym,0
+S.23.01.01,C0010,R0040,"Kapitał zało(cid:2)ycielski, wkłady/składki członkowskie lub równowa(cid:2)na pozycja podstawowych (cid:1)rodków własnych w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci",0
+S.23.01.01,C0020,R0040,"Kapitał zało(cid:2)ycielski, wkłady/składki członkowskie lub równowa(cid:2)na pozycja podstawowych (cid:1)rodków własnych w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci",0
+S.23.01.01,C0040,R0040,"Kapitał zało(cid:2)ycielski, wkłady/składki członkowskie lub równowa(cid:2)na pozycja podstawowych (cid:1)rodków własnych w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci",0
+S.23.01.01,C0010,R0050,"Podporz(cid:4)dkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci",0
+S.23.01.01,C0030,R0050,"Podporz(cid:4)dkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci",0
+S.23.01.01,C0040,R0050,"Podporz(cid:4)dkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci",0
+S.23.01.01,C0050,R0050,"Podporz(cid:4)dkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci",0
+S.23.01.01,C0010,R0070,Fundusze nadwy(cid:2)kowe,0
+S.23.01.01,C0020,R0070,Fundusze nadwy(cid:2)kowe,0
+S.23.01.01,C0010,R0090,Akcje uprzywilejowane,0
+S.23.01.01,C0030,R0090,Akcje uprzywilejowane,0
+S.23.01.01,C0040,R0090,Akcje uprzywilejowane,0
+S.23.01.01,C0050,R0090,Akcje uprzywilejowane,0
+S.23.01.01,C0010,R0110,Nadwy(cid:2)ka ze sprzeda(cid:2)y akcji powy(cid:2)ej ich warto(cid:1)ci nominalnej zwi(cid:4)zana z akcjami uprzywilejowanymi,0
+S.23.01.01,C0030,R0110,Nadwy(cid:2)ka ze sprzeda(cid:2)y akcji powy(cid:2)ej ich warto(cid:1)ci nominalnej zwi(cid:4)zana z akcjami uprzywilejowanymi,0
+S.23.01.01,C0040,R0110,Nadwy(cid:2)ka ze sprzeda(cid:2)y akcji powy(cid:2)ej ich warto(cid:1)ci nominalnej zwi(cid:4)zana z akcjami uprzywilejowanymi,0
+S.23.01.01,C0050,R0110,Nadwy(cid:2)ka ze sprzeda(cid:2)y akcji powy(cid:2)ej ich warto(cid:1)ci nominalnej zwi(cid:4)zana z akcjami uprzywilejowanymi,0
+S.23.01.01,C0010,R0130,Rezerwa uzgodnieniowa,484 300
+S.23.01.01,C0020,R0130,Rezerwa uzgodnieniowa,484 300
+S.23.01.01,C0010,R0140,Zobowi(cid:4)zania podporz(cid:4)dkowane,0
+S.23.01.01,C0030,R0140,Zobowi(cid:4)zania podporz(cid:4)dkowane,0
+S.23.01.01,C0040,R0140,Zobowi(cid:4)zania podporz(cid:4)dkowane,0
+S.23.01.01,C0050,R0140,Zobowi(cid:4)zania podporz(cid:4)dkowane,0
+S.23.01.01,C0010,R0160,Kwota odpowiadaj(cid:4)ca warto(cid:1)ci aktywów netto z tytułu odroczonego podatku dochodowego,0
+S.23.01.01,C0050,R0160,Kwota odpowiadaj(cid:4)ca warto(cid:1)ci aktywów netto z tytułu odroczonego podatku dochodowego,0
+S.23.01.01,C0010,R0180,"Pozostałe pozycje (cid:1)rodków własnych zatwierdzone przez organ nadzoru jako podstawowe (cid:1)rodki własne, niewymienione powy(cid:2)ej",0
+S.23.01.01,C0020,R0180,"Pozostałe pozycje (cid:1)rodków własnych zatwierdzone przez organ nadzoru jako podstawowe (cid:1)rodki własne, niewymienione powy(cid:2)ej",0
+S.23.01.01,C0030,R0180,"Pozostałe pozycje (cid:1)rodków własnych zatwierdzone przez organ nadzoru jako podstawowe (cid:1)rodki własne, niewymienione powy(cid:2)ej",0
+S.23.01.01,C0040,R0180,"Pozostałe pozycje (cid:1)rodków własnych zatwierdzone przez organ nadzoru jako podstawowe (cid:1)rodki własne, niewymienione powy(cid:2)ej",0
+S.23.01.01,C0050,R0180,"Pozostałe pozycje (cid:1)rodków własnych zatwierdzone przez organ nadzoru jako podstawowe (cid:1)rodki własne, niewymienione powy(cid:2)ej",0
+S.23.01.01,C0010,R0220,"(cid:6)rodki własne ze sprawozda(cid:3) finansowych, które nie powinny by(cid:7) uwzgl(cid:5)dnione w rezerwie uzgodnieniowej i nie spełniaj(cid:4) kryteriów klasyfikacji jako (cid:1)rodki własne wg Wypłacalno(cid:1)(cid:7) II",0
+S.23.01.01,C0010,R0230,Warto(cid:1)(cid:7) odlicze(cid:3) z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych - ogółem,0
+S.23.01.01,C0020,R0230,Warto(cid:1)(cid:7) odlicze(cid:3) z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych - ogółem,0
+S.23.01.01,C0030,R0230,Warto(cid:1)(cid:7) odlicze(cid:3) z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych - ogółem,0
+S.23.01.01,C0040,R0230,Warto(cid:1)(cid:7) odlicze(cid:3) z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych - ogółem,0
+S.23.01.01,C0010,R0290,Podstawowe (cid:2)rodki własne ogółem po odliczeniach,672 666
+S.23.01.01,C0020,R0290,Podstawowe (cid:2)rodki własne ogółem po odliczeniach,672 666
+S.23.01.01,C0030,R0290,Podstawowe (cid:2)rodki własne ogółem po odliczeniach,0
+S.23.01.01,C0040,R0290,Podstawowe (cid:2)rodki własne ogółem po odliczeniach,0
+S.23.01.01,C0050,R0290,Podstawowe (cid:2)rodki własne ogółem po odliczeniach,0
+S.23.01.01,C0010,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który mo(cid:2)e by(cid:7) wezwany do opłacenia na (cid:2)(cid:4)danie",0
+S.23.01.01,C0040,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który mo(cid:2)e by(cid:7) wezwany do opłacenia na (cid:2)(cid:4)danie",0
+S.23.01.01,C0010,R0310,"Nieopłacony kapitał zało(cid:2)ycielski, wkłady/składki członkowskie lub równowa(cid:2)na pozycja podstawowych (cid:1)rodków własnych w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci, do których opłacenia nie wezwano i które mog(cid:4) by(cid:7) wezwane do opłacenia na (cid:2)(cid:4)danie",0
+S.23.01.01,C0040,R0310,"Nieopłacony kapitał zało(cid:2)ycielski, wkłady/składki członkowskie lub równowa(cid:2)na pozycja podstawowych (cid:1)rodków własnych w przypadku towarzystw ubezpiecze(cid:3) wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpiecze(cid:3) opartych na zasadzie wzajemno(cid:1)ci, do których opłacenia nie wezwano i które mog(cid:4) by(cid:7) wezwane do opłacenia na (cid:2)(cid:4)danie",0
+S.23.01.01,C0010,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mog(cid:4) by(cid:7) wezwane do opłacenia na (cid:2)(cid:4)danie",0
+S.23.01.01,C0040,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mog(cid:4) by(cid:7) wezwane do opłacenia na (cid:2)(cid:4)danie",0
+S.23.01.01,C0050,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mog(cid:4) by(cid:7) wezwane do opłacenia na (cid:2)(cid:4)danie",0
+S.23.01.01,C0010,R0330,Prawnie wi(cid:4)(cid:2)(cid:4)ce zobowi(cid:4)zanie do subskrypcji i opłacenia na (cid:2)(cid:4)danie zobowi(cid:4)za(cid:3) podporz(cid:4)dkowanych,0
+S.23.01.01,C0040,R0330,Prawnie wi(cid:4)(cid:2)(cid:4)ce zobowi(cid:4)zanie do subskrypcji i opłacenia na (cid:2)(cid:4)danie zobowi(cid:4)za(cid:3) podporz(cid:4)dkowanych,0
+S.23.01.01,C0050,R0330,Prawnie wi(cid:4)(cid:2)(cid:4)ce zobowi(cid:4)zanie do subskrypcji i opłacenia na (cid:2)(cid:4)danie zobowi(cid:4)za(cid:3) podporz(cid:4)dkowanych,0
+S.23.01.01,C0010,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+S.23.01.01,C0040,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+S.23.01.01,C0010,R0350,Akredytywy i gwarancje inne ni(cid:2) zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+S.23.01.01,C0040,R0350,Akredytywy i gwarancje inne ni(cid:2) zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+S.23.01.01,C0050,R0350,Akredytywy i gwarancje inne ni(cid:2) zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+S.23.01.01,C0010,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+S.23.01.01,C0040,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+S.23.01.01,C0010,R0370,Dodatkowe wkłady od członków – inne ni(cid:2) zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+S.23.01.01,C0040,R0370,Dodatkowe wkłady od członków – inne ni(cid:2) zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+S.23.01.01,C0050,R0370,Dodatkowe wkłady od członków – inne ni(cid:2) zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+S.23.01.01,C0010,R0390,Pozostałe uzupełniaj(cid:4)ce (cid:1)rodki własne,0
+S.23.01.01,C0040,R0390,Pozostałe uzupełniaj(cid:4)ce (cid:1)rodki własne,0
+S.23.01.01,C0050,R0390,Pozostałe uzupełniaj(cid:4)ce (cid:1)rodki własne,0
+S.23.01.01,C0010,R0400,Uzupełniaj(cid:4)ce (cid:2)rodki własne ogółem,0
+S.23.01.01,C0040,R0400,Uzupełniaj(cid:4)ce (cid:2)rodki własne ogółem,0
+S.23.01.01,C0050,R0400,Uzupełniaj(cid:4)ce (cid:2)rodki własne ogółem,0
+S.23.01.01,C0010,R0500,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie kapitałowego wymogu wypłacalno(cid:1)ci (SCR),672 666
+S.23.01.01,C0020,R0500,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie kapitałowego wymogu wypłacalno(cid:1)ci (SCR),672 666
+S.23.01.01,C0030,R0500,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie kapitałowego wymogu wypłacalno(cid:1)ci (SCR),0
+S.23.01.01,C0040,R0500,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie kapitałowego wymogu wypłacalno(cid:1)ci (SCR),0
+S.23.01.01,C0050,R0500,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie kapitałowego wymogu wypłacalno(cid:1)ci (SCR),0
+S.23.01.01,C0010,R0510,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie MCR,672 666
+S.23.01.01,C0020,R0510,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie MCR,672 666
+S.23.01.01,C0030,R0510,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie MCR,0
+S.23.01.01,C0040,R0510,Kwota dost(cid:5)pnych (cid:1)rodków własnych na pokrycie MCR,0
+S.23.01.01,C0010,R0540,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie SCR,672 666
+S.23.01.01,C0020,R0540,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie SCR,672 666
+S.23.01.01,C0030,R0540,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie SCR,0
+S.23.01.01,C0040,R0540,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie SCR,0
+S.23.01.01,C0050,R0540,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie SCR,0
+S.23.01.01,C0010,R0550,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie MCR,672 666
+S.23.01.01,C0020,R0550,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie MCR,672 666
+S.23.01.01,C0030,R0550,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie MCR,0
+S.23.01.01,C0040,R0550,Kwota dopuszczonych (cid:1)rodków własnych na pokrycie MCR,0
+S.23.01.01,C0010,R0580,SCR,220 170
+S.23.01.01,C0010,R0600,MCR,60 174
+S.23.01.01,C0010,R0620,Wska(cid:8)nik dopuszczonych (cid:2)rodków własnych do SCR,"305,52%"
+S.23.01.01,C0010,R0640,Wska(cid:8)nik dopuszczonych (cid:2)rodków własnych do MCR,"1 117,87%"
