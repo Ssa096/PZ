@@ -105,6 +105,10 @@ for file in os.listdir(os.getcwd()):
     tables = process_and_merge_tables(df)
     for i in range(len(tables)):
         code_s = tables[i].iloc[0, 0].replace('.', '')
+        new_col1 = [firma] * len(tables[i])
+        new_col2 = [rok] * len(tables[i])
+        tables[i].insert(0, 'Rok', new_col2)
+        tables[i].insert(0, 'Firma', new_col1)
         # sprawdzenie czy istnieje biblioteka do zapisu, jak nie to tworzę nową
         dirpath = os.path.join(os.getcwd(), "DANE_KK")
         if not os.path.exists(dirpath):

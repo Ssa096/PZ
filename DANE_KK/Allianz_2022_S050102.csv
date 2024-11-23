@@ -1,280 +1,280 @@
-Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
-S.05.01.02,C0010,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0020,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
-S.05.01.02,C0030,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0040,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0050,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0060,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0070,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0080,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0090,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0100,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0110,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0120,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0200,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
-S.05.01.02,C0010,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0020,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0030,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0040,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0050,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0060,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0070,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0080,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0090,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0100,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0110,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0120,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0200,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0130,R0130,Brutto – reasekuracja czynna nieproporcjonalna,8
-S.05.01.02,C0140,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0150,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0160,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0200,R0130,Brutto – reasekuracja czynna nieproporcjonalna,8
-S.05.01.02,C0010,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0020,R0140,Udział zakładu reasekuracji,9 930
-S.05.01.02,C0030,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0040,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0050,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0060,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0070,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0080,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0090,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0100,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0110,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0120,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0130,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0140,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0150,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0160,R0140,Udział zakładu reasekuracji,0
-S.05.01.02,C0200,R0140,Udział zakładu reasekuracji,9 930
-S.05.01.02,C0010,R0200,Netto,0
-S.05.01.02,C0020,R0200,Netto,314 862
-S.05.01.02,C0030,R0200,Netto,0
-S.05.01.02,C0040,R0200,Netto,0
-S.05.01.02,C0050,R0200,Netto,0
-S.05.01.02,C0060,R0200,Netto,0
-S.05.01.02,C0070,R0200,Netto,0
-S.05.01.02,C0080,R0200,Netto,0
-S.05.01.02,C0090,R0200,Netto,0
-S.05.01.02,C0100,R0200,Netto,0
-S.05.01.02,C0110,R0200,Netto,0
-S.05.01.02,C0120,R0200,Netto,0
-S.05.01.02,C0130,R0200,Netto,8
-S.05.01.02,C0140,R0200,Netto,0
-S.05.01.02,C0150,R0200,Netto,0
-S.05.01.02,C0160,R0200,Netto,0
-S.05.01.02,C0200,R0200,Netto,314 869
-S.05.01.02,C0010,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0020,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
-S.05.01.02,C0030,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0040,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0050,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0060,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0070,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0080,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0090,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0100,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0110,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0120,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0200,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
-S.05.01.02,C0010,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0020,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0030,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0040,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0050,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0060,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0070,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0080,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0090,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0100,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0110,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0120,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0200,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0130,R0230,Brutto – reasekuracja czynna nieproporcjonalna,8
-S.05.01.02,C0140,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0150,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0160,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0200,R0230,Brutto – reasekuracja czynna nieproporcjonalna,8
-S.05.01.02,C0010,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0020,R0240,Udział zakładu reasekuracji,9 930
-S.05.01.02,C0030,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0040,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0050,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0060,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0070,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0080,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0090,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0100,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0110,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0120,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0130,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0140,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0150,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0160,R0240,Udział zakładu reasekuracji,0
-S.05.01.02,C0200,R0240,Udział zakładu reasekuracji,9 930
-S.05.01.02,C0010,R0300,Netto,0
-S.05.01.02,C0020,R0300,Netto,314 862
-S.05.01.02,C0030,R0300,Netto,0
-S.05.01.02,C0040,R0300,Netto,0
-S.05.01.02,C0050,R0300,Netto,0
-S.05.01.02,C0060,R0300,Netto,0
-S.05.01.02,C0070,R0300,Netto,0
-S.05.01.02,C0080,R0300,Netto,0
-S.05.01.02,C0090,R0300,Netto,0
-S.05.01.02,C0100,R0300,Netto,0
-S.05.01.02,C0110,R0300,Netto,0
-S.05.01.02,C0120,R0300,Netto,0
-S.05.01.02,C0130,R0300,Netto,8
-S.05.01.02,C0140,R0300,Netto,0
-S.05.01.02,C0150,R0300,Netto,0
-S.05.01.02,C0160,R0300,Netto,0
-S.05.01.02,C0200,R0300,Netto,314 869
-S.05.01.02,C0010,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0020,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,117 735
-S.05.01.02,C0030,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0040,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0050,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0060,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0070,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0080,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0090,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0100,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0110,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0120,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0200,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,117 735
-S.05.01.02,C0010,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0020,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0030,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0040,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0050,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0060,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0070,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0080,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0090,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0100,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0110,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0120,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0200,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0130,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0140,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0150,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0160,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0200,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0010,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0020,R0340,Udział zakładu reasekuracji,5 833
-S.05.01.02,C0030,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0040,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0050,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0060,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0070,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0080,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0090,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0100,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0110,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0120,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0130,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0140,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0150,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0160,R0340,Udział zakładu reasekuracji,0
-S.05.01.02,C0200,R0340,Udział zakładu reasekuracji,5 833
-S.05.01.02,C0010,R0400,Netto,0
-S.05.01.02,C0020,R0400,Netto,111 902
-S.05.01.02,C0030,R0400,Netto,0
-S.05.01.02,C0040,R0400,Netto,0
-S.05.01.02,C0050,R0400,Netto,0
-S.05.01.02,C0060,R0400,Netto,0
-S.05.01.02,C0070,R0400,Netto,0
-S.05.01.02,C0080,R0400,Netto,0
-S.05.01.02,C0090,R0400,Netto,0
-S.05.01.02,C0100,R0400,Netto,0
-S.05.01.02,C0110,R0400,Netto,0
-S.05.01.02,C0120,R0400,Netto,0
-S.05.01.02,C0130,R0400,Netto,0
-S.05.01.02,C0140,R0400,Netto,0
-S.05.01.02,C0150,R0400,Netto,0
-S.05.01.02,C0160,R0400,Netto,0
-S.05.01.02,C0200,R0400,Netto,111 902
-S.05.01.02,C0010,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0020,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,-930
-S.05.01.02,C0030,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0040,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0050,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0060,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0070,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0080,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0090,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0100,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0110,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0120,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0200,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,-930
-S.05.01.02,C0010,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0020,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0030,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0040,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0050,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0060,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0070,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0080,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0090,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0100,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0110,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0120,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0200,R0420,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0130,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0140,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0150,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0160,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0200,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0010,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0020,R0440,Udział zakładu reasekuracji,-3
-S.05.01.02,C0030,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0040,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0050,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0060,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0070,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0080,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0090,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0100,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0110,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0120,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0130,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0140,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0150,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0160,R0440,Udział zakładu reasekuracji,0
-S.05.01.02,C0200,R0440,Udział zakładu reasekuracji,-3
-S.05.01.02,C0010,R0500,Netto,0
-S.05.01.02,C0020,R0500,Netto,-927
-S.05.01.02,C0030,R0500,Netto,0
-S.05.01.02,C0040,R0500,Netto,0
-S.05.01.02,C0050,R0500,Netto,0
-S.05.01.02,C0060,R0500,Netto,0
-S.05.01.02,C0070,R0500,Netto,0
-S.05.01.02,C0080,R0500,Netto,0
-S.05.01.02,C0090,R0500,Netto,0
-S.05.01.02,C0100,R0500,Netto,0
-S.05.01.02,C0110,R0500,Netto,0
-S.05.01.02,C0120,R0500,Netto,0
-S.05.01.02,C0130,R0500,Netto,0
-S.05.01.02,C0140,R0500,Netto,0
-S.05.01.02,C0150,R0500,Netto,0
-S.05.01.02,C0160,R0500,Netto,0
-S.05.01.02,C0200,R0500,Netto,-927
-S.05.01.02,C0010,R0550,Koszty poniesione,0
-S.05.01.02,C0020,R0550,Koszty poniesione,108 565
-S.05.01.02,C0030,R0550,Koszty poniesione,0
-S.05.01.02,C0040,R0550,Koszty poniesione,0
-S.05.01.02,C0050,R0550,Koszty poniesione,0
-S.05.01.02,C0060,R0550,Koszty poniesione,0
-S.05.01.02,C0070,R0550,Koszty poniesione,0
-S.05.01.02,C0080,R0550,Koszty poniesione,0
-S.05.01.02,C0090,R0550,Koszty poniesione,0
-S.05.01.02,C0100,R0550,Koszty poniesione,0
-S.05.01.02,C0110,R0550,Koszty poniesione,0
-S.05.01.02,C0120,R0550,Koszty poniesione,0
-S.05.01.02,C0130,R0550,Koszty poniesione,2
-S.05.01.02,C0140,R0550,Koszty poniesione,0
-S.05.01.02,C0150,R0550,Koszty poniesione,0
-S.05.01.02,C0160,R0550,Koszty poniesione,0
-S.05.01.02,C0200,R0550,Koszty poniesione,108 567
-S.05.01.02,C0200,R1200,Pozostałe koszty,3 192
-S.05.01.02,C0200,R1300,Koszty ogółem,111 760
+Firma,Rok,Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+Allianz,2022,S.05.01.02,C0010,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0020,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
+Allianz,2022,S.05.01.02,C0030,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0040,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0050,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0060,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0070,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0080,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0090,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0100,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0110,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0120,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0200,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
+Allianz,2022,S.05.01.02,C0010,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0020,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0030,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0040,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0050,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0060,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0070,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0080,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0090,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0100,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0110,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0120,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0130,R0130,Brutto – reasekuracja czynna nieproporcjonalna,8
+Allianz,2022,S.05.01.02,C0140,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0150,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0160,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0130,Brutto – reasekuracja czynna nieproporcjonalna,8
+Allianz,2022,S.05.01.02,C0010,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0020,R0140,Udział zakładu reasekuracji,9 930
+Allianz,2022,S.05.01.02,C0030,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0040,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0050,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0060,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0070,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0080,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0090,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0100,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0110,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0120,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0130,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0140,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0150,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0160,R0140,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0200,R0140,Udział zakładu reasekuracji,9 930
+Allianz,2022,S.05.01.02,C0010,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0020,R0200,Netto,314 862
+Allianz,2022,S.05.01.02,C0030,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0040,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0050,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0060,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0070,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0080,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0090,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0100,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0110,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0120,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0130,R0200,Netto,8
+Allianz,2022,S.05.01.02,C0140,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0150,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0160,R0200,Netto,0
+Allianz,2022,S.05.01.02,C0200,R0200,Netto,314 869
+Allianz,2022,S.05.01.02,C0010,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0020,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
+Allianz,2022,S.05.01.02,C0030,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0040,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0050,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0060,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0070,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0080,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0090,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0100,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0110,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0120,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0200,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,324 791
+Allianz,2022,S.05.01.02,C0010,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0020,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0030,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0040,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0050,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0060,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0070,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0080,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0090,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0100,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0110,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0120,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0130,R0230,Brutto – reasekuracja czynna nieproporcjonalna,8
+Allianz,2022,S.05.01.02,C0140,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0150,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0160,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0230,Brutto – reasekuracja czynna nieproporcjonalna,8
+Allianz,2022,S.05.01.02,C0010,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0020,R0240,Udział zakładu reasekuracji,9 930
+Allianz,2022,S.05.01.02,C0030,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0040,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0050,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0060,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0070,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0080,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0090,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0100,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0110,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0120,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0130,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0140,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0150,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0160,R0240,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0200,R0240,Udział zakładu reasekuracji,9 930
+Allianz,2022,S.05.01.02,C0010,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0020,R0300,Netto,314 862
+Allianz,2022,S.05.01.02,C0030,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0040,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0050,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0060,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0070,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0080,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0090,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0100,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0110,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0120,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0130,R0300,Netto,8
+Allianz,2022,S.05.01.02,C0140,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0150,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0160,R0300,Netto,0
+Allianz,2022,S.05.01.02,C0200,R0300,Netto,314 869
+Allianz,2022,S.05.01.02,C0010,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0020,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,117 735
+Allianz,2022,S.05.01.02,C0030,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0040,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0050,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0060,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0070,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0080,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0090,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0100,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0110,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0120,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0200,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,117 735
+Allianz,2022,S.05.01.02,C0010,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0020,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0030,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0040,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0050,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0060,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0070,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0080,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0090,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0100,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0110,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0120,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0130,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0140,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0150,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0160,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0010,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0020,R0340,Udział zakładu reasekuracji,5 833
+Allianz,2022,S.05.01.02,C0030,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0040,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0050,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0060,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0070,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0080,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0090,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0100,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0110,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0120,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0130,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0140,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0150,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0160,R0340,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0200,R0340,Udział zakładu reasekuracji,5 833
+Allianz,2022,S.05.01.02,C0010,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0020,R0400,Netto,111 902
+Allianz,2022,S.05.01.02,C0030,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0040,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0050,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0060,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0070,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0080,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0090,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0100,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0110,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0120,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0130,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0140,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0150,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0160,R0400,Netto,0
+Allianz,2022,S.05.01.02,C0200,R0400,Netto,111 902
+Allianz,2022,S.05.01.02,C0010,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0020,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,-930
+Allianz,2022,S.05.01.02,C0030,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0040,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0050,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0060,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0070,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0080,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0090,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0100,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0110,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0120,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Allianz,2022,S.05.01.02,C0200,R0410,Brutto – Bezpośrednia działalność ubezpieczeniowa,-930
+Allianz,2022,S.05.01.02,C0010,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0020,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0030,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0040,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0050,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0060,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0070,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0080,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0090,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0100,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0110,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0120,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0420,Brutto – reasekuracja czynna proporcjonalna,0
+Allianz,2022,S.05.01.02,C0130,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0140,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0150,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0160,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0200,R0430,Brutto – reasekuracja czynna nieproporcjonalna,0
+Allianz,2022,S.05.01.02,C0010,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0020,R0440,Udział zakładu reasekuracji,-3
+Allianz,2022,S.05.01.02,C0030,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0040,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0050,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0060,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0070,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0080,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0090,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0100,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0110,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0120,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0130,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0140,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0150,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0160,R0440,Udział zakładu reasekuracji,0
+Allianz,2022,S.05.01.02,C0200,R0440,Udział zakładu reasekuracji,-3
+Allianz,2022,S.05.01.02,C0010,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0020,R0500,Netto,-927
+Allianz,2022,S.05.01.02,C0030,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0040,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0050,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0060,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0070,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0080,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0090,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0100,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0110,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0120,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0130,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0140,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0150,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0160,R0500,Netto,0
+Allianz,2022,S.05.01.02,C0200,R0500,Netto,-927
+Allianz,2022,S.05.01.02,C0010,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0020,R0550,Koszty poniesione,108 565
+Allianz,2022,S.05.01.02,C0030,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0040,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0050,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0060,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0070,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0080,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0090,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0100,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0110,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0120,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0130,R0550,Koszty poniesione,2
+Allianz,2022,S.05.01.02,C0140,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0150,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0160,R0550,Koszty poniesione,0
+Allianz,2022,S.05.01.02,C0200,R0550,Koszty poniesione,108 567
+Allianz,2022,S.05.01.02,C0200,R1200,Pozostałe koszty,3 192
+Allianz,2022,S.05.01.02,C0200,R1300,Koszty ogółem,111 760

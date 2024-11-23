@@ -1,96 +1,96 @@
-Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
-S.23.01.01,C0010,R0010,Kapitał zakładowy (wraz z akcjami własnymi),187 939
-S.23.01.01,C0020,R0010,Kapitał zakładowy (wraz z akcjami własnymi),187 939
-S.23.01.01,C0040,R0010,Kapitał zakładowy (wraz z akcjami własnymi),0
-S.23.01.01,C0010,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,983 008
-S.23.01.01,C0020,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,983 008
-S.23.01.01,C0040,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
-S.23.01.01,C0010,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0020,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0040,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0010,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0030,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0040,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0050,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0010,R0070,Fundusze nadwyżkowe,0
-S.23.01.01,C0020,R0070,Fundusze nadwyżkowe,0
-S.23.01.01,C0010,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0030,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0040,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0050,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0010,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0030,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0040,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0050,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0010,R0130,Rezerwa uzgodnieniowa,2 713 925
-S.23.01.01,C0020,R0130,Rezerwa uzgodnieniowa,2 713 925
-S.23.01.01,C0010,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0030,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0040,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0050,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0010,R0160,Kwota odpowiadająca wartości aktywów netto z tytułu odroczonego podatku dochodowego,0
-S.23.01.01,C0050,R0160,Kwota odpowiadająca wartości aktywów netto z tytułu odroczonego podatku dochodowego,0
-S.23.01.01,C0010,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0020,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0030,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0040,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0050,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0010,R0220,"Środki własne ze sprawozdań finansowych, które nie powinny być uwzględnione w rezerwie uzgodnieniowej i nie spełniają kryteriów klasyfikacji jako środki własne wg Wypłacalność II",0
-S.23.01.01,C0010,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0020,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0030,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0040,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0050,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0010,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,3 884 872
-S.23.01.01,C0020,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,3 884 872
-S.23.01.01,C0030,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,0
-S.23.01.01,C0040,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,0
-S.23.01.01,C0050,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,0
-S.23.01.01,C0010,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
-S.23.01.01,C0040,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
-S.23.01.01,C0010,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0040,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0010,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0040,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0050,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0010,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
-S.23.01.01,C0040,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
-S.23.01.01,C0050,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
-S.23.01.01,C0010,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0050,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
-S.23.01.01,C0050,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0390,Pozostałe uzupełniające środki własne,0
-S.23.01.01,C0040,R0390,Pozostałe uzupełniające środki własne,0
-S.23.01.01,C0050,R0390,Pozostałe uzupełniające środki własne,0
-S.23.01.01,C0010,R0400,UZUPEŁNIAJĄCE ŚRODKI WŁASNE OGÓŁEM,0
-S.23.01.01,C0040,R0400,UZUPEŁNIAJĄCE ŚRODKI WŁASNE OGÓŁEM,0
-S.23.01.01,C0050,R0400,UZUPEŁNIAJĄCE ŚRODKI WŁASNE OGÓŁEM,0
-S.23.01.01,C0010,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),3 884 872
-S.23.01.01,C0020,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),3 884 872
-S.23.01.01,C0030,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),0
-S.23.01.01,C0040,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),0
-S.23.01.01,C0050,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),0
-S.23.01.01,C0010,R0510,Kwota dostępnych środków własnych na pokrycie MCR,3 884 872
-S.23.01.01,C0020,R0510,Kwota dostępnych środków własnych na pokrycie MCR,3 884 872
-S.23.01.01,C0030,R0510,Kwota dostępnych środków własnych na pokrycie MCR,0
-S.23.01.01,C0040,R0510,Kwota dostępnych środków własnych na pokrycie MCR,0
-S.23.01.01,C0010,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,3 884 872
-S.23.01.01,C0020,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,3 884 872
-S.23.01.01,C0030,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,0
-S.23.01.01,C0040,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,0
-S.23.01.01,C0050,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,0
-S.23.01.01,C0010,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,3 884 872
-S.23.01.01,C0020,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,3 884 872
-S.23.01.01,C0030,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,0
-S.23.01.01,C0040,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,0
-S.23.01.01,C0010,R0580,SCR,2 471 334
-S.23.01.01,C0010,R0600,MCR,1 112 100
-S.23.01.01,C0010,R0620,STOSUNEK DOPUSZCZONYCH ŚRODKÓW WŁASNYCH DO SCR,"157,2%"
-S.23.01.01,C0010,R0640,STOSUNEK DOPUSZCZONYCH ŚRODKÓW WŁASNYCH DO MCR,"349,3%"
+Firma,Rok,Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+Warta,2022,S.23.01.01,C0010,R0010,Kapitał zakładowy (wraz z akcjami własnymi),187 939
+Warta,2022,S.23.01.01,C0020,R0010,Kapitał zakładowy (wraz z akcjami własnymi),187 939
+Warta,2022,S.23.01.01,C0040,R0010,Kapitał zakładowy (wraz z akcjami własnymi),0
+Warta,2022,S.23.01.01,C0010,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,983 008
+Warta,2022,S.23.01.01,C0020,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,983 008
+Warta,2022,S.23.01.01,C0040,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
+Warta,2022,S.23.01.01,C0010,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Warta,2022,S.23.01.01,C0020,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Warta,2022,S.23.01.01,C0040,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Warta,2022,S.23.01.01,C0010,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Warta,2022,S.23.01.01,C0030,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Warta,2022,S.23.01.01,C0040,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Warta,2022,S.23.01.01,C0050,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Warta,2022,S.23.01.01,C0010,R0070,Fundusze nadwyżkowe,0
+Warta,2022,S.23.01.01,C0020,R0070,Fundusze nadwyżkowe,0
+Warta,2022,S.23.01.01,C0010,R0090,Akcje uprzywilejowane,0
+Warta,2022,S.23.01.01,C0030,R0090,Akcje uprzywilejowane,0
+Warta,2022,S.23.01.01,C0040,R0090,Akcje uprzywilejowane,0
+Warta,2022,S.23.01.01,C0050,R0090,Akcje uprzywilejowane,0
+Warta,2022,S.23.01.01,C0010,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Warta,2022,S.23.01.01,C0030,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Warta,2022,S.23.01.01,C0040,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Warta,2022,S.23.01.01,C0050,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Warta,2022,S.23.01.01,C0010,R0130,Rezerwa uzgodnieniowa,2 713 925
+Warta,2022,S.23.01.01,C0020,R0130,Rezerwa uzgodnieniowa,2 713 925
+Warta,2022,S.23.01.01,C0010,R0140,Zobowiązania podporządkowane,0
+Warta,2022,S.23.01.01,C0030,R0140,Zobowiązania podporządkowane,0
+Warta,2022,S.23.01.01,C0040,R0140,Zobowiązania podporządkowane,0
+Warta,2022,S.23.01.01,C0050,R0140,Zobowiązania podporządkowane,0
+Warta,2022,S.23.01.01,C0010,R0160,Kwota odpowiadająca wartości aktywów netto z tytułu odroczonego podatku dochodowego,0
+Warta,2022,S.23.01.01,C0050,R0160,Kwota odpowiadająca wartości aktywów netto z tytułu odroczonego podatku dochodowego,0
+Warta,2022,S.23.01.01,C0010,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Warta,2022,S.23.01.01,C0020,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Warta,2022,S.23.01.01,C0030,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Warta,2022,S.23.01.01,C0040,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Warta,2022,S.23.01.01,C0050,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Warta,2022,S.23.01.01,C0010,R0220,"Środki własne ze sprawozdań finansowych, które nie powinny być uwzględnione w rezerwie uzgodnieniowej i nie spełniają kryteriów klasyfikacji jako środki własne wg Wypłacalność II",0
+Warta,2022,S.23.01.01,C0010,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Warta,2022,S.23.01.01,C0020,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Warta,2022,S.23.01.01,C0030,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Warta,2022,S.23.01.01,C0040,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Warta,2022,S.23.01.01,C0050,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Warta,2022,S.23.01.01,C0010,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,3 884 872
+Warta,2022,S.23.01.01,C0020,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,3 884 872
+Warta,2022,S.23.01.01,C0030,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,0
+Warta,2022,S.23.01.01,C0040,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,0
+Warta,2022,S.23.01.01,C0050,R0290,PODSTAWOWE ŚRODKI WŁASNE OGÓŁEM PO ODLICZENIACH,0
+Warta,2022,S.23.01.01,C0010,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
+Warta,2022,S.23.01.01,C0040,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
+Warta,2022,S.23.01.01,C0010,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Warta,2022,S.23.01.01,C0040,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Warta,2022,S.23.01.01,C0010,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Warta,2022,S.23.01.01,C0040,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Warta,2022,S.23.01.01,C0050,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Warta,2022,S.23.01.01,C0010,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
+Warta,2022,S.23.01.01,C0040,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
+Warta,2022,S.23.01.01,C0050,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
+Warta,2022,S.23.01.01,C0010,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0040,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0010,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0040,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0050,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0010,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0040,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0010,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0040,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0050,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 ust. 3 akapit pierwszy dyrektywy 2009/138/WE,0
+Warta,2022,S.23.01.01,C0010,R0390,Pozostałe uzupełniające środki własne,0
+Warta,2022,S.23.01.01,C0040,R0390,Pozostałe uzupełniające środki własne,0
+Warta,2022,S.23.01.01,C0050,R0390,Pozostałe uzupełniające środki własne,0
+Warta,2022,S.23.01.01,C0010,R0400,UZUPEŁNIAJĄCE ŚRODKI WŁASNE OGÓŁEM,0
+Warta,2022,S.23.01.01,C0040,R0400,UZUPEŁNIAJĄCE ŚRODKI WŁASNE OGÓŁEM,0
+Warta,2022,S.23.01.01,C0050,R0400,UZUPEŁNIAJĄCE ŚRODKI WŁASNE OGÓŁEM,0
+Warta,2022,S.23.01.01,C0010,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),3 884 872
+Warta,2022,S.23.01.01,C0020,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),3 884 872
+Warta,2022,S.23.01.01,C0030,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),0
+Warta,2022,S.23.01.01,C0040,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),0
+Warta,2022,S.23.01.01,C0050,R0500,Kwota dostępnych środków własnych na pokrycie kapitałowego wymogu wypłacalności (SCR),0
+Warta,2022,S.23.01.01,C0010,R0510,Kwota dostępnych środków własnych na pokrycie MCR,3 884 872
+Warta,2022,S.23.01.01,C0020,R0510,Kwota dostępnych środków własnych na pokrycie MCR,3 884 872
+Warta,2022,S.23.01.01,C0030,R0510,Kwota dostępnych środków własnych na pokrycie MCR,0
+Warta,2022,S.23.01.01,C0040,R0510,Kwota dostępnych środków własnych na pokrycie MCR,0
+Warta,2022,S.23.01.01,C0010,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,3 884 872
+Warta,2022,S.23.01.01,C0020,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,3 884 872
+Warta,2022,S.23.01.01,C0030,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,0
+Warta,2022,S.23.01.01,C0040,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,0
+Warta,2022,S.23.01.01,C0050,R0540,Kwota dopuszczonych środków własnych na pokrycie SCR,0
+Warta,2022,S.23.01.01,C0010,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,3 884 872
+Warta,2022,S.23.01.01,C0020,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,3 884 872
+Warta,2022,S.23.01.01,C0030,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,0
+Warta,2022,S.23.01.01,C0040,R0550,Kwota dopuszczonych środków własnych na pokrycie MCR,0
+Warta,2022,S.23.01.01,C0010,R0580,SCR,2 471 334
+Warta,2022,S.23.01.01,C0010,R0600,MCR,1 112 100
+Warta,2022,S.23.01.01,C0010,R0620,STOSUNEK DOPUSZCZONYCH ŚRODKÓW WŁASNYCH DO SCR,"157,2%"
+Warta,2022,S.23.01.01,C0010,R0640,STOSUNEK DOPUSZCZONYCH ŚRODKÓW WŁASNYCH DO MCR,"349,3%"

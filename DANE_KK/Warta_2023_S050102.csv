@@ -1,98 +1,98 @@
-Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
-S.05.01.02,C0100,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0110,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,408 623
-S.05.01.02,C0120,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,72 329
-S.05.01.02,C0200,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,8 893 665
-S.05.01.02,C0100,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0110,R0120,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0120,R0120,Brutto – reasekuracja czynna proporcjonalna,40 358
-S.05.01.02,C0200,R0120,Brutto – reasekuracja czynna proporcjonalna,400 297
-S.05.01.02,C0130,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0140,R0130,Brutto – reasekuracja czynna nieproporcjonalna,2 877
-S.05.01.02,C0150,R0130,Brutto – reasekuracja czynna nieproporcjonalna,496
-S.05.01.02,C0160,R0130,Brutto – reasekuracja czynna nieproporcjonalna,2 101
-S.05.01.02,C0200,R0130,Brutto – reasekuracja czynna nieproporcjonalna,5 474
-S.05.01.02,C0100,R0140,Udział zakładów reasekuracji,0
-S.05.01.02,C0110,R0140,Udział zakładów reasekuracji,1 264
-S.05.01.02,C0120,R0140,Udział zakładów reasekuracji,42 354
-S.05.01.02,C0130,R0140,Udział zakładów reasekuracji,0
-S.05.01.02,C0140,R0140,Udział zakładów reasekuracji,0
-S.05.01.02,C0150,R0140,Udział zakładów reasekuracji,0
-S.05.01.02,C0160,R0140,Udział zakładów reasekuracji,0
-S.05.01.02,C0200,R0140,Udział zakładów reasekuracji,466 070
-S.05.01.02,C0100,R0200,Netto,0
-S.05.01.02,C0110,R0200,Netto,407 359
-S.05.01.02,C0120,R0200,Netto,70 333
-S.05.01.02,C0130,R0200,Netto,0
-S.05.01.02,C0140,R0200,Netto,2 877
-S.05.01.02,C0150,R0200,Netto,496
-S.05.01.02,C0160,R0200,Netto,2 101
-S.05.01.02,C0200,R0200,Netto,8 833 366
-S.05.01.02,C0100,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0110,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,365 509
-S.05.01.02,C0120,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,68 710
-S.05.01.02,C0200,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,8 250 510
-S.05.01.02,C0100,R0220,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0110,R0220,Brutto – reasekuracja czynna proporcjonalna,15
-S.05.01.02,C0120,R0220,Brutto – reasekuracja czynna proporcjonalna,58 976
-S.05.01.02,C0200,R0220,Brutto – reasekuracja czynna proporcjonalna,426 393
-S.05.01.02,C0130,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0140,R0230,Brutto – reasekuracja czynna nieproporcjonalna,3 628
-S.05.01.02,C0150,R0230,Brutto – reasekuracja czynna nieproporcjonalna,368
-S.05.01.02,C0160,R0230,Brutto – reasekuracja czynna nieproporcjonalna,2 124
-S.05.01.02,C0200,R0230,Brutto – reasekuracja czynna nieproporcjonalna,6 120
-S.05.01.02,C0100,R0240,Udział zakładów reasekuracji,0
-S.05.01.02,C0110,R0240,Udział zakładów reasekuracji,79
-S.05.01.02,C0120,R0240,Udział zakładów reasekuracji,65 736
-S.05.01.02,C0130,R0240,Udział zakładów reasekuracji,0
-S.05.01.02,C0140,R0240,Udział zakładów reasekuracji,0
-S.05.01.02,C0150,R0240,Udział zakładów reasekuracji,2
-S.05.01.02,C0160,R0240,Udział zakładów reasekuracji,0
-S.05.01.02,C0200,R0240,Udział zakładów reasekuracji,468 391
-S.05.01.02,C0100,R0300,Netto,0
-S.05.01.02,C0110,R0300,Netto,365 445
-S.05.01.02,C0120,R0300,Netto,61 950
-S.05.01.02,C0130,R0300,Netto,0
-S.05.01.02,C0140,R0300,Netto,3 628
-S.05.01.02,C0150,R0300,Netto,366
-S.05.01.02,C0160,R0300,Netto,2 124
-S.05.01.02,C0200,R0300,Netto,8 214 632
-S.05.01.02,C0100,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
-S.05.01.02,C0110,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,223 008
-S.05.01.02,C0120,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,43 804
-S.05.01.02,C0200,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,4 632 181
-S.05.01.02,C0100,R0320,Brutto – reasekuracja czynna proporcjonalna,0
-S.05.01.02,C0110,R0320,Brutto – reasekuracja czynna proporcjonalna,3
-S.05.01.02,C0120,R0320,Brutto – reasekuracja czynna proporcjonalna,176 814
-S.05.01.02,C0200,R0320,Brutto – reasekuracja czynna proporcjonalna,370 214
-S.05.01.02,C0130,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
-S.05.01.02,C0140,R0330,Brutto – reasekuracja czynna nieproporcjonalna,2 868
-S.05.01.02,C0150,R0330,Brutto – reasekuracja czynna nieproporcjonalna,-22
-S.05.01.02,C0160,R0330,Brutto – reasekuracja czynna nieproporcjonalna,-228
-S.05.01.02,C0200,R0330,Brutto – reasekuracja czynna nieproporcjonalna,2 618
-S.05.01.02,C0100,R0340,Udział zakładów reasekuracji,0
-S.05.01.02,C0110,R0340,Udział zakładów reasekuracji,106
-S.05.01.02,C0120,R0340,Udział zakładów reasekuracji,204 069
-S.05.01.02,C0130,R0340,Udział zakładów reasekuracji,0
-S.05.01.02,C0140,R0340,Udział zakładów reasekuracji,0
-S.05.01.02,C0150,R0340,Udział zakładów reasekuracji,0
-S.05.01.02,C0160,R0340,Udział zakładów reasekuracji,2 996
-S.05.01.02,C0200,R0340,Udział zakładów reasekuracji,269 527
-S.05.01.02,C0100,R0400,Netto,0
-S.05.01.02,C0110,R0400,Netto,222 905
-S.05.01.02,C0120,R0400,Netto,16 549
-S.05.01.02,C0130,R0400,Netto,0
-S.05.01.02,C0140,R0400,Netto,2 868
-S.05.01.02,C0150,R0400,Netto,-22
-S.05.01.02,C0160,R0400,Netto,-3 224
-S.05.01.02,C0200,R0400,Netto,4 735 486
-S.05.01.02,C0100,R0550,Koszty poniesione,0
-S.05.01.02,C0110,R0550,Koszty poniesione,119 913
-S.05.01.02,C0120,R0550,Koszty poniesione,50 518
-S.05.01.02,C0130,R0550,Koszty poniesione,0
-S.05.01.02,C0140,R0550,Koszty poniesione,816
-S.05.01.02,C0150,R0550,Koszty poniesione,114
-S.05.01.02,C0160,R0550,Koszty poniesione,-12
-S.05.01.02,C0200,R0550,Koszty poniesione,2 848 410
-S.05.01.02,C0200,R1200,Saldo – pozostałe koszty/przychody techniczne,111 493
-S.05.01.02,C0200,R1300,Koszty ogółem,2 959 904
+Firma,Rok,Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+Warta,2023,S.05.01.02,C0100,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Warta,2023,S.05.01.02,C0110,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,408 623
+Warta,2023,S.05.01.02,C0120,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,72 329
+Warta,2023,S.05.01.02,C0200,R0110,Brutto – Bezpośrednia działalność ubezpieczeniowa,8 893 665
+Warta,2023,S.05.01.02,C0100,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Warta,2023,S.05.01.02,C0110,R0120,Brutto – reasekuracja czynna proporcjonalna,0
+Warta,2023,S.05.01.02,C0120,R0120,Brutto – reasekuracja czynna proporcjonalna,40 358
+Warta,2023,S.05.01.02,C0200,R0120,Brutto – reasekuracja czynna proporcjonalna,400 297
+Warta,2023,S.05.01.02,C0130,R0130,Brutto – reasekuracja czynna nieproporcjonalna,0
+Warta,2023,S.05.01.02,C0140,R0130,Brutto – reasekuracja czynna nieproporcjonalna,2 877
+Warta,2023,S.05.01.02,C0150,R0130,Brutto – reasekuracja czynna nieproporcjonalna,496
+Warta,2023,S.05.01.02,C0160,R0130,Brutto – reasekuracja czynna nieproporcjonalna,2 101
+Warta,2023,S.05.01.02,C0200,R0130,Brutto – reasekuracja czynna nieproporcjonalna,5 474
+Warta,2023,S.05.01.02,C0100,R0140,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0110,R0140,Udział zakładów reasekuracji,1 264
+Warta,2023,S.05.01.02,C0120,R0140,Udział zakładów reasekuracji,42 354
+Warta,2023,S.05.01.02,C0130,R0140,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0140,R0140,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0150,R0140,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0160,R0140,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0200,R0140,Udział zakładów reasekuracji,466 070
+Warta,2023,S.05.01.02,C0100,R0200,Netto,0
+Warta,2023,S.05.01.02,C0110,R0200,Netto,407 359
+Warta,2023,S.05.01.02,C0120,R0200,Netto,70 333
+Warta,2023,S.05.01.02,C0130,R0200,Netto,0
+Warta,2023,S.05.01.02,C0140,R0200,Netto,2 877
+Warta,2023,S.05.01.02,C0150,R0200,Netto,496
+Warta,2023,S.05.01.02,C0160,R0200,Netto,2 101
+Warta,2023,S.05.01.02,C0200,R0200,Netto,8 833 366
+Warta,2023,S.05.01.02,C0100,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Warta,2023,S.05.01.02,C0110,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,365 509
+Warta,2023,S.05.01.02,C0120,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,68 710
+Warta,2023,S.05.01.02,C0200,R0210,Brutto – Bezpośrednia działalność ubezpieczeniowa,8 250 510
+Warta,2023,S.05.01.02,C0100,R0220,Brutto – reasekuracja czynna proporcjonalna,0
+Warta,2023,S.05.01.02,C0110,R0220,Brutto – reasekuracja czynna proporcjonalna,15
+Warta,2023,S.05.01.02,C0120,R0220,Brutto – reasekuracja czynna proporcjonalna,58 976
+Warta,2023,S.05.01.02,C0200,R0220,Brutto – reasekuracja czynna proporcjonalna,426 393
+Warta,2023,S.05.01.02,C0130,R0230,Brutto – reasekuracja czynna nieproporcjonalna,0
+Warta,2023,S.05.01.02,C0140,R0230,Brutto – reasekuracja czynna nieproporcjonalna,3 628
+Warta,2023,S.05.01.02,C0150,R0230,Brutto – reasekuracja czynna nieproporcjonalna,368
+Warta,2023,S.05.01.02,C0160,R0230,Brutto – reasekuracja czynna nieproporcjonalna,2 124
+Warta,2023,S.05.01.02,C0200,R0230,Brutto – reasekuracja czynna nieproporcjonalna,6 120
+Warta,2023,S.05.01.02,C0100,R0240,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0110,R0240,Udział zakładów reasekuracji,79
+Warta,2023,S.05.01.02,C0120,R0240,Udział zakładów reasekuracji,65 736
+Warta,2023,S.05.01.02,C0130,R0240,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0140,R0240,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0150,R0240,Udział zakładów reasekuracji,2
+Warta,2023,S.05.01.02,C0160,R0240,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0200,R0240,Udział zakładów reasekuracji,468 391
+Warta,2023,S.05.01.02,C0100,R0300,Netto,0
+Warta,2023,S.05.01.02,C0110,R0300,Netto,365 445
+Warta,2023,S.05.01.02,C0120,R0300,Netto,61 950
+Warta,2023,S.05.01.02,C0130,R0300,Netto,0
+Warta,2023,S.05.01.02,C0140,R0300,Netto,3 628
+Warta,2023,S.05.01.02,C0150,R0300,Netto,366
+Warta,2023,S.05.01.02,C0160,R0300,Netto,2 124
+Warta,2023,S.05.01.02,C0200,R0300,Netto,8 214 632
+Warta,2023,S.05.01.02,C0100,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,0
+Warta,2023,S.05.01.02,C0110,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,223 008
+Warta,2023,S.05.01.02,C0120,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,43 804
+Warta,2023,S.05.01.02,C0200,R0310,Brutto – Bezpośrednia działalność ubezpieczeniowa,4 632 181
+Warta,2023,S.05.01.02,C0100,R0320,Brutto – reasekuracja czynna proporcjonalna,0
+Warta,2023,S.05.01.02,C0110,R0320,Brutto – reasekuracja czynna proporcjonalna,3
+Warta,2023,S.05.01.02,C0120,R0320,Brutto – reasekuracja czynna proporcjonalna,176 814
+Warta,2023,S.05.01.02,C0200,R0320,Brutto – reasekuracja czynna proporcjonalna,370 214
+Warta,2023,S.05.01.02,C0130,R0330,Brutto – reasekuracja czynna nieproporcjonalna,0
+Warta,2023,S.05.01.02,C0140,R0330,Brutto – reasekuracja czynna nieproporcjonalna,2 868
+Warta,2023,S.05.01.02,C0150,R0330,Brutto – reasekuracja czynna nieproporcjonalna,-22
+Warta,2023,S.05.01.02,C0160,R0330,Brutto – reasekuracja czynna nieproporcjonalna,-228
+Warta,2023,S.05.01.02,C0200,R0330,Brutto – reasekuracja czynna nieproporcjonalna,2 618
+Warta,2023,S.05.01.02,C0100,R0340,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0110,R0340,Udział zakładów reasekuracji,106
+Warta,2023,S.05.01.02,C0120,R0340,Udział zakładów reasekuracji,204 069
+Warta,2023,S.05.01.02,C0130,R0340,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0140,R0340,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0150,R0340,Udział zakładów reasekuracji,0
+Warta,2023,S.05.01.02,C0160,R0340,Udział zakładów reasekuracji,2 996
+Warta,2023,S.05.01.02,C0200,R0340,Udział zakładów reasekuracji,269 527
+Warta,2023,S.05.01.02,C0100,R0400,Netto,0
+Warta,2023,S.05.01.02,C0110,R0400,Netto,222 905
+Warta,2023,S.05.01.02,C0120,R0400,Netto,16 549
+Warta,2023,S.05.01.02,C0130,R0400,Netto,0
+Warta,2023,S.05.01.02,C0140,R0400,Netto,2 868
+Warta,2023,S.05.01.02,C0150,R0400,Netto,-22
+Warta,2023,S.05.01.02,C0160,R0400,Netto,-3 224
+Warta,2023,S.05.01.02,C0200,R0400,Netto,4 735 486
+Warta,2023,S.05.01.02,C0100,R0550,Koszty poniesione,0
+Warta,2023,S.05.01.02,C0110,R0550,Koszty poniesione,119 913
+Warta,2023,S.05.01.02,C0120,R0550,Koszty poniesione,50 518
+Warta,2023,S.05.01.02,C0130,R0550,Koszty poniesione,0
+Warta,2023,S.05.01.02,C0140,R0550,Koszty poniesione,816
+Warta,2023,S.05.01.02,C0150,R0550,Koszty poniesione,114
+Warta,2023,S.05.01.02,C0160,R0550,Koszty poniesione,-12
+Warta,2023,S.05.01.02,C0200,R0550,Koszty poniesione,2 848 410
+Warta,2023,S.05.01.02,C0200,R1200,Saldo – pozostałe koszty/przychody techniczne,111 493
+Warta,2023,S.05.01.02,C0200,R1300,Koszty ogółem,2 959 904

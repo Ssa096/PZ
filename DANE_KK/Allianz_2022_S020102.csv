@@ -1,80 +1,80 @@
-Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
-S.02.01.02,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0
-S.02.01.02,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",9 066
-S.02.01.02,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",5 853 538
-S.02.01.02,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0
-S.02.01.02,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",1 095 513
-S.02.01.02,C0010,R0100,Akcje i udziały,0
-S.02.01.02,C0010,R0110,Akcje i udziały – notowane,0
-S.02.01.02,C0010,R0120,Akcje i udziały – nienotowane,0
-S.02.01.02,C0010,R0130,Dłużne papiery wartościowe,4 066 277
-S.02.01.02,C0010,R0140,Obligacje państwowe,3 828 388
-S.02.01.02,C0010,R0150,Obligacje korporacyjne,237 434
-S.02.01.02,C0010,R0160,Strukturyzowane papiery wartościowe,455
-S.02.01.02,C0010,R0170,Zabezpieczone papiery wartościowe,0
-S.02.01.02,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,321 740
-S.02.01.02,C0010,R0190,Instrumenty pochodne,26 059
-S.02.01.02,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,343 949
-S.02.01.02,C0010,R0210,Pozostałe lokaty,0
-S.02.01.02,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",9 831 688
-S.02.01.02,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,236 641
-S.02.01.02,C0010,R0240,Pożyczki pod zastaw polisy,0
-S.02.01.02,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0
-S.02.01.02,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,236 641
-S.02.01.02,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,-34 140
-S.02.01.02,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 122
-S.02.01.02,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0
-S.02.01.02,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 122
-S.02.01.02,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone",-27 876
-S.02.01.02,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,-11 802
-S.02.01.02,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-16 074
-S.02.01.02,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",-7 386
-S.02.01.02,C0010,R0350,Depozyty u cedentów,0
-S.02.01.02,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,41 013
-S.02.01.02,C0010,R0370,Należności z tytułu reasekuracji biernej,1 722
-S.02.01.02,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",124 088
-S.02.01.02,C0010,R0390,Akcje własne (posiadane bezpośrednio),0
-S.02.01.02,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0
-S.02.01.02,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,280 375
-S.02.01.02,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),5 208
-S.02.01.02,C0010,R0500,Aktywa ogółem,16 349 199
-S.02.01.02,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,75 622
-S.02.01.02,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0
-S.02.01.02,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
-S.02.01.02,C0010,R0540,Najlepsze oszacowanie,0
-S.02.01.02,C0010,R0550,Margines ryzyka,0
-S.02.01.02,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),75 622
-S.02.01.02,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
-S.02.01.02,C0010,R0580,Najlepsze oszacowanie,70 708
-S.02.01.02,C0010,R0590,Margines ryzyka,4 914
-S.02.01.02,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 497 978
-S.02.01.02,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),-760 714
-S.02.01.02,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
-S.02.01.02,C0010,R0630,Najlepsze oszacowanie,-919 139
-S.02.01.02,C0010,R0640,Margines ryzyka,158 425
-S.02.01.02,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",2 258 692
-S.02.01.02,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
-S.02.01.02,C0010,R0670,Najlepsze oszacowanie,2 059 490
-S.02.01.02,C0010,R0680,Margines ryzyka,199 203
-S.02.01.02,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",8 199 521
-S.02.01.02,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
-S.02.01.02,C0010,R0710,Najlepsze oszacowanie,7 858 158
-S.02.01.02,C0010,R0720,Margines ryzyka,341 364
-S.02.01.02,C0010,R0730,Pozostałe rezerwy techniczno-ubezpieczeniowe,0
-S.02.01.02,C0010,R0740,Zobowiązania warunkowe,0
-S.02.01.02,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),119 443
-S.02.01.02,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,14 875
-S.02.01.02,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0
-S.02.01.02,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,745 967
-S.02.01.02,C0010,R0790,Instrumenty pochodne,20 071
-S.02.01.02,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0
-S.02.01.02,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,10 700
-S.02.01.02,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,66 121
-S.02.01.02,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,6 923
-S.02.01.02,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",418 253
-S.02.01.02,C0010,R0850,Zobowiązania podporządkowane,0
-S.02.01.02,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0
-S.02.01.02,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0
-S.02.01.02,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),48 287
-S.02.01.02,C0010,R0900,Zobowiązania ogółem,11 223 761
-S.02.01.02,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,5 125 437
+Firma,Rok,Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+Allianz,2022,S.02.01.02,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0
+Allianz,2022,S.02.01.02,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",9 066
+Allianz,2022,S.02.01.02,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",5 853 538
+Allianz,2022,S.02.01.02,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0
+Allianz,2022,S.02.01.02,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",1 095 513
+Allianz,2022,S.02.01.02,C0010,R0100,Akcje i udziały,0
+Allianz,2022,S.02.01.02,C0010,R0110,Akcje i udziały – notowane,0
+Allianz,2022,S.02.01.02,C0010,R0120,Akcje i udziały – nienotowane,0
+Allianz,2022,S.02.01.02,C0010,R0130,Dłużne papiery wartościowe,4 066 277
+Allianz,2022,S.02.01.02,C0010,R0140,Obligacje państwowe,3 828 388
+Allianz,2022,S.02.01.02,C0010,R0150,Obligacje korporacyjne,237 434
+Allianz,2022,S.02.01.02,C0010,R0160,Strukturyzowane papiery wartościowe,455
+Allianz,2022,S.02.01.02,C0010,R0170,Zabezpieczone papiery wartościowe,0
+Allianz,2022,S.02.01.02,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,321 740
+Allianz,2022,S.02.01.02,C0010,R0190,Instrumenty pochodne,26 059
+Allianz,2022,S.02.01.02,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,343 949
+Allianz,2022,S.02.01.02,C0010,R0210,Pozostałe lokaty,0
+Allianz,2022,S.02.01.02,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",9 831 688
+Allianz,2022,S.02.01.02,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,236 641
+Allianz,2022,S.02.01.02,C0010,R0240,Pożyczki pod zastaw polisy,0
+Allianz,2022,S.02.01.02,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0
+Allianz,2022,S.02.01.02,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,236 641
+Allianz,2022,S.02.01.02,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,-34 140
+Allianz,2022,S.02.01.02,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 122
+Allianz,2022,S.02.01.02,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0
+Allianz,2022,S.02.01.02,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 122
+Allianz,2022,S.02.01.02,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone",-27 876
+Allianz,2022,S.02.01.02,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,-11 802
+Allianz,2022,S.02.01.02,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-16 074
+Allianz,2022,S.02.01.02,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",-7 386
+Allianz,2022,S.02.01.02,C0010,R0350,Depozyty u cedentów,0
+Allianz,2022,S.02.01.02,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,41 013
+Allianz,2022,S.02.01.02,C0010,R0370,Należności z tytułu reasekuracji biernej,1 722
+Allianz,2022,S.02.01.02,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",124 088
+Allianz,2022,S.02.01.02,C0010,R0390,Akcje własne (posiadane bezpośrednio),0
+Allianz,2022,S.02.01.02,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0
+Allianz,2022,S.02.01.02,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,280 375
+Allianz,2022,S.02.01.02,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),5 208
+Allianz,2022,S.02.01.02,C0010,R0500,Aktywa ogółem,16 349 199
+Allianz,2022,S.02.01.02,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,75 622
+Allianz,2022,S.02.01.02,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0
+Allianz,2022,S.02.01.02,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+Allianz,2022,S.02.01.02,C0010,R0540,Najlepsze oszacowanie,0
+Allianz,2022,S.02.01.02,C0010,R0550,Margines ryzyka,0
+Allianz,2022,S.02.01.02,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),75 622
+Allianz,2022,S.02.01.02,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+Allianz,2022,S.02.01.02,C0010,R0580,Najlepsze oszacowanie,70 708
+Allianz,2022,S.02.01.02,C0010,R0590,Margines ryzyka,4 914
+Allianz,2022,S.02.01.02,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 497 978
+Allianz,2022,S.02.01.02,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),-760 714
+Allianz,2022,S.02.01.02,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+Allianz,2022,S.02.01.02,C0010,R0630,Najlepsze oszacowanie,-919 139
+Allianz,2022,S.02.01.02,C0010,R0640,Margines ryzyka,158 425
+Allianz,2022,S.02.01.02,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",2 258 692
+Allianz,2022,S.02.01.02,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+Allianz,2022,S.02.01.02,C0010,R0670,Najlepsze oszacowanie,2 059 490
+Allianz,2022,S.02.01.02,C0010,R0680,Margines ryzyka,199 203
+Allianz,2022,S.02.01.02,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",8 199 521
+Allianz,2022,S.02.01.02,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0
+Allianz,2022,S.02.01.02,C0010,R0710,Najlepsze oszacowanie,7 858 158
+Allianz,2022,S.02.01.02,C0010,R0720,Margines ryzyka,341 364
+Allianz,2022,S.02.01.02,C0010,R0730,Pozostałe rezerwy techniczno-ubezpieczeniowe,0
+Allianz,2022,S.02.01.02,C0010,R0740,Zobowiązania warunkowe,0
+Allianz,2022,S.02.01.02,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),119 443
+Allianz,2022,S.02.01.02,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,14 875
+Allianz,2022,S.02.01.02,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0
+Allianz,2022,S.02.01.02,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,745 967
+Allianz,2022,S.02.01.02,C0010,R0790,Instrumenty pochodne,20 071
+Allianz,2022,S.02.01.02,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0
+Allianz,2022,S.02.01.02,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,10 700
+Allianz,2022,S.02.01.02,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,66 121
+Allianz,2022,S.02.01.02,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,6 923
+Allianz,2022,S.02.01.02,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",418 253
+Allianz,2022,S.02.01.02,C0010,R0850,Zobowiązania podporządkowane,0
+Allianz,2022,S.02.01.02,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0
+Allianz,2022,S.02.01.02,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0
+Allianz,2022,S.02.01.02,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),48 287
+Allianz,2022,S.02.01.02,C0010,R0900,Zobowiązania ogółem,11 223 761
+Allianz,2022,S.02.01.02,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,5 125 437

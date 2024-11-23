@@ -1,92 +1,92 @@
-Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
-S.23.01.01,C0010,R0010,Kapitał zakładowy (wraz z akcjami własnymi),87 268
-S.23.01.01,C0020,R0010,Kapitał zakładowy (wraz z akcjami własnymi),87 268
-S.23.01.01,C0040,R0010,Kapitał zakładowy (wraz z akcjami własnymi),0
-S.23.01.01,C0010,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
-S.23.01.01,C0020,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
-S.23.01.01,C0040,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
-S.23.01.01,C0010,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0020,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0040,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0010,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0030,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0040,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0050,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
-S.23.01.01,C0010,R0070,Fundusze nadwyżkowe,0
-S.23.01.01,C0020,R0070,Fundusze nadwyżkowe,0
-S.23.01.01,C0010,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0030,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0040,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0050,R0090,Akcje uprzywilejowane,0
-S.23.01.01,C0010,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0030,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0040,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0050,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
-S.23.01.01,C0010,R0130,Rezerwa uzgodnieniowa,4 366 282
-S.23.01.01,C0020,R0130,Rezerwa uzgodnieniowa,4 366 282
-S.23.01.01,C0010,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0030,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0040,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0050,R0140,Zobowiązania podporządkowane,0
-S.23.01.01,C0010,R0160,Kwota odpowiadająca wartości netto aktywów z tytułu odroczonego podatku dochodowego,0
-S.23.01.01,C0050,R0160,Kwota odpowiadająca wartości netto aktywów z tytułu odroczonego podatku dochodowego,0
-S.23.01.01,C0010,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0020,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0030,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0040,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0050,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
-S.23.01.01,C0010,R0220,"Środki własne ze sprawozdań finansowych, których nie należy uwzględniać w rezerwie uzgodnieniowej i które nie spełniają kryteriów klasyfikacji jako środki własne wg Wypłacalność II",0
-S.23.01.01,C0010,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0020,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0030,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0040,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0050,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
-S.23.01.01,C0010,R0290,Podstawowe środki własne ogółem po odliczeniach,4 453 550
-S.23.01.01,C0020,R0290,Podstawowe środki własne ogółem po odliczeniach,4 453 550
-S.23.01.01,C0030,R0290,Podstawowe środki własne ogółem po odliczeniach,0
-S.23.01.01,C0040,R0290,Podstawowe środki własne ogółem po odliczeniach,0
-S.23.01.01,C0050,R0290,Podstawowe środki własne ogółem po odliczeniach,0
-S.23.01.01,C0010,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
-S.23.01.01,C0040,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
-S.23.01.01,C0010,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0040,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0010,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0040,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0050,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
-S.23.01.01,C0010,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
-S.23.01.01,C0040,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
-S.23.01.01,C0010,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
-S.23.01.01,C0040,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
-S.23.01.01,C0050,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
-S.23.01.01,C0010,R0390,Pozostałe uzupełniające środki własne,0
-S.23.01.01,C0040,R0390,Pozostałe uzupełniające środki własne,0
-S.23.01.01,C0050,R0390,Pozostałe uzupełniające środki własne,0
-S.23.01.01,C0010,R0400,Uzupełniające środki własne ogółem,0
-S.23.01.01,C0040,R0400,Uzupełniające środki własne ogółem,0
-S.23.01.01,C0050,R0400,Uzupełniające środki własne ogółem,0
-S.23.01.01,C0010,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,4 453 550
-S.23.01.01,C0020,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,4 453 550
-S.23.01.01,C0030,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,0
-S.23.01.01,C0040,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,0
-S.23.01.01,C0010,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,4 453 550
-S.23.01.01,C0020,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,4 453 550
-S.23.01.01,C0030,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,0
-S.23.01.01,C0040,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,0
-S.23.01.01,C0010,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,4 453 550
-S.23.01.01,C0020,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,4 453 550
-S.23.01.01,C0030,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,0
-S.23.01.01,C0040,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,0
-S.23.01.01,C0010,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,4 453 550
-S.23.01.01,C0020,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,4 453 550
-S.23.01.01,C0030,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,0
-S.23.01.01,C0040,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,0
-S.23.01.01,C0010,R0580,SCR,2 068 214
-S.23.01.01,C0010,R0600,MCR,517 053
-S.23.01.01,C0010,R0620,Wskaźnik dopuszczonych środków własnych do SCR,"215,33%"
-S.23.01.01,C0010,R0640,Wskaźnik dopuszczonych środków własnych do MCR,"861,33%"
+Firma,Rok,Kod_S,Kod_C,Kod_R,Nazwa,Wartosc
+Allianz,2023,S.23.01.01,C0010,R0010,Kapitał zakładowy (wraz z akcjami własnymi),87 268
+Allianz,2023,S.23.01.01,C0020,R0010,Kapitał zakładowy (wraz z akcjami własnymi),87 268
+Allianz,2023,S.23.01.01,C0040,R0010,Kapitał zakładowy (wraz z akcjami własnymi),0
+Allianz,2023,S.23.01.01,C0010,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
+Allianz,2023,S.23.01.01,C0020,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
+Allianz,2023,S.23.01.01,C0040,R0030,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z kapitałem zakładowym,0
+Allianz,2023,S.23.01.01,C0010,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Allianz,2023,S.23.01.01,C0020,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Allianz,2023,S.23.01.01,C0040,R0040,"Kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Allianz,2023,S.23.01.01,C0010,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Allianz,2023,S.23.01.01,C0030,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Allianz,2023,S.23.01.01,C0040,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Allianz,2023,S.23.01.01,C0050,R0050,"Podporządkowane fundusze udziałowe/członkowskie w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności",0
+Allianz,2023,S.23.01.01,C0010,R0070,Fundusze nadwyżkowe,0
+Allianz,2023,S.23.01.01,C0020,R0070,Fundusze nadwyżkowe,0
+Allianz,2023,S.23.01.01,C0010,R0090,Akcje uprzywilejowane,0
+Allianz,2023,S.23.01.01,C0030,R0090,Akcje uprzywilejowane,0
+Allianz,2023,S.23.01.01,C0040,R0090,Akcje uprzywilejowane,0
+Allianz,2023,S.23.01.01,C0050,R0090,Akcje uprzywilejowane,0
+Allianz,2023,S.23.01.01,C0010,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Allianz,2023,S.23.01.01,C0030,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Allianz,2023,S.23.01.01,C0040,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Allianz,2023,S.23.01.01,C0050,R0110,Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej związana z akcjami uprzywilejowanymi,0
+Allianz,2023,S.23.01.01,C0010,R0130,Rezerwa uzgodnieniowa,4 366 282
+Allianz,2023,S.23.01.01,C0020,R0130,Rezerwa uzgodnieniowa,4 366 282
+Allianz,2023,S.23.01.01,C0010,R0140,Zobowiązania podporządkowane,0
+Allianz,2023,S.23.01.01,C0030,R0140,Zobowiązania podporządkowane,0
+Allianz,2023,S.23.01.01,C0040,R0140,Zobowiązania podporządkowane,0
+Allianz,2023,S.23.01.01,C0050,R0140,Zobowiązania podporządkowane,0
+Allianz,2023,S.23.01.01,C0010,R0160,Kwota odpowiadająca wartości netto aktywów z tytułu odroczonego podatku dochodowego,0
+Allianz,2023,S.23.01.01,C0050,R0160,Kwota odpowiadająca wartości netto aktywów z tytułu odroczonego podatku dochodowego,0
+Allianz,2023,S.23.01.01,C0010,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Allianz,2023,S.23.01.01,C0020,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Allianz,2023,S.23.01.01,C0030,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Allianz,2023,S.23.01.01,C0040,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Allianz,2023,S.23.01.01,C0050,R0180,"Pozostałe pozycje środków własnych zatwierdzone przez organ nadzoru jako podstawowe środki własne, niewymienione powyżej",0
+Allianz,2023,S.23.01.01,C0010,R0220,"Środki własne ze sprawozdań finansowych, których nie należy uwzględniać w rezerwie uzgodnieniowej i które nie spełniają kryteriów klasyfikacji jako środki własne wg Wypłacalność II",0
+Allianz,2023,S.23.01.01,C0010,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Allianz,2023,S.23.01.01,C0020,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Allianz,2023,S.23.01.01,C0030,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Allianz,2023,S.23.01.01,C0040,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Allianz,2023,S.23.01.01,C0050,R0230,Wartość odliczeń z tytułu udziałów kapitałowych w instytucjach finansowych i kredytowych,0
+Allianz,2023,S.23.01.01,C0010,R0290,Podstawowe środki własne ogółem po odliczeniach,4 453 550
+Allianz,2023,S.23.01.01,C0020,R0290,Podstawowe środki własne ogółem po odliczeniach,4 453 550
+Allianz,2023,S.23.01.01,C0030,R0290,Podstawowe środki własne ogółem po odliczeniach,0
+Allianz,2023,S.23.01.01,C0040,R0290,Podstawowe środki własne ogółem po odliczeniach,0
+Allianz,2023,S.23.01.01,C0050,R0290,Podstawowe środki własne ogółem po odliczeniach,0
+Allianz,2023,S.23.01.01,C0010,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
+Allianz,2023,S.23.01.01,C0040,R0300,"Nieopłacony kapitał zakładowy, do którego opłacenia nie wezwano i który może być wezwany do opłacenia na żądanie",0
+Allianz,2023,S.23.01.01,C0010,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Allianz,2023,S.23.01.01,C0040,R0310,"Nieopłacony kapitał założycielski, wkłady/składki członkowskie lub równoważna pozycja podstawowych środków własnych w przypadku towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej i innych towarzystw ubezpieczeń opartych na zasadzie wzajemności, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Allianz,2023,S.23.01.01,C0010,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Allianz,2023,S.23.01.01,C0040,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Allianz,2023,S.23.01.01,C0050,R0320,"Nieopłacone akcje uprzywilejowane, do których opłacenia nie wezwano i które mogą być wezwane do opłacenia na żądanie",0
+Allianz,2023,S.23.01.01,C0010,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
+Allianz,2023,S.23.01.01,C0040,R0330,Prawnie wiążące zobowiązanie do subskrypcji i opłacenia na żądanie zobowiązań podporządkowanych,0
+Allianz,2023,S.23.01.01,C0010,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0040,R0340,Akredytywy i gwarancje zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0010,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0040,R0350,Akredytywy i gwarancje inne niż zgodne z art. 96 pkt 2 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0010,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0040,R0360,Dodatkowe wkłady od członków zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0010,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0040,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0050,R0370,Dodatkowe wkłady od członków – inne niż zgodnie z art. 96 akapit pierwszy pkt 3 dyrektywy 2009/138/WE,0
+Allianz,2023,S.23.01.01,C0010,R0390,Pozostałe uzupełniające środki własne,0
+Allianz,2023,S.23.01.01,C0040,R0390,Pozostałe uzupełniające środki własne,0
+Allianz,2023,S.23.01.01,C0050,R0390,Pozostałe uzupełniające środki własne,0
+Allianz,2023,S.23.01.01,C0010,R0400,Uzupełniające środki własne ogółem,0
+Allianz,2023,S.23.01.01,C0040,R0400,Uzupełniające środki własne ogółem,0
+Allianz,2023,S.23.01.01,C0050,R0400,Uzupełniające środki własne ogółem,0
+Allianz,2023,S.23.01.01,C0010,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,4 453 550
+Allianz,2023,S.23.01.01,C0020,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,4 453 550
+Allianz,2023,S.23.01.01,C0030,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,0
+Allianz,2023,S.23.01.01,C0040,R0500,Kwota dostępnych środków własnych ogółem na pokrycie SCR,0
+Allianz,2023,S.23.01.01,C0010,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,4 453 550
+Allianz,2023,S.23.01.01,C0020,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,4 453 550
+Allianz,2023,S.23.01.01,C0030,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,0
+Allianz,2023,S.23.01.01,C0040,R0510,Kwota dostępnych środków własnych ogółem na pokrycie MCR,0
+Allianz,2023,S.23.01.01,C0010,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,4 453 550
+Allianz,2023,S.23.01.01,C0020,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,4 453 550
+Allianz,2023,S.23.01.01,C0030,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,0
+Allianz,2023,S.23.01.01,C0040,R0540,Kwota dopuszczonych środków własnych ogółem na pokrycie SCR,0
+Allianz,2023,S.23.01.01,C0010,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,4 453 550
+Allianz,2023,S.23.01.01,C0020,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,4 453 550
+Allianz,2023,S.23.01.01,C0030,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,0
+Allianz,2023,S.23.01.01,C0040,R0550,Kwota dopuszczonych środków własnych ogółem na pokrycie MCR,0
+Allianz,2023,S.23.01.01,C0010,R0580,SCR,2 068 214
+Allianz,2023,S.23.01.01,C0010,R0600,MCR,517 053
+Allianz,2023,S.23.01.01,C0010,R0620,Wskaźnik dopuszczonych środków własnych do SCR,"215,33%"
+Allianz,2023,S.23.01.01,C0010,R0640,Wskaźnik dopuszczonych środków własnych do MCR,"861,33%"
