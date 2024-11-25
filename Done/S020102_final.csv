@@ -1,0 +1,1440 @@
+Kod_S,Kod_C,Kod_R,Nazwa,Wartosc,rok,firma
+S020102,C0010,R0030,Warto(cid:1)ci niematerialne i prawne,0,2018,Allianz
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2018,Allianz
+S020102,C0010,R0050,Nadwy(cid:2)ka na funduszu (cid:1)wiadcze(cid:3) emerytalnych,0,2018,Allianz
+S020102,C0010,R0060,"Nieruchomo(cid:1)ci, maszyny i wyposa(cid:2)enie (Rzeczowe aktywa trwałe) wykorzystywane na u(cid:2)ytek własny",995,2018,Allianz
+S020102,C0010,R0070,"Lokaty (inne ni(cid:2) aktywa dla ubezpiecze(cid:3) na (cid:2)ycie, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i dla ubezpiecze(cid:3) na (cid:2)ycie zwi(cid:4)zanych z ubezpieczeniowym funduszem kapitałowym)",829 912,2018,Allianz
+S020102,C0010,R0080,Nieruchomo(cid:1)ci (inne ni(cid:2) do u(cid:2)ytku własnego),0,2018,Allianz
+S020102,C0010,R0090,"Udziały w jednostkach powi(cid:4)zanych, w tym udziały kapitałowe",0,2018,Allianz
+S020102,C0010,R0100,Akcje i udziały,0,2018,Allianz
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2018,Allianz
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2018,Allianz
+S020102,C0010,R0130,Dłu(cid:2)ne papiery warto(cid:1)ciowe,725 738,2018,Allianz
+S020102,C0010,R0140,Obligacje pa(cid:3)stwowe,725 738,2018,Allianz
+S020102,C0010,R0150,Obligacje korporacyjne,0,2018,Allianz
+S020102,C0010,R0160,Strukturyzowane papiery warto(cid:1)ciowe,0,2018,Allianz
+S020102,C0010,R0170,Zabezpieczone papiery warto(cid:1)ciowe,0,2018,Allianz
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsi(cid:5)biorstwach zbiorowego inwestowania,72 858,2018,Allianz
+S020102,C0010,R0190,Instrumenty pochodne,0,2018,Allianz
+S020102,C0010,R0200,Depozyty inne ni(cid:2) ekwiwalenty (cid:1)rodków pieni(cid:5)(cid:2)nych,31 316,2018,Allianz
+S020102,C0010,R0210,Pozostałe lokaty,0,2018,Allianz
+S020102,C0010,R0220,"Aktywa dla ubezpiecze(cid:3) na (cid:2)ycie, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) na (cid:2)ycie zwi(cid:4)zanych z ubezpieczeniowym funduszem kapitałowym",1 728 883,2018,Allianz
+S020102,C0010,R0230,Po(cid:2)yczki i po(cid:2)yczki zabezpieczone hipotecznie,0,2018,Allianz
+S020102,C0010,R0240,Po(cid:2)yczki pod zastaw polisy,0,2018,Allianz
+S020102,C0010,R0250,Po(cid:2)yczki i po(cid:2)yczki zabezpieczone hipotecznie dla osób fizycznych,0,2018,Allianz
+S020102,C0010,R0260,Pozostałe po(cid:2)yczki i po(cid:2)yczki zabezpieczone hipotecznie,0,2018,Allianz
+S020102,C0010,R0270,Kwoty nale(cid:2)ne z umów reasekuracji dla zobowi(cid:4)za(cid:3) wynikaj(cid:4)cych z:,-16 797,2018,Allianz
+S020102,C0010,R0280,Ubezpieczenia inne ni(cid:2) ubezpieczenia na (cid:2)ycie i ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie,0,2018,Allianz
+S020102,C0010,R0290,Ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem zdrowotnych),0,2018,Allianz
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie,0,2018,Allianz
+S020102,C0010,R0310,"Ubezpieczenia na (cid:2)ycie i ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) na (cid:2)ycie, z wył(cid:4)czeniem ubezpiecze(cid:3) zdrowotnych oraz ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone",-15 413,2018,Allianz
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpiecze(cid:3) na (cid:2)ycie,0,2018,Allianz
+S020102,C0010,R0330,"Ubezpieczenia na (cid:2)ycie z wył(cid:4)czeniem ubezpiecze(cid:3) zdrowotnych oraz ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) z ubezpieczeniowym funduszem kapitałowym",-15 413,2018,Allianz
+S020102,C0010,R0340,"Ubezpieczenia na (cid:2)ycie, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe, i ubezpieczenia na (cid:2)ycie z ubezpieczeniowym funduszem kapitałowym",-1 384,2018,Allianz
+S020102,C0010,R0350,Depozyty u cedentów,0,2018,Allianz
+S020102,C0010,R0360,Nale(cid:2)no(cid:1)ci z tytułu ubezpiecze(cid:3) i od po(cid:1)redników ubezpieczeniowych,2 758,2018,Allianz
+S020102,C0010,R0370,Nale(cid:2)no(cid:1)ci z tytułu reasekuracji biernej,0,2018,Allianz
+S020102,C0010,R0380,"Pozostałe nale(cid:2)no(cid:1)ci (handlowe, inne ni(cid:2) z działalno(cid:1)ci ubezpieczeniowej)",19 086,2018,Allianz
+S020102,C0010,R0390,Akcje własne (posiadane bezpo(cid:1)rednio),0,2018,Allianz
+S020102,C0010,R0400,"Kwoty nale(cid:2)ne, dotycz(cid:4)ce pozycji (cid:1)rodków własnych lub kapitału zało(cid:2)ycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2018,Allianz
+S020102,C0010,R0410,(cid:6)rodki pieni(cid:5)(cid:2)ne i ekwiwalenty (cid:1)rodków pieni(cid:5)(cid:2)nych,1 405,2018,Allianz
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),2 675,2018,Allianz
+S020102,C0010,R0500,Aktywa ogółem,2 568 918,2018,Allianz
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne ni(cid:2) ubezpieczenia na (cid:2)ycie,0,2018,Allianz
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne ni(cid:2) ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem zdrowotnych),0,2018,Allianz
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0,2018,Allianz
+S020102,C0010,R0540,Najlepsze oszacowanie,0,2018,Allianz
+S020102,C0010,R0550,Margines ryzyka,0,2018,Allianz
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpiecze(cid:3) innych ni(cid:2) ubezpieczenia na (cid:2)ycie),0,2018,Allianz
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0,2018,Allianz
+S020102,C0010,R0580,Najlepsze oszacowanie,0,2018,Allianz
+S020102,C0010,R0590,Margines ryzyka,0,2018,Allianz
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) z ubezpieczeniowym funduszem kapitałowym)",127 316,2018,Allianz
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpiecze(cid:3) na (cid:2)ycie),0,2018,Allianz
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0,2018,Allianz
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2018,Allianz
+S020102,C0010,R0640,Margines ryzyka,0,2018,Allianz
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na (cid:2)ycie (z wył(cid:4)czeniem zdrowotnych oraz ubezpiecze(cid:3), w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpiecze(cid:3) z ubezpieczeniowym funduszem kapitałowym)",127 316,2018,Allianz
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0,2018,Allianz
+S020102,C0010,R0670,Najlepsze oszacowanie,80 634,2018,Allianz
+S020102,C0010,R0680,Margines ryzyka,46 682,2018,Allianz
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których (cid:1)wiadczenie jest ustalane w oparciu o okre(cid:1)lone indeksy lub inne warto(cid:1)ci bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",1 594 912,2018,Allianz
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane ł(cid:4)cznie,0,2018,Allianz
+S020102,C0010,R0710,Najlepsze oszacowanie,1 558 274,2018,Allianz
+S020102,C0010,R0720,Margines ryzyka,36 638,2018,Allianz
+S020102,C0010,R0740,Zobowi(cid:4)zania warunkowe,0,2018,Allianz
+S020102,C0010,R0750,Pozostałe rezerwy (inne ni(cid:2) rezerwy techniczno-ubezpieczeniowe),29 179,2018,Allianz
+S020102,C0010,R0760,Zobowi(cid:4)zania z tytułu (cid:1)wiadcze(cid:3) emerytalnych dla pracowników,120,2018,Allianz
+S020102,C0010,R0770,Zobowi(cid:4)zania z tytułu depozytów zakładów reasekuracji,0,2018,Allianz
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,70 537,2018,Allianz
+S020102,C0010,R0790,Instrumenty pochodne,0,2018,Allianz
+S020102,C0010,R0800,Zobowi(cid:4)zania wobec instytucji kredytowych,0,2018,Allianz
+S020102,C0010,R0810,Zobowi(cid:4)zania finansowe inne ni(cid:2) zobowi(cid:4)zania wobec instytucji kredytowych,0,2018,Allianz
+S020102,C0010,R0820,Zobowi(cid:4)zania z tytułu ubezpiecze(cid:3) i wobec po(cid:1)redników ubezpieczeniowych,4 345,2018,Allianz
+S020102,C0010,R0830,Zobowi(cid:4)zania z tytułu reasekuracji biernej,0,2018,Allianz
+S020102,C0010,R0840,"Pozostałe zobowi(cid:4)zania (handlowe, inne ni(cid:2) z tytułu działalno(cid:1)ci ubezpieczeniowej)",7 045,2018,Allianz
+S020102,C0010,R0850,Zobowi(cid:4)zania podporz(cid:4)dkowane,0,2018,Allianz
+S020102,C0010,R0860,Zobowi(cid:4)zania podporz(cid:4)dkowane nieuwzgl(cid:5)dnione w podstawowych (cid:1)rodkach własnych,0,2018,Allianz
+S020102,C0010,R0870,Zobowi(cid:4)zania podporz(cid:4)dkowane uwzgl(cid:5)dnione w podstawowych (cid:1)rodkach własnych,0,2018,Allianz
+S020102,C0010,R0880,Pozostałe zobowi(cid:4)zania (niewykazane w innych pozycjach),511,2018,Allianz
+S020102,C0010,R0900,Zobowi(cid:4)zania ogółem,1 833 964,2018,Allianz
+S020102,C0010,R1000,Nadwy(cid:5)ka aktywów nad zobowi(cid:4)zaniami,734 954,2018,Allianz
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2019,Allianz
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2019,Allianz
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2019,Allianz
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",7 598,2019,Allianz
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",886 519,2019,Allianz
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0,2019,Allianz
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",0,2019,Allianz
+S020102,C0010,R0100,Akcje i udziały,0,2019,Allianz
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2019,Allianz
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2019,Allianz
+S020102,C0010,R0130,Dłużne papiery wartościowe,758 905,2019,Allianz
+S020102,C0010,R0140,Obligacje państwowe,758 905,2019,Allianz
+S020102,C0010,R0150,Obligacje korporacyjne,0,2019,Allianz
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2019,Allianz
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2019,Allianz
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,82 162,2019,Allianz
+S020102,C0010,R0190,Instrumenty pochodne,0,2019,Allianz
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,45 452,2019,Allianz
+S020102,C0010,R0210,Pozostałe lokaty,0,2019,Allianz
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",1 659 144,2019,Allianz
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2019,Allianz
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2019,Allianz
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2019,Allianz
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2019,Allianz
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,-12 463,2019,Allianz
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,0,2019,Allianz
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2019,Allianz
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,0,2019,Allianz
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone",-10 999,2019,Allianz
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2019,Allianz
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-10 999,2019,Allianz
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",-1 464,2019,Allianz
+S020102,C0010,R0350,Depozyty u cedentów,0,2019,Allianz
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,6 109,2019,Allianz
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2019,Allianz
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",12 775,2019,Allianz
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2019,Allianz
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2019,Allianz
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,1 268,2019,Allianz
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),2 209,2019,Allianz
+S020102,C0010,R0500,Aktywa ogółem,2 563 159,2019,Allianz
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,0,2019,Allianz
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2019,Allianz
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Allianz
+S020102,C0010,R0540,Najlepsze oszacowanie,0,2019,Allianz
+S020102,C0010,R0550,Margines ryzyka,0,2019,Allianz
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),0,2019,Allianz
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Allianz
+S020102,C0010,R0580,Najlepsze oszacowanie,0,2019,Allianz
+S020102,C0010,R0590,Margines ryzyka,0,2019,Allianz
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",119 524,2019,Allianz
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2019,Allianz
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Allianz
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2019,Allianz
+S020102,C0010,R0640,Margines ryzyka,0,2019,Allianz
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",119 524,2019,Allianz
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Allianz
+S020102,C0010,R0670,Najlepsze oszacowanie,67 502,2019,Allianz
+S020102,C0010,R0680,Margines ryzyka,52 022,2019,Allianz
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",1 535 425,2019,Allianz
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Allianz
+S020102,C0010,R0710,Najlepsze oszacowanie,1 497 322,2019,Allianz
+S020102,C0010,R0720,Margines ryzyka,38 103,2019,Allianz
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2019,Allianz
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),29 188,2019,Allianz
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,125,2019,Allianz
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2019,Allianz
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,89 532,2019,Allianz
+S020102,C0010,R0790,Instrumenty pochodne,0,2019,Allianz
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2019,Allianz
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,6 004,2019,Allianz
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,6 239,2019,Allianz
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2019,Allianz
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",4 588,2019,Allianz
+S020102,C0010,R0850,Zobowiązania podporządkowane,0,2019,Allianz
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0,2019,Allianz
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0,2019,Allianz
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),0,2019,Allianz
+S020102,C0010,R0900,Zobowiązania ogółem,1 790 625,2019,Allianz
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,772 534,2019,Allianz
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2020,Allianz
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2020,Allianz
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2020,Allianz
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",8 368,2020,Allianz
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",1 001 967,2020,Allianz
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0,2020,Allianz
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",0,2020,Allianz
+S020102,C0010,R0100,Akcje i udziały,0,2020,Allianz
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2020,Allianz
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2020,Allianz
+S020102,C0010,R0130,Dłużne papiery wartościowe,875 297,2020,Allianz
+S020102,C0010,R0140,Obligacje państwowe,875 297,2020,Allianz
+S020102,C0010,R0150,Obligacje korporacyjne,0,2020,Allianz
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2020,Allianz
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2020,Allianz
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,82 702,2020,Allianz
+S020102,C0010,R0190,Instrumenty pochodne,900,2020,Allianz
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,43 068,2020,Allianz
+S020102,C0010,R0210,Pozostałe lokaty,0,2020,Allianz
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",1 742 697,2020,Allianz
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2020,Allianz
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2020,Allianz
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2020,Allianz
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2020,Allianz
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,-8 879,2020,Allianz
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,0,2020,Allianz
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2020,Allianz
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,0,2020,Allianz
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone",-7 263,2020,Allianz
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2020,Allianz
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-7 263,2020,Allianz
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",-1 616,2020,Allianz
+S020102,C0010,R0350,Depozyty u cedentów,0,2020,Allianz
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,16 830,2020,Allianz
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2020,Allianz
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",35 454,2020,Allianz
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2020,Allianz
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2020,Allianz
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,1 177,2020,Allianz
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),4 488,2020,Allianz
+S020102,C0010,R0500,Aktywa ogółem,2 802 102,2020,Allianz
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,0,2020,Allianz
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2020,Allianz
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Allianz
+S020102,C0010,R0540,Najlepsze oszacowanie,0,2020,Allianz
+S020102,C0010,R0550,Margines ryzyka,0,2020,Allianz
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),0,2020,Allianz
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Allianz
+S020102,C0010,R0580,Najlepsze oszacowanie,0,2020,Allianz
+S020102,C0010,R0590,Margines ryzyka,0,2020,Allianz
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",129 746,2020,Allianz
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2020,Allianz
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Allianz
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2020,Allianz
+S020102,C0010,R0640,Margines ryzyka,0,2020,Allianz
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",129 746,2020,Allianz
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Allianz
+S020102,C0010,R0670,Najlepsze oszacowanie,75 177,2020,Allianz
+S020102,C0010,R0680,Margines ryzyka,54 569,2020,Allianz
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",1 623 892,2020,Allianz
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Allianz
+S020102,C0010,R0710,Najlepsze oszacowanie,1 581 267,2020,Allianz
+S020102,C0010,R0720,Margines ryzyka,42 625,2020,Allianz
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2020,Allianz
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),28 120,2020,Allianz
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,751,2020,Allianz
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2020,Allianz
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,116 820,2020,Allianz
+S020102,C0010,R0790,Instrumenty pochodne,0,2020,Allianz
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2020,Allianz
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,5 331,2020,Allianz
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,14 334,2020,Allianz
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2020,Allianz
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",8 650,2020,Allianz
+S020102,C0010,R0850,Zobowiązania podporządkowane,0,2020,Allianz
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0,2020,Allianz
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0,2020,Allianz
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),0,2020,Allianz
+S020102,C0010,R0900,Zobowiązania ogółem,1 927 644,2020,Allianz
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,874 458,2020,Allianz
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2021,Allianz
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2021,Allianz
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2021,Allianz
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",6 980,2021,Allianz
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",888 562,2021,Allianz
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0,2021,Allianz
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",0,2021,Allianz
+S020102,C0010,R0100,Akcje i udziały,0,2021,Allianz
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2021,Allianz
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2021,Allianz
+S020102,C0010,R0130,Dłużne papiery wartościowe,739 885,2021,Allianz
+S020102,C0010,R0140,Obligacje państwowe,737 096,2021,Allianz
+S020102,C0010,R0150,Obligacje korporacyjne,0,2021,Allianz
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,2 789,2021,Allianz
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2021,Allianz
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,116 750,2021,Allianz
+S020102,C0010,R0190,Instrumenty pochodne,2 070,2021,Allianz
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,29 858,2021,Allianz
+S020102,C0010,R0210,Pozostałe lokaty,0,2021,Allianz
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",1 690 890,2021,Allianz
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2021,Allianz
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2021,Allianz
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2021,Allianz
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2021,Allianz
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,-8 104,2021,Allianz
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,0,2021,Allianz
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2021,Allianz
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,0,2021,Allianz
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone",-6 547,2021,Allianz
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2021,Allianz
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-6 547,2021,Allianz
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",-1 557,2021,Allianz
+S020102,C0010,R0350,Depozyty u cedentów,0,2021,Allianz
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,6 527,2021,Allianz
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2021,Allianz
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",20 204,2021,Allianz
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2021,Allianz
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2021,Allianz
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,5 674,2021,Allianz
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),2 981,2021,Allianz
+S020102,C0010,R0500,Aktywa ogółem,2 613 714,2021,Allianz
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,0,2021,Allianz
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2021,Allianz
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Allianz
+S020102,C0010,R0540,Najlepsze oszacowanie,0,2021,Allianz
+S020102,C0010,R0550,Margines ryzyka,0,2021,Allianz
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),0,2021,Allianz
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Allianz
+S020102,C0010,R0580,Najlepsze oszacowanie,0,2021,Allianz
+S020102,C0010,R0590,Margines ryzyka,0,2021,Allianz
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",122 950,2021,Allianz
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2021,Allianz
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Allianz
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2021,Allianz
+S020102,C0010,R0640,Margines ryzyka,0,2021,Allianz
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",122 950,2021,Allianz
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Allianz
+S020102,C0010,R0670,Najlepsze oszacowanie,84 196,2021,Allianz
+S020102,C0010,R0680,Margines ryzyka,38 754,2021,Allianz
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",1 595 445,2021,Allianz
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Allianz
+S020102,C0010,R0710,Najlepsze oszacowanie,1 560 484,2021,Allianz
+S020102,C0010,R0720,Margines ryzyka,34 961,2021,Allianz
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2021,Allianz
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),21 542,2021,Allianz
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,139,2021,Allianz
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2021,Allianz
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,99 893,2021,Allianz
+S020102,C0010,R0790,Instrumenty pochodne,0,2021,Allianz
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2021,Allianz
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,5 123,2021,Allianz
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,7 500,2021,Allianz
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2021,Allianz
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",4 412,2021,Allianz
+S020102,C0010,R0850,Zobowiązania podporządkowane,0,2021,Allianz
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0,2021,Allianz
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0,2021,Allianz
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),0,2021,Allianz
+S020102,C0010,R0900,Zobowiązania ogółem,1 857 004,2021,Allianz
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,756 710,2021,Allianz
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2022,Allianz
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",9 066,2022,Allianz
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",5 853 538,2022,Allianz
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0,2022,Allianz
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",1 095 513,2022,Allianz
+S020102,C0010,R0100,Akcje i udziały,0,2022,Allianz
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2022,Allianz
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2022,Allianz
+S020102,C0010,R0130,Dłużne papiery wartościowe,4 066 277,2022,Allianz
+S020102,C0010,R0140,Obligacje państwowe,3 828 388,2022,Allianz
+S020102,C0010,R0150,Obligacje korporacyjne,237 434,2022,Allianz
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,455,2022,Allianz
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2022,Allianz
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,321 740,2022,Allianz
+S020102,C0010,R0190,Instrumenty pochodne,26 059,2022,Allianz
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,343 949,2022,Allianz
+S020102,C0010,R0210,Pozostałe lokaty,0,2022,Allianz
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",9 831 688,2022,Allianz
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,236 641,2022,Allianz
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2022,Allianz
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2022,Allianz
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,236 641,2022,Allianz
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,-34 140,2022,Allianz
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 122,2022,Allianz
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2022,Allianz
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 122,2022,Allianz
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone",-27 876,2022,Allianz
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,-11 802,2022,Allianz
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-16 074,2022,Allianz
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",-7 386,2022,Allianz
+S020102,C0010,R0350,Depozyty u cedentów,0,2022,Allianz
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,41 013,2022,Allianz
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,1 722,2022,Allianz
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",124 088,2022,Allianz
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2022,Allianz
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2022,Allianz
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,280 375,2022,Allianz
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),5 208,2022,Allianz
+S020102,C0010,R0500,Aktywa ogółem,16 349 199,2022,Allianz
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,75 622,2022,Allianz
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2022,Allianz
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Allianz
+S020102,C0010,R0540,Najlepsze oszacowanie,0,2022,Allianz
+S020102,C0010,R0550,Margines ryzyka,0,2022,Allianz
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),75 622,2022,Allianz
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Allianz
+S020102,C0010,R0580,Najlepsze oszacowanie,70 708,2022,Allianz
+S020102,C0010,R0590,Margines ryzyka,4 914,2022,Allianz
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 497 978,2022,Allianz
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),-760 714,2022,Allianz
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Allianz
+S020102,C0010,R0630,Najlepsze oszacowanie,-919 139,2022,Allianz
+S020102,C0010,R0640,Margines ryzyka,158 425,2022,Allianz
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",2 258 692,2022,Allianz
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Allianz
+S020102,C0010,R0670,Najlepsze oszacowanie,2 059 490,2022,Allianz
+S020102,C0010,R0680,Margines ryzyka,199 203,2022,Allianz
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",8 199 521,2022,Allianz
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Allianz
+S020102,C0010,R0710,Najlepsze oszacowanie,7 858 158,2022,Allianz
+S020102,C0010,R0720,Margines ryzyka,341 364,2022,Allianz
+S020102,C0010,R0730,Pozostałe rezerwy techniczno-ubezpieczeniowe,0,2022,Allianz
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2022,Allianz
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),119 443,2022,Allianz
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,14 875,2022,Allianz
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2022,Allianz
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,745 967,2022,Allianz
+S020102,C0010,R0790,Instrumenty pochodne,20 071,2022,Allianz
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2022,Allianz
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,10 700,2022,Allianz
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,66 121,2022,Allianz
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,6 923,2022,Allianz
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",418 253,2022,Allianz
+S020102,C0010,R0850,Zobowiązania podporządkowane,0,2022,Allianz
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0,2022,Allianz
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0,2022,Allianz
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),48 287,2022,Allianz
+S020102,C0010,R0900,Zobowiązania ogółem,11 223 761,2022,Allianz
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,5 125 437,2022,Allianz
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2023,Allianz
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2023,Allianz
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2023,Allianz
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",7 950,2023,Allianz
+S020102,C0010,R0070,"Lokaty (inne niż aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",5 453 556,2023,Allianz
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0,2023,Allianz
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",1 195 400,2023,Allianz
+S020102,C0010,R0100,Akcje i udziały,0,2023,Allianz
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2023,Allianz
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2023,Allianz
+S020102,C0010,R0130,Obligacje,3 932 839,2023,Allianz
+S020102,C0010,R0140,Obligacje państwowe,3 818 193,2023,Allianz
+S020102,C0010,R0150,Obligacje korporacyjne,112 823,2023,Allianz
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,1 822,2023,Allianz
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2023,Allianz
+S020102,C0010,R0180,Przedsiębiorstwa zbiorowego inwestowania,213 790,2023,Allianz
+S020102,C0010,R0190,Instrumenty pochodne,3 558,2023,Allianz
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,107 968,2023,Allianz
+S020102,C0010,R0210,Pozostałe lokaty,0,2023,Allianz
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",11 521 981,2023,Allianz
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,771 510,2023,Allianz
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2023,Allianz
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2023,Allianz
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,771 510,2023,Allianz
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji z tytułu:,-14 432,2023,Allianz
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,-470,2023,Allianz
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,0,2023,Allianz
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,-470,2023,Allianz
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-6 501,2023,Allianz
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,-1 285,2023,Allianz
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",-5 216,2023,Allianz
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",-7 462,2023,Allianz
+S020102,C0010,R0350,Depozyty u cedentów,0,2023,Allianz
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,64 798,2023,Allianz
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,21 475,2023,Allianz
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",234 748,2023,Allianz
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2023,Allianz
+S020102,C0010,R0400,"Kwoty należne w odniesieniu do pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone.",0,2023,Allianz
+S020102,C0010,R0410,Środki pieniężne i ich ekwiwalenty,109 684,2023,Allianz
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),0,2023,Allianz
+S020102,C0010,R0500,Aktywa ogółem,18 171 269,2023,Allianz
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,88 112,2023,Allianz
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),0,2023,Allianz
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Allianz
+S020102,C0010,R0540,Najlepsze oszacowanie,0,2023,Allianz
+S020102,C0010,R0550,Margines ryzyka,0,2023,Allianz
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),88 112,2023,Allianz
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Allianz
+S020102,C0010,R0580,Najlepsze oszacowanie,83 257,2023,Allianz
+S020102,C0010,R0590,Margines ryzyka,4 855,2023,Allianz
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 339 155,2023,Allianz
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),-904 164,2023,Allianz
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Allianz
+S020102,C0010,R0630,Najlepsze oszacowanie,-1 074 028,2023,Allianz
+S020102,C0010,R0640,Margines ryzyka,169 864,2023,Allianz
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",2 243 320,2023,Allianz
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Allianz
+S020102,C0010,R0670,Najlepsze oszacowanie,2 031 705,2023,Allianz
+S020102,C0010,R0680,Margines ryzyka,211 615,2023,Allianz
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",9 623 502,2023,Allianz
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Allianz
+S020102,C0010,R0710,Najlepsze oszacowanie,9 267 014,2023,Allianz
+S020102,C0010,R0720,Margines ryzyka,356 489,2023,Allianz
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2023,Allianz
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),132 991,2023,Allianz
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,749,2023,Allianz
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2023,Allianz
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,1 021 734,2023,Allianz
+S020102,C0010,R0790,Instrumenty pochodne,82 197,2023,Allianz
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,2 933,2023,Allianz
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,8 393,2023,Allianz
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,102 976,2023,Allianz
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,50 032,2023,Allianz
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",47 621,2023,Allianz
+S020102,C0010,R0850,Zobowiązania podporządkowane,0,2023,Allianz
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0,2023,Allianz
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0,2023,Allianz
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),57 767,2023,Allianz
+S020102,C0010,R0900,Zobowiązania ogółem,12 558 162,2023,Allianz
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,5 613 106,2023,Allianz
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2023,Warta
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2023,Warta
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2023,Warta
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",403 076,2023,Warta
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",16 025 646,2023,Warta
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),7 125,2023,Warta
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",715 275,2023,Warta
+S020102,C0010,R0100,Akcje i udziały,57 343,2023,Warta
+S020102,C0010,R0110,Akcje i udziały – notowane,57 143,2023,Warta
+S020102,C0010,R0120,Akcje i udziały – nienotowane,200,2023,Warta
+S020102,C0010,R0130,Dłużne papiery wartościowe,14 673 431,2023,Warta
+S020102,C0010,R0140,Obligacje państwowe,10 943 193,2023,Warta
+S020102,C0010,R0150,Obligacje korporacyjne,3 730 238,2023,Warta
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2023,Warta
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2023,Warta
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,396 716,2023,Warta
+S020102,C0010,R0190,Instrumenty pochodne,97 441,2023,Warta
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,78 315,2023,Warta
+S020102,C0010,R0210,Pozostałe lokaty,0,2023,Warta
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2023,Warta
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,458 458,2023,Warta
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2023,Warta
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2023,Warta
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,458 458,2023,Warta
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,837 969,2023,Warta
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,665 445,2023,Warta
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),664 052,2023,Warta
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 393,2023,Warta
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",172 524,2023,Warta
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2023,Warta
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",172 524,2023,Warta
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",0,2023,Warta
+S020102,C0010,R0350,Depozyty u cedentów,100,2023,Warta
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,203 696,2023,Warta
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,63 192,2023,Warta
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",59 439,2023,Warta
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2023,Warta
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2023,Warta
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,109 963,2023,Warta
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),16 971,2023,Warta
+S020102,C0010,R0500,AKTYWA OGÓŁEM,18 178 510,2023,Warta
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,10 212 303,2023,Warta
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),10 159 357,2023,Warta
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Warta
+S020102,C0010,R0540,Najlepsze oszacowanie,9 423 349,2023,Warta
+S020102,C0010,R0550,Margines ryzyka,736 008,2023,Warta
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),52 946,2023,Warta
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Warta
+S020102,C0010,R0580,Najlepsze oszacowanie,51 602,2023,Warta
+S020102,C0010,R0590,Margines ryzyka,1 344,2023,Warta
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 493 917,2023,Warta
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2023,Warta
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Warta
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2023,Warta
+S020102,C0010,R0640,Margines ryzyka,0,2023,Warta
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",1 493 917,2023,Warta
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Warta
+S020102,C0010,R0670,Najlepsze oszacowanie,1 488 312,2023,Warta
+S020102,C0010,R0680,Margines ryzyka,5 605,2023,Warta
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",0,2023,Warta
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Warta
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2023,Warta
+S020102,C0010,R0720,Margines ryzyka,0,2023,Warta
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2023,Warta
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),93 306,2023,Warta
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,6 944,2023,Warta
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2023,Warta
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,446 711,2023,Warta
+S020102,C0010,R0790,Instrumenty pochodne,38 826,2023,Warta
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2023,Warta
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,217 677,2023,Warta
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,159 023,2023,Warta
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,7 819,2023,Warta
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",162 367,2023,Warta
+S020102,C0010,R0850,Zobowiązania podporządkowane,0,2023,Warta
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0,2023,Warta
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,0,2023,Warta
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),565,2023,Warta
+S020102,C0010,R0900,ZOBOWIĄZANIA OGÓŁEM,12 839 458,2023,Warta
+S020102,C0010,R1000,NADWYŻKA AKTYWÓW NAD ZOBOWIĄZANIAMI,5 339 052,2023,Warta
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2018,ErgoHestia
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2018,ErgoHestia
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2018,ErgoHestia
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",261 821,2018,ErgoHestia
+S020102,C0010,R0070,"Lokaty (inne niż aktywa ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",7 641 603,2018,ErgoHestia
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),16 512,2018,ErgoHestia
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",117 705,2018,ErgoHestia
+S020102,C0010,R0100,Akcje i udziały,0,2018,ErgoHestia
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2018,ErgoHestia
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2018,ErgoHestia
+S020102,C0010,R0130,Obligacje,7 469 050,2018,ErgoHestia
+S020102,C0010,R0140,Obligacje państwowe,7 469 050,2018,ErgoHestia
+S020102,C0010,R0150,Obligacje korporacyjne,0,2018,ErgoHestia
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2018,ErgoHestia
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2018,ErgoHestia
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,0,2018,ErgoHestia
+S020102,C0010,R0190,Instrumenty pochodne,0,2018,ErgoHestia
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,38 336,2018,ErgoHestia
+S020102,C0010,R0210,Pozostałe lokaty,0,2018,ErgoHestia
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",0,2018,ErgoHestia
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,204 694,2018,ErgoHestia
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2018,ErgoHestia
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,185,2018,ErgoHestia
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,204 509,2018,ErgoHestia
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z ubezpieczeń:,725 179,2018,ErgoHestia
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,607 427,2018,ErgoHestia
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,602 841,2018,ErgoHestia
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,4 586,2018,ErgoHestia
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",117 752,2018,ErgoHestia
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,0,2018,ErgoHestia
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",117 752,2018,ErgoHestia
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2018,ErgoHestia
+S020102,C0010,R0350,Depozyty u cedentów,0,2018,ErgoHestia
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,216 910,2018,ErgoHestia
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2018,ErgoHestia
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",55 335,2018,ErgoHestia
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2018,ErgoHestia
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2018,ErgoHestia
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,4 103,2018,ErgoHestia
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),184 067,2018,ErgoHestia
+S020102,C0010,R0500,Aktywa ogółem,9 293 712,2018,ErgoHestia
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,5 363 455,2018,ErgoHestia
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),5 288 019,2018,ErgoHestia
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2018,ErgoHestia
+S020102,C0010,R0540,Najlepsze oszacowanie,5 082 674,2018,ErgoHestia
+S020102,C0010,R0550,Margines ryzyka,205 345,2018,ErgoHestia
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),75 436,2018,ErgoHestia
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2018,ErgoHestia
+S020102,C0010,R0580,Najlepsze oszacowanie,57 173,2018,ErgoHestia
+S020102,C0010,R0590,Margines ryzyka,18 263,2018,ErgoHestia
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",663 982,2018,ErgoHestia
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2018,ErgoHestia
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2018,ErgoHestia
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2018,ErgoHestia
+S020102,C0010,R0640,Margines ryzyka,0,2018,ErgoHestia
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",663 982,2018,ErgoHestia
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2018,ErgoHestia
+S020102,C0010,R0670,Najlepsze oszacowanie,615 105,2018,ErgoHestia
+S020102,C0010,R0680,Margines ryzyka,48 877,2018,ErgoHestia
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia związane z ubezpieczeniowym funduszem kapitałowym",0,2018,ErgoHestia
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2018,ErgoHestia
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2018,ErgoHestia
+S020102,C0010,R0720,Margines ryzyka,0,2018,ErgoHestia
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2018,ErgoHestia
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż techniczno-ubezpieczeniowe),58 025,2018,ErgoHestia
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,2 062,2018,ErgoHestia
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2018,ErgoHestia
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,326 998,2018,ErgoHestia
+S020102,C0010,R0790,Instrumenty pochodne,0,2018,ErgoHestia
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2018,ErgoHestia
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,0,2018,ErgoHestia
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,766,2018,ErgoHestia
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2018,ErgoHestia
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",158 811,2018,ErgoHestia
+S020102,C0010,R0850,Zobowiązania podporządkowane,399 872,2018,ErgoHestia
+S020102,C0010,R0860,Zobowiązania podporządkowane niewłączone do BOF,0,2018,ErgoHestia
+S020102,C0010,R0870,Zobowiązania podporządkowane włączone do BOF,399 872,2018,ErgoHestia
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),105 237,2018,ErgoHestia
+S020102,C0010,R0900,Zobowiązania ogółem,7 079 207,2018,ErgoHestia
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,2 214 505,2018,ErgoHestia
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2019,ErgoHestia
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2019,ErgoHestia
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2019,ErgoHestia
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",499 730,2019,ErgoHestia
+S020102,C0010,R0070,"Lokaty (inne niż aktywa ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",8 380 408,2019,ErgoHestia
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),15 450,2019,ErgoHestia
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",155 264,2019,ErgoHestia
+S020102,C0010,R0100,Akcje i udziały,0,2019,ErgoHestia
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2019,ErgoHestia
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2019,ErgoHestia
+S020102,C0010,R0130,Obligacje,8 163 354,2019,ErgoHestia
+S020102,C0010,R0140,Obligacje państwowe,8 163 354,2019,ErgoHestia
+S020102,C0010,R0150,Obligacje korporacyjne,0,2019,ErgoHestia
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2019,ErgoHestia
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2019,ErgoHestia
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,0,2019,ErgoHestia
+S020102,C0010,R0190,Instrumenty pochodne,0,2019,ErgoHestia
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,46 340,2019,ErgoHestia
+S020102,C0010,R0210,Pozostałe lokaty,0,2019,ErgoHestia
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",0,2019,ErgoHestia
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,236 476,2019,ErgoHestia
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2019,ErgoHestia
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,103,2019,ErgoHestia
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,236 373,2019,ErgoHestia
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z ubezpieczeń:,840 354,2019,ErgoHestia
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,677 380,2019,ErgoHestia
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,673 283,2019,ErgoHestia
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,4 097,2019,ErgoHestia
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",162 974,2019,ErgoHestia
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,0,2019,ErgoHestia
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",162 974,2019,ErgoHestia
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2019,ErgoHestia
+S020102,C0010,R0350,Depozyty u cedentów,0,2019,ErgoHestia
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,250 790,2019,ErgoHestia
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2019,ErgoHestia
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",49 396,2019,ErgoHestia
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2019,ErgoHestia
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2019,ErgoHestia
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,4 152,2019,ErgoHestia
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),152 196,2019,ErgoHestia
+S020102,C0010,R0500,Aktywa ogółem,10 413 502,2019,ErgoHestia
+S020102,C0010,R0510,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,5 942 291,2019,ErgoHestia
+S020102,C0010,R0520,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),5 852 143,2019,ErgoHestia
+S020102,C0010,R0530,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2019,ErgoHestia
+S020102,C0010,R0540,Najlepsze oszacowanie,5 627 214,2019,ErgoHestia
+S020102,C0010,R0550,Margines ryzyka,224 930,2019,ErgoHestia
+S020102,C0010,R0560,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),90 148,2019,ErgoHestia
+S020102,C0010,R0570,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2019,ErgoHestia
+S020102,C0010,R0580,Najlepsze oszacowanie,61 995,2019,ErgoHestia
+S020102,C0010,R0590,Margines ryzyka,28 153,2019,ErgoHestia
+S020102,C0010,R0600,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",795 155,2019,ErgoHestia
+S020102,C0010,R0610,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2019,ErgoHestia
+S020102,C0010,R0620,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2019,ErgoHestia
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2019,ErgoHestia
+S020102,C0010,R0640,Margines ryzyka,0,2019,ErgoHestia
+S020102,C0010,R0650,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",795 155,2019,ErgoHestia
+S020102,C0010,R0660,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2019,ErgoHestia
+S020102,C0010,R0670,Najlepsze oszacowanie,736 684,2019,ErgoHestia
+S020102,C0010,R0680,Margines ryzyka,58 471,2019,ErgoHestia
+S020102,C0010,R0690,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia związane z ubezpieczeniowym funduszem kapitałowym",0,2019,ErgoHestia
+S020102,C0010,R0700,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2019,ErgoHestia
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2019,ErgoHestia
+S020102,C0010,R0720,Margines ryzyka,0,2019,ErgoHestia
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2019,ErgoHestia
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż techniczno–ubezpieczeniowe),59 829,2019,ErgoHestia
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,2 351,2019,ErgoHestia
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2019,ErgoHestia
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,363 513,2019,ErgoHestia
+S020102,C0010,R0790,Instrumenty pochodne,0,2019,ErgoHestia
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2019,ErgoHestia
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,241 742,2019,ErgoHestia
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,550,2019,ErgoHestia
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2019,ErgoHestia
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",178 425,2019,ErgoHestia
+S020102,C0010,R0850,Zobowiązania podporządkowane,401 469,2019,ErgoHestia
+S020102,C0010,R0860,Zobowiązania podporządkowane niewłączone do BOF,0,2019,ErgoHestia
+S020102,C0010,R0870,Zobowiązania podporządkowane włączone do BOF,401 469,2019,ErgoHestia
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),86 178,2019,ErgoHestia
+S020102,C0010,R0900,Zobowiązania ogółem,8 071 505,2019,ErgoHestia
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,2 341 997,2019,ErgoHestia
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2020,ErgoHestia
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2020,ErgoHestia
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2020,ErgoHestia
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",483 847,2020,ErgoHestia
+S020102,C0010,R0070,"Lokaty (inne niż aktywa ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",9 879 528,2020,ErgoHestia
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),15 780,2020,ErgoHestia
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",154 336,2020,ErgoHestia
+S020102,C0010,R0100,Akcje i udziały,0,2020,ErgoHestia
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2020,ErgoHestia
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2020,ErgoHestia
+S020102,C0010,R0130,Obligacje,9 451 585,2020,ErgoHestia
+S020102,C0010,R0140,Obligacje państwowe,9 307 047,2020,ErgoHestia
+S020102,C0010,R0150,Obligacje korporacyjne,144 538,2020,ErgoHestia
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2020,ErgoHestia
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2020,ErgoHestia
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,0,2020,ErgoHestia
+S020102,C0010,R0190,Instrumenty pochodne,0,2020,ErgoHestia
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,257 827,2020,ErgoHestia
+S020102,C0010,R0210,Pozostałe lokaty,0,2020,ErgoHestia
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",0,2020,ErgoHestia
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,61 981,2020,ErgoHestia
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2020,ErgoHestia
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,12,2020,ErgoHestia
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,61 969,2020,ErgoHestia
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z ubezpieczeń:,848 744,2020,ErgoHestia
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,658 791,2020,ErgoHestia
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,656 428,2020,ErgoHestia
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,2 363,2020,ErgoHestia
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",189 953,2020,ErgoHestia
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,0,2020,ErgoHestia
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",189 953,2020,ErgoHestia
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2020,ErgoHestia
+S020102,C0010,R0350,Depozyty u cedentów,0,2020,ErgoHestia
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,195 062,2020,ErgoHestia
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2020,ErgoHestia
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",45 175,2020,ErgoHestia
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2020,ErgoHestia
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2020,ErgoHestia
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,2 874,2020,ErgoHestia
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),145 090,2020,ErgoHestia
+S020102,C0010,R0500,Aktywa ogółem,11 662 302,2020,ErgoHestia
+S020102,C0010,R0510,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,6 563 965,2020,ErgoHestia
+S020102,C0010,R0520,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),6 478 943,2020,ErgoHestia
+S020102,C0010,R0530,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2020,ErgoHestia
+S020102,C0010,R0540,Najlepsze oszacowanie,6 230 095,2020,ErgoHestia
+S020102,C0010,R0550,Margines ryzyka,248 848,2020,ErgoHestia
+S020102,C0010,R0560,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),85 022,2020,ErgoHestia
+S020102,C0010,R0570,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2020,ErgoHestia
+S020102,C0010,R0580,Najlepsze oszacowanie,56 501,2020,ErgoHestia
+S020102,C0010,R0590,Margines ryzyka,28 521,2020,ErgoHestia
+S020102,C0010,R0600,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",900 548,2020,ErgoHestia
+S020102,C0010,R0610,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2020,ErgoHestia
+S020102,C0010,R0620,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2020,ErgoHestia
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2020,ErgoHestia
+S020102,C0010,R0640,Margines ryzyka,0,2020,ErgoHestia
+S020102,C0010,R0650,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",900 548,2020,ErgoHestia
+S020102,C0010,R0660,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2020,ErgoHestia
+S020102,C0010,R0670,Najlepsze oszacowanie,839 402,2020,ErgoHestia
+S020102,C0010,R0680,Margines ryzyka,61 146,2020,ErgoHestia
+S020102,C0010,R0690,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia związane z ubezpieczeniowym funduszem kapitałowym",0,2020,ErgoHestia
+S020102,C0010,R0700,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2020,ErgoHestia
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2020,ErgoHestia
+S020102,C0010,R0720,Margines ryzyka,0,2020,ErgoHestia
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2020,ErgoHestia
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż techniczno–ubezpieczeniowe),67 103,2020,ErgoHestia
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,2 736,2020,ErgoHestia
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2020,ErgoHestia
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,376 596,2020,ErgoHestia
+S020102,C0010,R0790,Instrumenty pochodne,0,2020,ErgoHestia
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2020,ErgoHestia
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,239 087,2020,ErgoHestia
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,1 158,2020,ErgoHestia
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2020,ErgoHestia
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",297 368,2020,ErgoHestia
+S020102,C0010,R0850,Zobowiązania podporządkowane,407 895,2020,ErgoHestia
+S020102,C0010,R0860,Zobowiązania podporządkowane niewłączone do BOF,0,2020,ErgoHestia
+S020102,C0010,R0870,Zobowiązania podporządkowane włączone do BOF,407 895,2020,ErgoHestia
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),102 874,2020,ErgoHestia
+S020102,C0010,R0900,Zobowiązania ogółem,8 959 331,2020,ErgoHestia
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,2 702 971,2020,ErgoHestia
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2021,ErgoHestia
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2021,ErgoHestia
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2021,ErgoHestia
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",474 043,2021,ErgoHestia
+S020102,C0010,R0070,"Lokaty (inne niż aktywa ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",9 457 436,2021,ErgoHestia
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),14 521,2021,ErgoHestia
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",153 373,2021,ErgoHestia
+S020102,C0010,R0100,Akcje i udziały,0,2021,ErgoHestia
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2021,ErgoHestia
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2021,ErgoHestia
+S020102,C0010,R0130,Obligacje,8 975 434,2021,ErgoHestia
+S020102,C0010,R0140,Obligacje państwowe,8 834 385,2021,ErgoHestia
+S020102,C0010,R0150,Obligacje korporacyjne,141 049,2021,ErgoHestia
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2021,ErgoHestia
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2021,ErgoHestia
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,172 629,2021,ErgoHestia
+S020102,C0010,R0190,Instrumenty pochodne,0,2021,ErgoHestia
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,141 480,2021,ErgoHestia
+S020102,C0010,R0210,Pozostałe lokaty,0,2021,ErgoHestia
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",0,2021,ErgoHestia
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,52 293,2021,ErgoHestia
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2021,ErgoHestia
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2021,ErgoHestia
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,52 293,2021,ErgoHestia
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z ubezpieczeń:,804 544,2021,ErgoHestia
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,643 794,2021,ErgoHestia
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,643 163,2021,ErgoHestia
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,632,2021,ErgoHestia
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",160 750,2021,ErgoHestia
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,0,2021,ErgoHestia
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",160 750,2021,ErgoHestia
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2021,ErgoHestia
+S020102,C0010,R0350,Depozyty u cedentów,0,2021,ErgoHestia
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,218 413,2021,ErgoHestia
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2021,ErgoHestia
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",54 468,2021,ErgoHestia
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2021,ErgoHestia
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2021,ErgoHestia
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,3 504,2021,ErgoHestia
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),125 192,2021,ErgoHestia
+S020102,C0010,R0500,Aktywa ogółem,11 189 895,2021,ErgoHestia
+S020102,C0010,R0510,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,6 428 908,2021,ErgoHestia
+S020102,C0010,R0520,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),6 370 466,2021,ErgoHestia
+S020102,C0010,R0530,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2021,ErgoHestia
+S020102,C0010,R0540,Najlepsze oszacowanie,6 259 912,2021,ErgoHestia
+S020102,C0010,R0550,Margines ryzyka,110 554,2021,ErgoHestia
+S020102,C0010,R0560,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),58 443,2021,ErgoHestia
+S020102,C0010,R0570,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2021,ErgoHestia
+S020102,C0010,R0580,Najlepsze oszacowanie,57 378,2021,ErgoHestia
+S020102,C0010,R0590,Margines ryzyka,1 064,2021,ErgoHestia
+S020102,C0010,R0600,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",802 092,2021,ErgoHestia
+S020102,C0010,R0610,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2021,ErgoHestia
+S020102,C0010,R0620,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2021,ErgoHestia
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2021,ErgoHestia
+S020102,C0010,R0640,Margines ryzyka,0,2021,ErgoHestia
+S020102,C0010,R0650,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",802 092,2021,ErgoHestia
+S020102,C0010,R0660,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2021,ErgoHestia
+S020102,C0010,R0670,Najlepsze oszacowanie,766 662,2021,ErgoHestia
+S020102,C0010,R0680,Margines ryzyka,35 430,2021,ErgoHestia
+S020102,C0010,R0690,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia związane z ubezpieczeniowym funduszem kapitałowym",0,2021,ErgoHestia
+S020102,C0010,R0700,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2021,ErgoHestia
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2021,ErgoHestia
+S020102,C0010,R0720,Margines ryzyka,0,2021,ErgoHestia
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2021,ErgoHestia
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż techniczno–ubezpieczeniowe),61 955,2021,ErgoHestia
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,3 432,2021,ErgoHestia
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2021,ErgoHestia
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,370 347,2021,ErgoHestia
+S020102,C0010,R0790,Instrumenty pochodne,0,2021,ErgoHestia
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2021,ErgoHestia
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,233 844,2021,ErgoHestia
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,461,2021,ErgoHestia
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2021,ErgoHestia
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",233 438,2021,ErgoHestia
+S020102,C0010,R0850,Zobowiązania podporządkowane,388 699,2021,ErgoHestia
+S020102,C0010,R0860,Zobowiązania podporządkowane niewłączone do BOF,0,2021,ErgoHestia
+S020102,C0010,R0870,Zobowiązania podporządkowane włączone do BOF,388 699,2021,ErgoHestia
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),113 867,2021,ErgoHestia
+S020102,C0010,R0900,Zobowiązania ogółem,8 637 043,2021,ErgoHestia
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,2 552 852,2021,ErgoHestia
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2022,ErgoHestia
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2022,ErgoHestia
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2022,ErgoHestia
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",463 852,2022,ErgoHestia
+S020102,C0010,R0070,"Lokaty (inne niż aktywa ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",9 243 753,2022,ErgoHestia
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),11 718,2022,ErgoHestia
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",158 689,2022,ErgoHestia
+S020102,C0010,R0100,Akcje i udziały,2 773,2022,ErgoHestia
+S020102,C0010,R0110,Akcje i udziały – notowane,2 773,2022,ErgoHestia
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2022,ErgoHestia
+S020102,C0010,R0130,Obligacje,8 799 931,2022,ErgoHestia
+S020102,C0010,R0140,Obligacje państwowe,8 277 580,2022,ErgoHestia
+S020102,C0010,R0150,Obligacje korporacyjne,522 351,2022,ErgoHestia
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2022,ErgoHestia
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2022,ErgoHestia
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,116 785,2022,ErgoHestia
+S020102,C0010,R0190,Instrumenty pochodne,0,2022,ErgoHestia
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,153 858,2022,ErgoHestia
+S020102,C0010,R0210,Pozostałe lokaty,0,2022,ErgoHestia
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",0,2022,ErgoHestia
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,115 706,2022,ErgoHestia
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2022,ErgoHestia
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2022,ErgoHestia
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,115 706,2022,ErgoHestia
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z ubezpieczeń:,810 421,2022,ErgoHestia
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,690 788,2022,ErgoHestia
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,690 489,2022,ErgoHestia
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,299,2022,ErgoHestia
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",119 633,2022,ErgoHestia
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,0,2022,ErgoHestia
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym",119 633,2022,ErgoHestia
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2022,ErgoHestia
+S020102,C0010,R0350,Depozyty u cedentów,0,2022,ErgoHestia
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,215 962,2022,ErgoHestia
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,0,2022,ErgoHestia
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",59 740,2022,ErgoHestia
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2022,ErgoHestia
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2022,ErgoHestia
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,31 725,2022,ErgoHestia
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),148 808,2022,ErgoHestia
+S020102,C0010,R0500,Aktywa ogółem,11 089 969,2022,ErgoHestia
+S020102,C0010,R0510,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,6 727 647,2022,ErgoHestia
+S020102,C0010,R0520,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),6 671 882,2022,ErgoHestia
+S020102,C0010,R0530,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2022,ErgoHestia
+S020102,C0010,R0540,Najlepsze oszacowanie,6 567 254,2022,ErgoHestia
+S020102,C0010,R0550,Margines ryzyka,104 628,2022,ErgoHestia
+S020102,C0010,R0560,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),55 765,2022,ErgoHestia
+S020102,C0010,R0570,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2022,ErgoHestia
+S020102,C0010,R0580,Najlepsze oszacowanie,54 790,2022,ErgoHestia
+S020102,C0010,R0590,Margines ryzyka,975,2022,ErgoHestia
+S020102,C0010,R0600,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",667 894,2022,ErgoHestia
+S020102,C0010,R0610,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2022,ErgoHestia
+S020102,C0010,R0620,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2022,ErgoHestia
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2022,ErgoHestia
+S020102,C0010,R0640,Margines ryzyka,0,2022,ErgoHestia
+S020102,C0010,R0650,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń związanych z ubezpieczeniowym funduszem kapitałowym)",667 894,2022,ErgoHestia
+S020102,C0010,R0660,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2022,ErgoHestia
+S020102,C0010,R0670,Najlepsze oszacowanie,646 616,2022,ErgoHestia
+S020102,C0010,R0680,Margines ryzyka,21 278,2022,ErgoHestia
+S020102,C0010,R0690,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia związane z ubezpieczeniowym funduszem kapitałowym",0,2022,ErgoHestia
+S020102,C0010,R0700,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2022,ErgoHestia
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2022,ErgoHestia
+S020102,C0010,R0720,Margines ryzyka,0,2022,ErgoHestia
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2022,ErgoHestia
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż techniczno–ubezpieczeniowe),62 504,2022,ErgoHestia
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,3 269,2022,ErgoHestia
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2022,ErgoHestia
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,346 615,2022,ErgoHestia
+S020102,C0010,R0790,Instrumenty pochodne,0,2022,ErgoHestia
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2022,ErgoHestia
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,210 444,2022,ErgoHestia
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,546,2022,ErgoHestia
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,0,2022,ErgoHestia
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",222 473,2022,ErgoHestia
+S020102,C0010,R0850,Zobowiązania podporządkowane,389 486,2022,ErgoHestia
+S020102,C0010,R0860,Zobowiązania podporządkowane niewłączone do BOF,0,2022,ErgoHestia
+S020102,C0010,R0870,Zobowiązania podporządkowane włączone do BOF,389 486,2022,ErgoHestia
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),119 508,2022,ErgoHestia
+S020102,C0010,R0900,Zobowiązania ogółem,8 750 385,2022,ErgoHestia
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,2 339 584,2022,ErgoHestia
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2023,ErgoHestia
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2023,ErgoHestia
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2023,ErgoHestia
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",476 305,2023,ErgoHestia
+S020102,C0010,R0070,"Lokaty (inne niż aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",10 210 586,2023,ErgoHestia
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),1 810,2023,ErgoHestia
+S020102,C0010,R0090,"Udziały w zakładach powiązanych, w tym udziały kapitałowe",155 135,2023,ErgoHestia
+S020102,C0010,R0100,Akcje i udziały,0,2023,ErgoHestia
+S020102,C0010,R0110,Akcje i udziały – notowane,0,2023,ErgoHestia
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2023,ErgoHestia
+S020102,C0010,R0130,Obligacje,9 746 539,2023,ErgoHestia
+S020102,C0010,R0140,Obligacje państwowe,8 538 700,2023,ErgoHestia
+S020102,C0010,R0150,Obligacje korporacyjne,1 207 838,2023,ErgoHestia
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2023,ErgoHestia
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2023,ErgoHestia
+S020102,C0010,R0180,Przedsiębiorstwa zbiorowego inwestowania,154 790,2023,ErgoHestia
+S020102,C0010,R0190,Instrumenty pochodne,0,2023,ErgoHestia
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,152 312,2023,ErgoHestia
+S020102,C0010,R0210,Pozostałe lokaty,0,2023,ErgoHestia
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",0,2023,ErgoHestia
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,304 540,2023,ErgoHestia
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2023,ErgoHestia
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2023,ErgoHestia
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,304 540,2023,ErgoHestia
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji z tytułu:,1 167 084,2023,ErgoHestia
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 025 001,2023,ErgoHestia
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,1 024 706,2023,ErgoHestia
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,295,2023,ErgoHestia
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",142 083,2023,ErgoHestia
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,0,2023,ErgoHestia
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",142 083,2023,ErgoHestia
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2023,ErgoHestia
+S020102,C0010,R0350,Depozyty u cedentów,0,2023,ErgoHestia
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,358 128,2023,ErgoHestia
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,52 581,2023,ErgoHestia
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",56 933,2023,ErgoHestia
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2023,ErgoHestia
+S020102,C0010,R0400,"Kwoty należne w odniesieniu do pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone",0,2023,ErgoHestia
+S020102,C0010,R0410,Środki pieniężne i ich ekwiwalenty,18 703,2023,ErgoHestia
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),49 115,2023,ErgoHestia
+S020102,C0010,R0500,Aktywa ogółem,12 693 976,2023,ErgoHestia
+S020102,C0010,R0510,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,7 462 446,2023,ErgoHestia
+S020102,C0010,R0520,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),7 402 519,2023,ErgoHestia
+S020102,C0010,R0530,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2023,ErgoHestia
+S020102,C0010,R0540,Najlepsze oszacowanie,7 278 560,2023,ErgoHestia
+S020102,C0010,R0550,Margines ryzyka,123 959,2023,ErgoHestia
+S020102,C0010,R0560,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),59 927,2023,ErgoHestia
+S020102,C0010,R0570,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2023,ErgoHestia
+S020102,C0010,R0580,Najlepsze oszacowanie,58 465,2023,ErgoHestia
+S020102,C0010,R0590,Margines ryzyka,1 462,2023,ErgoHestia
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",796 915,2023,ErgoHestia
+S020102,C0010,R0610,Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2023,ErgoHestia
+S020102,C0010,R0620,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2023,ErgoHestia
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2023,ErgoHestia
+S020102,C0010,R0640,Margines ryzyka,0,2023,ErgoHestia
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",796 915,2023,ErgoHestia
+S020102,C0010,R0660,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2023,ErgoHestia
+S020102,C0010,R0670,Najlepsze oszacowanie,770 002,2023,ErgoHestia
+S020102,C0010,R0680,Margines ryzyka,26 912,2023,ErgoHestia
+S020102,C0010,R0690,"Rezerwy techniczno–ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia związane z ubezpieczeniowym funduszem kapitałowym",0,2023,ErgoHestia
+S020102,C0010,R0700,Rezerwy techniczno–ubezpieczeniowe obliczane łącznie,0,2023,ErgoHestia
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2023,ErgoHestia
+S020102,C0010,R0720,Margines ryzyka,0,2023,ErgoHestia
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2023,ErgoHestia
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż techniczno–ubezpieczeniowe),75 419,2023,ErgoHestia
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,3 741,2023,ErgoHestia
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2023,ErgoHestia
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,433 232,2023,ErgoHestia
+S020102,C0010,R0790,Instrumenty pochodne,0,2023,ErgoHestia
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2023,ErgoHestia
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,229 025,2023,ErgoHestia
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,127 466,2023,ErgoHestia
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,303 564,2023,ErgoHestia
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",262 669,2023,ErgoHestia
+S020102,C0010,R0850,Zobowiązania podporządkowane,217 291,2023,ErgoHestia
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,0,2023,ErgoHestia
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,217 291,2023,ErgoHestia
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),0,2023,ErgoHestia
+S020102,C0010,R0900,Zobowiązania ogółem,9 911 768,2023,ErgoHestia
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,2 782 207,2023,ErgoHestia
+S020102,C0010,R0030,Wartości niematerialne i prawne,0,2019,Generali
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2019,Generali
+S020102,C0010,R0050,Nadwyżka na funduszu świadczeń emerytalnych,0,2019,Generali
+S020102,C0010,R0060,"Nieruchomości, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",18 778,2019,Generali
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",3 015 928,2019,Generali
+S020102,C0010,R0080,Nieruchomości (inne niż do użytku własnego),0,2019,Generali
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",252 704,2019,Generali
+S020102,C0010,R0100,Akcje i udziały,26 104,2019,Generali
+S020102,C0010,R0110,Akcje i udziały – notowane,26 104,2019,Generali
+S020102,C0010,R0120,Akcje i udziały – nienotowane,0,2019,Generali
+S020102,C0010,R0130,Dłużne papiery wartościowe,2 636 148,2019,Generali
+S020102,C0010,R0140,Obligacje państwowe,2 402 466,2019,Generali
+S020102,C0010,R0150,Obligacje korporacyjne,233 683,2019,Generali
+S020102,C0010,R0160,Strukturyzowane papiery wartościowe,0,2019,Generali
+S020102,C0010,R0170,Zabezpieczone papiery wartościowe,0,2019,Generali
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,48 575,2019,Generali
+S020102,C0010,R0190,Instrumenty pochodne,332,2019,Generali
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty środków pieniężnych,52 066,2019,Generali
+S020102,C0010,R0210,Pozostałe lokaty,0,2019,Generali
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2019,Generali
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2019,Generali
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2019,Generali
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2019,Generali
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2019,Generali
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających z:,703 524,2019,Generali
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,546 567,2019,Generali
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),542 666,2019,Generali
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,3 902,2019,Generali
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",156 956,2019,Generali
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2019,Generali
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",156 956,2019,Generali
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",0,2019,Generali
+S020102,C0010,R0350,Depozyty u cedentów,0,2019,Generali
+S020102,C0010,R0360,Należności z tytułu ubezpieczeń i od pośredników ubezpieczeniowych,88 229,2019,Generali
+S020102,C0010,R0370,Należności z tytułu reasekuracji biernej,117 444,2019,Generali
+S020102,C0010,R0380,"Pozostałe należności (handlowe, inne niż z działalności ubezpieczeniowej)",7 715,2019,Generali
+S020102,C0010,R0390,Akcje własne (posiadane bezpośrednio),0,2019,Generali
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji środków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone.",0,2019,Generali
+S020102,C0010,R0410,Środki pieniężne i ekwiwalenty środków pieniężnych,5 795,2019,Generali
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),3 380,2019,Generali
+S020102,C0010,R0500,Aktywa ogółem,3 960 792,2019,Generali
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,2 289 262,2019,Generali
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),2 243 744,2019,Generali
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Generali
+S020102,C0010,R0540,Najlepsze oszacowanie,2 101 230,2019,Generali
+S020102,C0010,R0550,Margines ryzyka,142 514,2019,Generali
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),45 517,2019,Generali
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Generali
+S020102,C0010,R0580,Najlepsze oszacowanie,43 812,2019,Generali
+S020102,C0010,R0590,Margines ryzyka,1 706,2019,Generali
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",394 530,2019,Generali
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2019,Generali
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Generali
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2019,Generali
+S020102,C0010,R0640,Margines ryzyka,0,2019,Generali
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",394 530,2019,Generali
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Generali
+S020102,C0010,R0670,Najlepsze oszacowanie,382 023,2019,Generali
+S020102,C0010,R0680,Margines ryzyka,12 508,2019,Generali
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których świadczenie jest ustalane w oparciu o określone indeksy lub inne wartości bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",0,2019,Generali
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2019,Generali
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2019,Generali
+S020102,C0010,R0720,Margines ryzyka,0,2019,Generali
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2019,Generali
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),25 710,2019,Generali
+S020102,C0010,R0760,Zobowiązania z tytułu świadczeń emerytalnych dla pracowników,973,2019,Generali
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2019,Generali
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,46 769,2019,Generali
+S020102,C0010,R0790,Instrumenty pochodne,0,2019,Generali
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2019,Generali
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,10 276,2019,Generali
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec pośredników ubezpieczeniowych,161 354,2019,Generali
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,20 942,2019,Generali
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalności ubezpieczeniowej)",14 199,2019,Generali
+S020102,C0010,R0850,Zobowiązania podporządkowane,101 296,2019,Generali
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych środkach własnych,1 608,2019,Generali
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych środkach własnych,99 688,2019,Generali
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),42 408,2019,Generali
+S020102,C0010,R0900,Zobowiązania ogółem,3 107 719,2019,Generali
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,853 073,2019,Generali
+S020102,C0010,R0030,Warto(cid:286)ci niematerialne i prawne,0,2020,Generali
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2020,Generali
+S020102,C0010,R0050,Nadwyżka na funduszu (cid:286)wiadczeń emerytalnych,0,2020,Generali
+S020102,C0010,R0060,"Nieruchomo(cid:286)ci, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",17 627,2020,Generali
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",3 374 512,2020,Generali
+S020102,C0010,R0080,Nieruchomo(cid:286)ci (inne niż do użytku własnego),0,2020,Generali
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",258 007,2020,Generali
+S020102,C0010,R0100,Akcje i udziały,29 198,2020,Generali
+S020102,C0010,R0110,Akcje i udziały – notowane,27 787,2020,Generali
+S020102,C0010,R0120,Akcje i udziały – nienotowane,1 410,2020,Generali
+S020102,C0010,R0130,Dłużne papiery warto(cid:286)ciowe,2 889 900,2020,Generali
+S020102,C0010,R0140,Obligacje państwowe,2 386 830,2020,Generali
+S020102,C0010,R0150,Obligacje korporacyjne,503 070,2020,Generali
+S020102,C0010,R0160,Strukturyzowane papiery warto(cid:286)ciowe,0,2020,Generali
+S020102,C0010,R0170,Zabezpieczone papiery warto(cid:286)ciowe,0,2020,Generali
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,166 619,2020,Generali
+S020102,C0010,R0190,Instrumenty pochodne,114,2020,Generali
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty (cid:286)rodków pieniężnych,30 674,2020,Generali
+S020102,C0010,R0210,Pozostałe lokaty,0,2020,Generali
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2020,Generali
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2020,Generali
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2020,Generali
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2020,Generali
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2020,Generali
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających zŚ,604 224,2020,Generali
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,449 296,2020,Generali
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),447 775,2020,Generali
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 522,2020,Generali
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",154 928,2020,Generali
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2020,Generali
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",154 928,2020,Generali
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",0,2020,Generali
+S020102,C0010,R0350,Depozyty u cedentów,0,2020,Generali
+S020102,C0010,R0360,Należno(cid:286)ci z tytułu ubezpieczeń i od po(cid:286)redników ubezpieczeniowych,45 634,2020,Generali
+S020102,C0010,R0370,Należno(cid:286)ci z tytułu reasekuracji biernej,359 765,2020,Generali
+S020102,C0010,R0380,"Pozostałe należno(cid:286)ci (handlowe, inne niż z działalno(cid:286)ci ubezpieczeniowej)",6 072,2020,Generali
+S020102,C0010,R0390,Akcje własne (posiadane bezpo(cid:286)rednio),0,2020,Generali
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji (cid:286)rodków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone.",0,2020,Generali
+S020102,C0010,R0410,(cid:285)rodki pieniężne i ekwiwalenty (cid:286)rodków pieniężnych,6 872,2020,Generali
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),4 163,2020,Generali
+S020102,C0010,R0500,Aktywa ogółem,4 418 869,2020,Generali
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,2 434 006,2020,Generali
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),2 388 099,2020,Generali
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Generali
+S020102,C0010,R0540,Najlepsze oszacowanie,2 229 766,2020,Generali
+S020102,C0010,R0550,Margines ryzyka,158 332,2020,Generali
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),45 908,2020,Generali
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Generali
+S020102,C0010,R0580,Najlepsze oszacowanie,43 436,2020,Generali
+S020102,C0010,R0590,Margines ryzyka,2 472,2020,Generali
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",446 639,2020,Generali
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2020,Generali
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Generali
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2020,Generali
+S020102,C0010,R0640,Margines ryzyka,0,2020,Generali
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",446 639,2020,Generali
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Generali
+S020102,C0010,R0670,Najlepsze oszacowanie,431 203,2020,Generali
+S020102,C0010,R0680,Margines ryzyka,15 436,2020,Generali
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",0,2020,Generali
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2020,Generali
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2020,Generali
+S020102,C0010,R0720,Margines ryzyka,0,2020,Generali
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2020,Generali
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),27 065,2020,Generali
+S020102,C0010,R0760,Zobowiązania z tytułu (cid:286)wiadczeń emerytalnych dla pracowników,1 268,2020,Generali
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2020,Generali
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,29 551,2020,Generali
+S020102,C0010,R0790,Instrumenty pochodne,2 436,2020,Generali
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2020,Generali
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,3 541,2020,Generali
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec po(cid:286)redników ubezpieczeniowych,141 694,2020,Generali
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,33 835,2020,Generali
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalno(cid:286)ci ubezpieczeniowej)",20 394,2020,Generali
+S020102,C0010,R0850,Zobowiązania podporządkowane,101 254,2020,Generali
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych (cid:286)rodkach własnych,1 213,2020,Generali
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych (cid:286)rodkach własnych,100 042,2020,Generali
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),64 592,2020,Generali
+S020102,C0010,R0900,Zobowiązania ogółem,3 306 274,2020,Generali
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,1 112 595,2020,Generali
+S020102,C0010,R0030,Warto(cid:286)ci niematerialne i prawne,0,2021,Generali
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2021,Generali
+S020102,C0010,R0050,Nadwyżka na funduszu (cid:286)wiadczeń emerytalnych,0,2021,Generali
+S020102,C0010,R0060,"Nieruchomo(cid:286)ci, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",36 846,2021,Generali
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",3 934 390,2021,Generali
+S020102,C0010,R0080,Nieruchomo(cid:286)ci (inne niż do użytku własnego),0,2021,Generali
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",264 397,2021,Generali
+S020102,C0010,R0100,Akcje i udziały,95 710,2021,Generali
+S020102,C0010,R0110,Akcje i udziały – notowane,86 626,2021,Generali
+S020102,C0010,R0120,Akcje i udziały – nienotowane,9 084,2021,Generali
+S020102,C0010,R0130,Dłużne papiery warto(cid:286)ciowe,3 328 424,2021,Generali
+S020102,C0010,R0140,Obligacje państwowe,2 842 889,2021,Generali
+S020102,C0010,R0150,Obligacje korporacyjne,485 535,2021,Generali
+S020102,C0010,R0160,Strukturyzowane papiery warto(cid:286)ciowe,0,2021,Generali
+S020102,C0010,R0170,Zabezpieczone papiery warto(cid:286)ciowe,0,2021,Generali
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,182 494,2021,Generali
+S020102,C0010,R0190,Instrumenty pochodne,522,2021,Generali
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty (cid:286)rodków pieniężnych,62 844,2021,Generali
+S020102,C0010,R0210,Pozostałe lokaty,0,2021,Generali
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2021,Generali
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2021,Generali
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2021,Generali
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2021,Generali
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2021,Generali
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających zŚ,568 202,2021,Generali
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,415 674,2021,Generali
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),412 471,2021,Generali
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,3 203,2021,Generali
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",152 528,2021,Generali
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2021,Generali
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",152 528,2021,Generali
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",0,2021,Generali
+S020102,C0010,R0350,Depozyty u cedentów,0,2021,Generali
+S020102,C0010,R0360,Należno(cid:286)ci z tytułu ubezpieczeń i od po(cid:286)redników ubezpieczeniowych,68 539,2021,Generali
+S020102,C0010,R0370,Należno(cid:286)ci z tytułu reasekuracji biernej,141 730,2021,Generali
+S020102,C0010,R0380,"Pozostałe należno(cid:286)ci (handlowe, inne niż z działalno(cid:286)ci ubezpieczeniowej)",37 824,2021,Generali
+S020102,C0010,R0390,Akcje własne (posiadane bezpo(cid:286)rednio),0,2021,Generali
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji (cid:286)rodków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone.",0,2021,Generali
+S020102,C0010,R0410,(cid:285)rodki pieniężne i ekwiwalenty (cid:286)rodków pieniężnych,45 651,2021,Generali
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),3 131,2021,Generali
+S020102,C0010,R0500,Aktywa ogółem,4 836 313,2021,Generali
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,2 678 608,2021,Generali
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),2 620 874,2021,Generali
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Generali
+S020102,C0010,R0540,Najlepsze oszacowanie,2 470 483,2021,Generali
+S020102,C0010,R0550,Margines ryzyka,150 391,2021,Generali
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),57 734,2021,Generali
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Generali
+S020102,C0010,R0580,Najlepsze oszacowanie,55 872,2021,Generali
+S020102,C0010,R0590,Margines ryzyka,1 862,2021,Generali
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",438 821,2021,Generali
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2021,Generali
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Generali
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2021,Generali
+S020102,C0010,R0640,Margines ryzyka,0,2021,Generali
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",438 821,2021,Generali
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Generali
+S020102,C0010,R0670,Najlepsze oszacowanie,424 048,2021,Generali
+S020102,C0010,R0680,Margines ryzyka,14 774,2021,Generali
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",0,2021,Generali
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2021,Generali
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2021,Generali
+S020102,C0010,R0720,Margines ryzyka,0,2021,Generali
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2021,Generali
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),34 020,2021,Generali
+S020102,C0010,R0760,Zobowiązania z tytułu (cid:286)wiadczeń emerytalnych dla pracowników,1 901,2021,Generali
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2021,Generali
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,26 142,2021,Generali
+S020102,C0010,R0790,Instrumenty pochodne,185,2021,Generali
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2021,Generali
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,11 628,2021,Generali
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec po(cid:286)redników ubezpieczeniowych,171 786,2021,Generali
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,16 489,2021,Generali
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalno(cid:286)ci ubezpieczeniowej)",19 636,2021,Generali
+S020102,C0010,R0850,Zobowiązania podporządkowane,98 006,2021,Generali
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych (cid:286)rodkach własnych,1 259,2021,Generali
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych (cid:286)rodkach własnych,96 747,2021,Generali
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),81 512,2021,Generali
+S020102,C0010,R0900,Zobowiązania ogółem,3 578 733,2021,Generali
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,1 257 580,2021,Generali
+S020102,C0010,R0030,Warto(cid:286)ci niematerialne i prawne,0,2022,Generali
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,13 624,2022,Generali
+S020102,C0010,R0050,Nadwyżka na funduszu (cid:286)wiadczeń emerytalnych,0,2022,Generali
+S020102,C0010,R0060,"Nieruchomo(cid:286)ci, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",90 624,2022,Generali
+S020102,C0010,R0070,"Lokaty (inne niż aktywa dla ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i dla ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym)",3 689 818,2022,Generali
+S020102,C0010,R0080,Nieruchomo(cid:286)ci (inne niż do użytku własnego),0,2022,Generali
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",279 700,2022,Generali
+S020102,C0010,R0100,Akcje i udziały,19 920,2022,Generali
+S020102,C0010,R0110,Akcje i udziały – notowane,4 842,2022,Generali
+S020102,C0010,R0120,Akcje i udziały – nienotowane,15 078,2022,Generali
+S020102,C0010,R0130,Dłużne papiery warto(cid:286)ciowe,3 101 053,2022,Generali
+S020102,C0010,R0140,Obligacje państwowe,2 672 528,2022,Generali
+S020102,C0010,R0150,Obligacje korporacyjne,428 524,2022,Generali
+S020102,C0010,R0160,Strukturyzowane papiery warto(cid:286)ciowe,0,2022,Generali
+S020102,C0010,R0170,Zabezpieczone papiery warto(cid:286)ciowe,0,2022,Generali
+S020102,C0010,R0180,Jednostki uczestnictwa oraz certyfikaty inwestycyjne w przedsiębiorstwach zbiorowego inwestowania,166 704,2022,Generali
+S020102,C0010,R0190,Instrumenty pochodne,1 129,2022,Generali
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty (cid:286)rodków pieniężnych,121 312,2022,Generali
+S020102,C0010,R0210,Pozostałe lokaty,0,2022,Generali
+S020102,C0010,R0220,"Aktywa dla ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2022,Generali
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2022,Generali
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2022,Generali
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2022,Generali
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2022,Generali
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji dla zobowiązań wynikających zŚ,554 071,2022,Generali
+S020102,C0010,R0280,Ubezpieczenia inne niż ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,391 767,2022,Generali
+S020102,C0010,R0290,Ubezpieczeń innych niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),407 552,2022,Generali
+S020102,C0010,R0300,Ubezpieczenia zdrowotne o charakterze ubezpieczeń innych niż ubezpieczenia na życie,-15 785,2022,Generali
+S020102,C0010,R0310,"Ubezpieczenia na życie i ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie, z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",162 305,2022,Generali
+S020102,C0010,R0320,Ubezpieczenia zdrowotne o charakterze ubezpieczeń na życie,0,2022,Generali
+S020102,C0010,R0330,"Ubezpieczenia na życie z wyłączeniem ubezpieczeń zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",162 305,2022,Generali
+S020102,C0010,R0340,"Ubezpieczenia na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczenia na życie z ubezpieczeniowym funduszem kapitałowym",0,2022,Generali
+S020102,C0010,R0350,Depozyty u cedentów,0,2022,Generali
+S020102,C0010,R0360,Należno(cid:286)ci z tytułu ubezpieczeń i od po(cid:286)redników ubezpieczeniowych,118 127,2022,Generali
+S020102,C0010,R0370,Należno(cid:286)ci z tytułu reasekuracji biernej,211 102,2022,Generali
+S020102,C0010,R0380,"Pozostałe należno(cid:286)ci (handlowe, inne niż z działalno(cid:286)ci ubezpieczeniowej)",23 392,2022,Generali
+S020102,C0010,R0390,Akcje własne (posiadane bezpo(cid:286)rednio),0,2022,Generali
+S020102,C0010,R0400,"Kwoty należne, dotyczące pozycji (cid:286)rodków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone.",0,2022,Generali
+S020102,C0010,R0410,(cid:285)rodki pieniężne i ekwiwalenty (cid:286)rodków pieniężnych,42 819,2022,Generali
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),3 968,2022,Generali
+S020102,C0010,R0500,Aktywa ogółem,4 747 545,2022,Generali
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,2 658 745,2022,Generali
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),2 587 284,2022,Generali
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Generali
+S020102,C0010,R0540,Najlepsze oszacowanie,2 466 987,2022,Generali
+S020102,C0010,R0550,Margines ryzyka,120 297,2022,Generali
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),71 461,2022,Generali
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Generali
+S020102,C0010,R0580,Najlepsze oszacowanie,69 522,2022,Generali
+S020102,C0010,R0590,Margines ryzyka,1 939,2022,Generali
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",457 627,2022,Generali
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2022,Generali
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Generali
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2022,Generali
+S020102,C0010,R0640,Margines ryzyka,0,2022,Generali
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",457 627,2022,Generali
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Generali
+S020102,C0010,R0670,Najlepsze oszacowanie,442 479,2022,Generali
+S020102,C0010,R0680,Margines ryzyka,15 148,2022,Generali
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",0,2022,Generali
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2022,Generali
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2022,Generali
+S020102,C0010,R0720,Margines ryzyka,0,2022,Generali
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2022,Generali
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),32 785,2022,Generali
+S020102,C0010,R0760,Zobowiązania z tytułu (cid:286)wiadczeń emerytalnych dla pracowników,1 946,2022,Generali
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2022,Generali
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,0,2022,Generali
+S020102,C0010,R0790,Instrumenty pochodne,209,2022,Generali
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2022,Generali
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,59 195,2022,Generali
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec po(cid:286)redników ubezpieczeniowych,247 210,2022,Generali
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,35 447,2022,Generali
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalno(cid:286)ci ubezpieczeniowej)",20 696,2022,Generali
+S020102,C0010,R0850,Zobowiązania podporządkowane,102 704,2022,Generali
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych (cid:286)rodkach własnych,3 045,2022,Generali
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych (cid:286)rodkach własnych,99 659,2022,Generali
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),57 690,2022,Generali
+S020102,C0010,R0900,Zobowiązania ogółem,3 674 254,2022,Generali
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,1 073 291,2022,Generali
+S020102,C0010,R0030,Warto(cid:286)ci niematerialne i prawne,0,2023,Generali
+S020102,C0010,R0040,Aktywa z tytułu odroczonego podatku dochodowego,0,2023,Generali
+S020102,C0010,R0050,Nadwyżka na funduszu (cid:286)wiadczeń emerytalnych,0,2023,Generali
+S020102,C0010,R0060,"Nieruchomo(cid:286)ci, maszyny i wyposażenie (Rzeczowe aktywa trwałe) wykorzystywane na użytek własny",96 114,2023,Generali
+S020102,C0010,R0070,"Lokaty (inne niż aktywa posiadane z tytułu ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",3 970 816,2023,Generali
+S020102,C0010,R0080,Nieruchomo(cid:286)ci (inne niż do użytku własnego),0,2023,Generali
+S020102,C0010,R0090,"Udziały w jednostkach powiązanych, w tym udziały kapitałowe",249 096,2023,Generali
+S020102,C0010,R0100,Akcje i udziały,18 789,2023,Generali
+S020102,C0010,R0110,Akcje i udziały – notowane,122,2023,Generali
+S020102,C0010,R0120,Akcje i udziały – nienotowane,18 667,2023,Generali
+S020102,C0010,R0130,Obligacje,3 443 609,2023,Generali
+S020102,C0010,R0140,Obligacje państwowe,3 065 102,2023,Generali
+S020102,C0010,R0150,Obligacje korporacyjne,378 508,2023,Generali
+S020102,C0010,R0160,Strukturyzowane papiery warto(cid:286)ciowe,0,2023,Generali
+S020102,C0010,R0170,Zabezpieczone papiery warto(cid:286)ciowe,0,2023,Generali
+S020102,C0010,R0180,Przedsiębiorstwa zbiorowego inwestowania,182 575,2023,Generali
+S020102,C0010,R0190,Instrumenty pochodne,4 808,2023,Generali
+S020102,C0010,R0200,Depozyty inne niż ekwiwalenty (cid:286)rodków pieniężnych,71 939,2023,Generali
+S020102,C0010,R0210,Pozostałe lokaty,0,2023,Generali
+S020102,C0010,R0220,"Aktywa posiadane z tytułu ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",0,2023,Generali
+S020102,C0010,R0230,Pożyczki i pożyczki zabezpieczone hipotecznie,0,2023,Generali
+S020102,C0010,R0240,Pożyczki pod zastaw polisy,0,2023,Generali
+S020102,C0010,R0250,Pożyczki i pożyczki zabezpieczone hipotecznie dla osób fizycznych,0,2023,Generali
+S020102,C0010,R0260,Pozostałe pożyczki i pożyczki zabezpieczone hipotecznie,0,2023,Generali
+S020102,C0010,R0270,Kwoty należne z umów reasekuracji z tytułuŚ,1 245 124,2023,Generali
+S020102,C0010,R0280,Innych niż ubezpieczenia na życie i zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,1 036 185,2023,Generali
+S020102,C0010,R0290,Innych niż ubezpieczenia na życie z wyłączeniem zdrowotnych,1 013 292,2023,Generali
+S020102,C0010,R0300,Zdrowotnych o charakterze ubezpieczeń innych niż ubezpieczenia na życie,22 893,2023,Generali
+S020102,C0010,R0310,"Na życie i zdrowotnych o charakterze ubezpieczeń na życie, z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",208 939,2023,Generali
+S020102,C0010,R0320,Zdrowotnych o charakterze ubezpieczeń na życie,0,2023,Generali
+S020102,C0010,R0330,"Na życie z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym",208 939,2023,Generali
+S020102,C0010,R0340,"Ubezpieczeń na życie, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń na życie związanych z ubezpieczeniowym funduszem kapitałowym",0,2023,Generali
+S020102,C0010,R0350,Depozyty u cedentów,0,2023,Generali
+S020102,C0010,R0360,Należno(cid:286)ci z tytułu ubezpieczeń i od po(cid:286)redników ubezpieczeniowych,132 184,2023,Generali
+S020102,C0010,R0370,Należno(cid:286)ci z tytułu reasekuracji biernej,392 030,2023,Generali
+S020102,C0010,R0380,"Pozostałe należno(cid:286)ci (handlowe, inne niż z działalno(cid:286)ci ubezpieczeniowej)",30 596,2023,Generali
+S020102,C0010,R0390,Akcje własne (posiadane bezpo(cid:286)rednio),0,2023,Generali
+S020102,C0010,R0400,"Kwoty należne w odniesieniu do pozycji (cid:286)rodków własnych lub kapitału założycielskiego, do których opłacenia wezwano, ale które nie zostały jeszcze opłacone.",0,2023,Generali
+S020102,C0010,R0410,(cid:285)rodki pieniężne i ich ekwiwalenty,44 836,2023,Generali
+S020102,C0010,R0420,Pozostałe aktywa (niewykazane w innych pozycjach),8 458,2023,Generali
+S020102,C0010,R0500,Aktywa ogółem,5 920 157,2023,Generali
+S020102,C0010,R0510,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie,2 919 864,2023,Generali
+S020102,C0010,R0520,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia inne niż ubezpieczenia na życie (z wyłączeniem zdrowotnych),2 823 924,2023,Generali
+S020102,C0010,R0530,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Generali
+S020102,C0010,R0540,Najlepsze oszacowanie,2 691 772,2023,Generali
+S020102,C0010,R0550,Margines ryzyka,132 152,2023,Generali
+S020102,C0010,R0560,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń innych niż ubezpieczenia na życie),95 940,2023,Generali
+S020102,C0010,R0570,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Generali
+S020102,C0010,R0580,Najlepsze oszacowanie,94 019,2023,Generali
+S020102,C0010,R0590,Margines ryzyka,1 921,2023,Generali
+S020102,C0010,R0600,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",544 069,2023,Generali
+S020102,C0010,R0610,Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia zdrowotne (o charakterze ubezpieczeń na życie),0,2023,Generali
+S020102,C0010,R0620,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Generali
+S020102,C0010,R0630,Najlepsze oszacowanie,0,2023,Generali
+S020102,C0010,R0640,Margines ryzyka,0,2023,Generali
+S020102,C0010,R0650,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia na życie (z wyłączeniem zdrowotnych oraz ubezpieczeń, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczeń z ubezpieczeniowym funduszem kapitałowym)",544 069,2023,Generali
+S020102,C0010,R0660,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Generali
+S020102,C0010,R0670,Najlepsze oszacowanie,525 320,2023,Generali
+S020102,C0010,R0680,Margines ryzyka,18 749,2023,Generali
+S020102,C0010,R0690,"Rezerwy techniczno-ubezpieczeniowe – ubezpieczenia, w których (cid:286)wiadczenie jest ustalane w oparciu o okre(cid:286)lone indeksy lub inne warto(cid:286)ci bazowe, i ubezpieczenia z ubezpieczeniowym funduszem kapitałowym",0,2023,Generali
+S020102,C0010,R0700,Rezerwy techniczno-ubezpieczeniowe obliczane łącznie,0,2023,Generali
+S020102,C0010,R0710,Najlepsze oszacowanie,0,2023,Generali
+S020102,C0010,R0720,Margines ryzyka,0,2023,Generali
+S020102,C0010,R0740,Zobowiązania warunkowe,0,2023,Generali
+S020102,C0010,R0750,Pozostałe rezerwy (inne niż rezerwy techniczno-ubezpieczeniowe),38 556,2023,Generali
+S020102,C0010,R0760,Zobowiązania z tytułu (cid:286)wiadczeń emerytalnych dla pracowników,2 081,2023,Generali
+S020102,C0010,R0770,Zobowiązania z tytułu depozytów zakładów reasekuracji,0,2023,Generali
+S020102,C0010,R0780,Rezerwy z tytułu odroczonego podatku dochodowego,5 158,2023,Generali
+S020102,C0010,R0790,Instrumenty pochodne,219,2023,Generali
+S020102,C0010,R0800,Zobowiązania wobec instytucji kredytowych,0,2023,Generali
+S020102,C0010,R0810,Zobowiązania finansowe inne niż zobowiązania wobec instytucji kredytowych,56 045,2023,Generali
+S020102,C0010,R0820,Zobowiązania z tytułu ubezpieczeń i wobec po(cid:286)redników ubezpieczeniowych,287 993,2023,Generali
+S020102,C0010,R0830,Zobowiązania z tytułu reasekuracji biernej,847 466,2023,Generali
+S020102,C0010,R0840,"Pozostałe zobowiązania (handlowe, inne niż z tytułu działalno(cid:286)ci ubezpieczeniowej)",27 751,2023,Generali
+S020102,C0010,R0850,Zobowiązania podporządkowane,102 454,2023,Generali
+S020102,C0010,R0860,Zobowiązania podporządkowane nieuwzględnione w podstawowych (cid:286)rodkach własnych,2 561,2023,Generali
+S020102,C0010,R0870,Zobowiązania podporządkowane uwzględnione w podstawowych (cid:286)rodkach własnych,99 892,2023,Generali
+S020102,C0010,R0880,Pozostałe zobowiązania (niewykazane w innych pozycjach),53 591,2023,Generali
+S020102,C0010,R0900,Zobowiązania ogółem,4 885 248,2023,Generali
+S020102,C0010,R1000,Nadwyżka aktywów nad zobowiązaniami,1 034 910,2023,Generali
